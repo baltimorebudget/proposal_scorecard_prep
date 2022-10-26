@@ -1,0 +1,127 @@
+library(tidyverse)
+library(rio)
+
+source("G:/Analyst Folders/Lillian/- R/bbmr_functions.R")
+
+services <- httr::POST("https://api.resultsscorecard.com/api/programs/list", 
+                   body = 
+                     list(siteCode = "OutcomeStat",
+                          apiKey = "j0R8z03kqCTC2I1cSQLkwLJLjqtenbQUOgpHpGyCsbwtlLOANlndAMuJNgIHXAoVeIBRshROormCYo7hPSSg1Q=="),
+                   encode = "json") %>%
+  content() %>%
+  toJSON() %>%
+  fromJSON()
+
+dollars <- list(
+  fy19 = import("G:/Fiscal Years/Historical Data/Single Year Data/FY19 Actual DRAFT.xlsx") %>%
+    mutate(`Fund Name` = ifelse(`Fund Name` == "General", "General", "Other")) %>%
+    group_by(`Fund Name`, `Service ID` = `Program ID`) %>%
+    summarize(`FY19 Actual` = sum(`YTD EXP`, na.rm = TRUE)),
+  fy20 = import("G:/Fiscal Years/Fiscal 2020/Projections Year/1. July 1 Prepwork/FY20 Appropriation File with Appropriation Adjustments and Carry Forwards.xlsx") %>%
+    mutate_all(replace_na, 0) %>%
+    mutate(`Fund Name` = ifelse(`Fund Name` == "General", "General", "Other"),
+           `FY20 Adopted` = `FY20 BOE` + `FY20 Appropriation Adjustments`) %>%
+    group_by(`Fund Name`, `Service ID` = `Program Id`) %>%
+    summarize_at(vars(c("FY20 Adopted")), sum, na.rm = TRUE),
+  fy21 = import("G:/Fiscal Years/Fiscal 2021/Planning Year/1. CLS/1. Line Item Reports/CLS Run 11_10102019_FINAL.xlsx",
+                 which = "Details") %>%
+    mutate(`Fund Name` = ifelse(`Fund Name` == "General", "General", "Other")) %>%
+    group_by(`Fund Name`, `Service ID` = `Program Id`) %>%
+    summarize_at(vars(c("FY21 CLS")), sum, na.rm = TRUE)) %>%
+  map(mutate, `Service ID` = as.character(`Service ID`))
+
+dollars <- dollars$fy19 %>%
+  left_join(dollars$fy20, by = c("Fund Name", "Service ID"),
+            suffix = c(" FY19", " FY20")) %>%
+  left_join(dollars$fy21, by = c("Fund Name", "Service ID"))
+
+
+positions <- list(
+  fy19 = import("G:/Fiscal Years/Fiscal 2019/Projections Year/3. Monthly Position Data/Month 12_Jun Position File.xlsx", which = "FY19 POs All") %>%
+    filter(Funding == "Funded") %>%
+    rename(`Fund Name` = `Fund Description`, `Program ID` = `Program Id`),
+  fy20 = import("G:/Fiscal Years/Fiscal 2020/Projections Year/3. Monthly Position Data/Month 4_Oct Position.xlsx") %>%
+    filter(Funding == "Funded"),
+  fy21 = import("G:/Fiscal Years/Fiscal 2021/Planning Year/1. CLS/2. Position Reports/PositionsSalariesOpcs - CLS - 10102019_FINAL.xlsx", which = "FY21 - CLS Final") %>%
+    set_colnames(gsub("Id", "ID", tools::toTitleCase(tolower(names(.)))))) %>%
+  map(mutate, `Fund Name` = ifelse(`Fund Name` == "General", "General", "Other")) %>%
+  map(group_by, `Fund Name`, `Service ID` = `Program ID`) %>%
+  map(count) %>%
+  map(ungroup) %>%
+  map(mutate_at, vars(ends_with("ID")), as.character)
+
+positions <- positions$fy19 %>%
+  left_join(positions$fy20, by = c("Fund Name", "Service ID"),
+            suffix = c(" FY19", " FY20")) %>%
+  left_join(positions$fy21, by = c("Fund Name", "Service ID")) %>%
+  set_colnames(c("Fund Name", "Service ID", "FY19 Actual Pos", "FY20 Adopted Pos", "FY21 CLS Pos")) 
+
+final <- services %>%
+  select(-(createDate:modifiedBy), -primaryTag) %>% 
+  filter(!(grepl("(MOSS)|(Copy)", title)),
+         grepl("Service [0-9]{3}:", title)) %>%
+  mutate(`Service ID` = str_extract(title, "[0-9]{3}")) %>%
+  left_join(dollars) %>%
+  left_join(positions) %>%
+  filter(!is.na(`Fund Name`)) %>%
+  mutate_at(vars(c("id", "title")), as.character) %>%
+  complete(nesting(`Service ID`, id, title), `Fund Name`) %>%
+  mutate_all(replace_na, 0)
+
+total <- final %>%
+  ungroup() %>%
+  group_by(`Service ID`, id, title) %>%
+  summarize_if(is.numeric, sum, na.rm = TRUE) %>%
+  mutate(`Fund Name` = "Total")
+
+final %<>%
+  bind_rows(total) %>%
+  mutate_if(is.numeric, scales::comma) %>%
+  filter(`Service ID` != "656")
+
+x <- final %>%
+  distinct(`Service ID`) %>%
+  extract2("Service ID")
+
+out <- map(x, function(x) {
+  
+  df <- final %>%
+    filter(`Service ID` == x)
+  
+  out <- df %>%
+    distinct(id, title, `Service ID`) %>%
+    mutate(HTML = paste0("<p><em>For your reference, the Fiscal 2019 Actual, Fiscal 2020 Adopted, and Fiscal 2021 Current Level of Service (CLS) expenditure and position information have been populated below.</em></p><h4><strong>Fiscal 2019 Actual</strong></h4><table><tbody><tr><td>&nbsp;</td><td><strong>General Fund</strong></td><td><strong>Other Funds</strong></td><td><strong>Total</strong></td></tr><tr><td><strong>Expenditures</strong></td><td>",
+df$`FY19 Actual`[df$`Fund Name` == "General"],
+"</td><td>",
+df$`FY19 Actual`[df$`Fund Name` == "Other"],
+"</td><td>",
+df$`FY19 Actual`[df$`Fund Name` == "Total"], "</td></tr><tr><td><strong>Funded Full Time Positions</strong></td><td>",
+df$`FY19 Actual Pos`[df$`Fund Name` == "General"],
+"</td><td>",
+df$`FY19 Actual Pos`[df$`Fund Name` == "Other"],
+"</td><td>",
+df$`FY19 Actual Pos`[df$`Fund Name` == "Total"],
+"</td></tr></tbody></table><h4><strong>Fiscal 2020 Adopted Budget</strong></h4><table><tbody><tr><td>&nbsp;</td><td><strong>General Fund</strong></td><td><strong>Other Funds</strong></td><td><strong>Total</strong></td></tr><tr><td><strong>Expenditures</strong></td><td>",
+df$`FY20 Adopted`[df$`Fund Name` == "General"],
+"</td><td>",
+df$`FY20 Adopted`[df$`Fund Name` == "Other"],
+"</td><td>",
+df$`FY20 Adopted`[df$`Fund Name` == "Total"], 
+"</td></tr><tr><td><strong>Funded Full Time Positions</strong></td><td>", df$`FY20 Adopted Pos`[df$`Fund Name` == "General"], "</td><td>", df$`FY20 Adopted Pos`[df$`Fund Name` == "Other"], "</td><td>",
+df$`FY20 Adopted Pos`[df$`Fund Name` == "Total"],
+"</td></tr></tbody></table><h4><strong>Fiscal 2021 Current Level of Service Budget</strong></h4><table><tbody><tr><td>&nbsp;</td><td><strong>General Fund</strong></td><td><strong>Other Funds</strong></td><td><strong>Total</strong></td></tr><tr><td><strong>Expenditures</strong></td><td>",
+df$`FY21 CLS`[df$`Fund Name` == "General"],
+"</td><td>", df$`FY21 CLS`[df$`Fund Name` == "Other"],
+"</td><td>", df$`FY21 CLS`[df$`Fund Name` == "Total"],
+"</td></tr><tr><td><strong>Funded Full Time Positions</strong></td><td>",
+df$`FY21 CLS Pos`[df$`Fund Name` == "General"], "</td><td>",
+df$`FY21 CLS Pos`[df$`Fund Name` == "Other"], 
+"</td><td>",
+df$`FY21 CLS Pos`[df$`Fund Name` == "Total"],
+"</td></tr></tbody></table>"))
+}
+)
+
+out <- bind_rows(out)
+
+export(out, "scorecard_budget_info.csv")

@@ -1,0 +1,1013 @@
+Service ID,Service Name,Type,PMID,Priority Measure,2015,2016,2017,2018,2019,2020,FY 2015,FY 2016,FY 2017,FY 2018,FY 2019,FY 2020
+12908,Service 761: Development Oversight and Project Support,Efficiency,85342,% of recommendations on BMZA appeals submitted two days prior to hearing,0,0,0,0,0,0,80,80,80,80,80,85
+12908,Service 761: Development Oversight and Project Support,Efficiency,85343,% of assigned building permits reviewed within two business days,0,0,0,0,0,0,90,90,85,85,85,85
+12908,Service 761: Development Oversight and Project Support,Effectiveness,85344,% of subdivision reviews receiving Planning Commission review within 30 days,0,0,0,0,0,0,90,90,80,80,80,85
+12908,Service 761: Development Oversight and Project Support,Efficiency,85345,Average # of site plan review committee meetings required for plan approval,0,0,0,0,0,0,1.2,1.2,1.2,1.2,1.2,1.2
+12908,Service 761: Development Oversight and Project Support,Effectiveness,85346,% of Design Review permits reviewed within 10 days of referral,0,0,0,0,0,0,0,0,0,0,95,95
+12910,Service 763: Comprehensive Planning and Resource Management,Output,85333,# of map/data analysis requests fulfilled ,0,0,0,0,0,0,400,400,500,550,600,650
+12910,Service 763: Comprehensive Planning and Resource Management,Efficiency,85335,Average # of days for basic permit review,0,0,0,0,0,0,3,3,3,3,3,3
+12910,Service 763: Comprehensive Planning and Resource Management,Outcome,85336,% of INSPIRE Primary Walking Route improvements made before school opening day,0,0,0,0,0,0,80,80,80,80,80,75
+12910,Service 763: Comprehensive Planning and Resource Management,Output,85337,# of external stakeholders engaged,0,0,0,0,0,0,2500,2500,2500,6000,6000,6000
+12910,Service 763: Comprehensive Planning and Resource Management,Outcome,356862,# of plans adopted/accepted by Planning Commission ,0,0,0,5,4,5,0,0,0,0,0,0
+13669,Service 702: Accounts Payable,Effectiveness,92760,% of Invoices Paid in 30 days,100,100,100,100,100,70,0,0,0,0,0,0
+13669,Service 702: Accounts Payable,Efficiency,92761,Cycle Time to Pay Invoice,30,30,30,30,30,30,0,0,0,0,0,0
+13669,Service 702: Accounts Payable,Output,92762,# of Invoices Paid,135000,120000,120000,120000,120000,120000,0,0,0,0,0,0
+13671,Service 704: Accounting,Effectiveness,92752,# of Refunds Processed,20000,20000,16000,16000,16000,15706,0,0,0,0,0,0
+13671,Service 704: Accounting,Efficiency,92753,Average # of Days for Month-End Close,5,5,5,5,5,5,0,0,0,0,0,0
+13671,Service 704: Accounting,Output,92754,# of Transactions/Journal Entries (in millions),2700000,2700000,2600000,2600000,2600000,2600000,0,0,0,0,0,0
+13677,Service 608: Emergency Management,Outcome,92991,% of City agencies with a complete Continuity of Operations Plan (COOP),80,85,85,85,85,90,0,0,0,0,0,0
+13677,Service 608: Emergency Management,Outcome,94803,% of City residents with emergency preparedness kits,77,77,77,0,0,0,0,0,0,0,0,0
+13677,Service 608: Emergency Management,Effectiveness,94808,% of City Critical Infrastructure and Key Resources partners registered in the Baltimore Emergency Communications Network (BECON),95,100,100,100,100,100,0,0,0,0,0,0
+13677,Service 608: Emergency Management,Efficiency,94809,% of City personnel trained for National Incident Management System level,95,95,95,95,95,95,0,0,0,0,0,0
+13677,Service 608: Emergency Management,Output,94810,# of new volunteers trained in the Community Emergency Response Team (CERT) program,50,50,50,60,60,60,0,0,0,0,0,0
+13678,Service 609: Emergency Medical Services,Output,92835,# of reviewed electronic patient care reports (ePCRs),10000,10000,10000,10000,35000,35000,0,0,0,0,0,0
+13678,Service 609: Emergency Medical Services,Output,92836,# of EMS responses,150000,145000,155000,155000,185000,185000,0,0,0,0,0,0
+13678,Service 609: Emergency Medical Services,Effectiveness,92838,% EMS responses within 9 minutes,90,90,90,90,90,90,0,0,0,0,0,0
+13678,Service 609: Emergency Medical Services,Efficiency,92839,% of EMS fees collected versus total billable,0,0,0,0,69,69,0,0,0,0,0,0
+13678,Service 609: Emergency Medical Services,Effectiveness,388317,% of electronic patient care reports (ePCRs) completed,0,0,0,0,100,100,0,0,0,0,0,0
+13678,Service 609: Emergency Medical Services,Outcome,388318,% of patients surviving cardiac arrest,0,0,0,0,40,42,0,0,0,0,0,0
+13689,Service 727: Real Property Management,Efficiency,93011,% of service requests responded to within 5 business days,100,100,100,100,100,100,0,0,0,0,0,0
+13689,Service 727: Real Property Management,Outcome,93012,% of developer agreements submitted for inter-agency review within 7 business days,0,95,100,100,100,100,0,0,0,0,0,0
+13689,Service 727: Real Property Management,Effectiveness,93013,% of permits entered into the permit tracking system within 7 business days,0,95,90,100,100,100,0,0,0,0,0,0
+13689,Service 727: Real Property Management,Output,93014,# of permit applications entered into system and distributed for review,36000,36000,5000,5794,10000,10000,0,0,0,0,0,0
+13689,Service 727: Real Property Management,Outcome,98089,# of requests for address change processed,0,0,12000,11956,11956,6000,0,0,0,0,0,0
+13693,Service 303: Clinical Services,Outcome,92335,% of out-of-care persons with HIV linked to ongoing healthcare,70,70,75,75,75,75,0,0,0,0,0,0
+13693,Service 303: Clinical Services,Effectiveness,92336,% of actively infected TB patients who are receiving anti-tubercular medications,100,100,100,100,100,100,0,0,0,0,0,0
+13693,Service 303: Clinical Services,Output,92338,# of dental visits,2900,2900,2600,3000,3150,3150,0,0,0,0,0,0
+13693,Service 303: Clinical Services,Output,92339,# of client visits for STD services,16500,16500,18200,18500,19500,19200,0,0,0,0,0,0
+13693,Service 303: Clinical Services,Effectiveness,126563,% of contact investigations for eligible active TB cases initiated ,80,90,90,90,91,91,0,0,0,0,0,0
+13702,Service 716: Animal Services,Outcome,92407,"% of animals adopted, transferred to rescue organization, or returned to owners",80,80,82,85,90,90,0,0,0,0,0,0
+13702,Service 716: Animal Services,Outcome,92408,% of animal abuse cases forwarded to the State Attorney's Office for prosecution resulting in convictions,100,90,90,90,90,90,0,0,0,0,0,0
+13702,Service 716: Animal Services,Effectiveness,92409,% of top 5 priority service requests closed on time,95,95,95,95,100,100,0,0,0,0,0,0
+13702,Service 716: Animal Services,Output,92410,# of animals entering shelter,13000,10000,9500,9250,9250,9250,0,0,0,0,0,0
+13704,Service 718: Chronic Disease Prevention,Output,92401,# of clients taken into the Cardiovascular Disparities Initiative program,1200,1200,400,400,1000,1000,0,0,0,0,0,0
+13704,Service 718: Chronic Disease Prevention,Output,97078,# of unique Virtual Supermarket clients per fiscal year,340,400,650,650,6500,6500,0,0,0,0,0,0
+13704,Service 718: Chronic Disease Prevention,Output,97079,% of tobacco outlets checked for compliance with Baltimore City laws,0,80,50,50,70,70,0,0,0,0,0,0
+13704,Service 718: Chronic Disease Prevention,Effectiveness,97080,% of those screened identified as hypertensive,0,30,30,50,50,50,0,0,0,0,0,0
+13704,Service 718: Chronic Disease Prevention,Outcome,126574,% of tobacco outlets checked selling tobacco to minors,0,20,50,50,40,40,0,0,0,0,0,0
+13708,Service 723: Advocacy for Seniors,Effectiveness,92737,Average # of days Senior Care clients are enrolled to delay institutional placement,1095,1095,1095,912,950,1300,0,0,0,0,0,0
+13708,Service 723: Advocacy for Seniors,Effectiveness,92739,"% of complaints received by the Long-Term Care Ombudsman Program responded to within the specified time frame (5 days for non-emergency complaints, 24 hours for emergency complaints)",98,98,98,95,98,98,0,0,0,0,0,0
+13708,Service 723: Advocacy for Seniors,Output,92741,# of persons entering CARE services through Senior Information and Assistance Program,20509,20509,20509,21000,21000,21000,0,0,0,0,0,0
+13708,Service 723: Advocacy for Seniors,Output,98458,# of individual client contacts by State Health Insurance Assistance Program (SHIP),5000,5000,5000,3000,3000,3000,0,0,0,0,0,0
+13708,Service 723: Advocacy for Seniors,Output,98459,# of one-on-one counseling sessions delivered by State Health Insurance Assistance Program (SHIP),3580,3580,3580,3000,3000,3000,0,0,0,0,0,0
+13709,"Service 724:  	Direct Care and Support Planning",Effectiveness,92733,% of all guardianship appointments avoided during the year that the program determines were in the best interest of the client,58,66,66,66,70,70,0,0,0,0,0,0
+13709,"Service 724:  	Direct Care and Support Planning",Outcome,92738,% of nursing home applicants who were approved & transitioned back into the community via Medicaid Waiver and/or the Money Follows the Person Initiative within 6 months of application,25,25,25,25,25,25,0,0,0,0,0,0
+13709,"Service 724:  	Direct Care and Support Planning",Output,92740,# of applicants applying for Money Follows the Person Initiative,165,130,130,130,130,130,0,0,0,0,0,0
+13709,"Service 724:  	Direct Care and Support Planning",Output,98390,# of new guardianship appointments ,50,50,50,50,50,50,0,0,0,0,0,0
+13709,"Service 724:  	Direct Care and Support Planning",Outcome,98391,# of senior assisted living group home subsidy participants that transitioned into a nursing home,0,0,0,0,0,0,0,0,0,0,0,0
+13711,Service 593: Community Support Projects,Outcome,92500,"# of households that receive housing related services (housing/foreclosure prevention counseling, lead paint remediation, housing rehab, etc.)",5500,5850,6900,6000,6200,5600,0,0,0,0,0,0
+13711,Service 593: Community Support Projects,Outcome,92501,"# of persons who receive socio-economic services (health, economic development, senior services, education, employment and job training, literacy etc.)",20100,21500,23500,24500,26700,25500,0,0,0,0,0,0
+13711,Service 593: Community Support Projects,Effectiveness,92502,% of activities carried out by subrecipients and City agencies that met contractual goals.,96,97,97,97,97,97,0,0,0,0,0,0
+13711,Service 593: Community Support Projects,Output,98398,# of times subrecipients and City agencies are monitored against contractual goals,284,265,265,275,272,250,0,0,0,0,0,0
+13711,Service 593: Community Support Projects,Efficiency,398272,% of all monitoring review letters sent within 15 working days following an onsite programmatic or financial compliance review,0,0,0,0,80,80,0,0,0,0,0,0
+13712,Service 604-Before and After Care,Effectiveness,92496,% of children who begin the school ready to learn,60,100,90,90,90,90,0,0,0,0,0,0
+13712,Service 604-Before and After Care,Efficiency,92499,Average cost per child per year,4000,4000,4000,4000,4000,4000,0,0,0,0,0,0
+13712,Service 604-Before and After Care,Efficiency,185025,Participant school attendance rate,98,100,100,100,100,100,0,0,0,0,0,0
+13712,Service 604-Before and After Care,Output,398273,# of children served,0,0,0,0,0,71,0,0,0,0,0,0
+13712,Service 604-Before and After Care,Outcome,398274,% of capacity filled per year,0,0,0,0,0,90,0,0,0,0,0,0
+13714,Service 738: Weatherization,Output,92493,# of No Heat emergencies abated,250,250,100,50,50,13,0,0,0,0,0,0
+13714,Service 738: Weatherization,Output,92494,# of homes weatherized,1000,1000,600,300,300,350,0,0,0,0,0,0
+13714,Service 738: Weatherization,Efficiency,398387,Average cost per weatherization case,0,0,0,0,,0,0,0,0,0,0,0
+13714,Service 738: Weatherization,Effectiveness,398388,% of weatherization cases deferred (declined) due to failing housing conditions,0,0,0,0,70,70,0,0,0,0,0,0
+13714,Service 738: Weatherization,Output,398389,# of LIGHT applications processed,0,0,0,0,530,530,0,0,0,0,0,0
+13714,Service 738: Weatherization,Outcome,398390,Average yearly energy savings for clients receiving weatherization services,0,0,0,0,428050,428050,0,0,0,0,0,0
+13715,Service 740: Dawson Center,Output,92489,# of children served,75,75,200,200,200,200,0,0,0,0,0,0
+13715,Service 740: Dawson Center,Efficiency,185210,"Average cost per year, per child",0,3630,3000,3000,3000,3000,0,0,0,0,0,0
+13715,Service 740: Dawson Center,Effectiveness,185211,# of eligible children returning for service at start of school year,95,90,150,100,100,0,0,0,0,0,0,0
+13715,Service 740: Dawson Center,Effectiveness,185236,# of summer programs offered to reduce summer learning loss,0,5,6,6,6,7,0,0,0,0,0,0
+13720,"Service 749: Property Acquisition, Disposition, and Asset Management",Outcome,92468,% of properties sold that are under construction or have a use and occupancy permit,80,80,80,80,80,0,0,0,0,0,0,0
+13720,"Service 749: Property Acquisition, Disposition, and Asset Management",Effectiveness,92469,% of dispositions completed within 120 days,90,90,90,90,90,90,0,0,0,0,0,0
+13720,"Service 749: Property Acquisition, Disposition, and Asset Management",Efficiency,92470,Average # of days to complete acquisition of properties in focused project areas,365,365,365,365,365,0,0,0,0,0,0,0
+13720,"Service 749: Property Acquisition, Disposition, and Asset Management",Output,398298,# of property acquisitions completed in FY,0,0,0,0,400,400,0,0,0,0,0,0
+13720,"Service 749: Property Acquisition, Disposition, and Asset Management",Output,398299,# of resident relocations completed in FY,0,0,0,0,52,52,0,0,0,0,0,0
+13720,"Service 749: Property Acquisition, Disposition, and Asset Management",Output,398300,# of property dispositions completed in FY,0,0,0,0,180,180,0,0,0,0,0,0
+13722,Service 751: Building and Zoning Inspections and Permits,Effectiveness,92456,% of inspections scheduled for the next business day and completed that day,85,85,85,75,80,85,0,0,0,0,0,0
+13722,Service 751: Building and Zoning Inspections and Permits,Efficiency,92457,% of eligible permits processed and issued entirely online,100,25,25,75,90,90,0,0,0,0,0,0
+13722,Service 751: Building and Zoning Inspections and Permits,Output,92458,# of permits issued,32000,33000,33000,33000,33000,33000,0,0,0,0,0,0
+13722,Service 751: Building and Zoning Inspections and Permits,Output,97586,# of inspections,70000,70000,72000,72000,72000,75000,0,0,0,0,0,0
+13722,Service 751: Building and Zoning Inspections and Permits,Efficiency,97587,# of trade inspections per inspector per day,15,15,16,15,15,15,0,0,0,0,0,0
+13723,Service 752: Community Outreach Services,Output,92453,# of clients receiving assistance with sheltering,240,300,400,550,400,210,0,0,0,0,0,0
+13723,Service 752: Community Outreach Services,Outcome,98470,# of families housed through emergency services,220,200,225,250,250,121,0,0,0,0,0,0
+13723,Service 752: Community Outreach Services,Effectiveness,98471,# of households at risk of homelessness served each year,278,200,200,200,200,200,0,0,0,0,0,0
+13723,Service 752: Community Outreach Services,Output,398306,# of emergency responses per year,0,0,0,0,0,400,0,0,0,0,0,0
+13732,Service 772: Civil Service Management,Effectiveness,92201,Average # of working days to fill civil service vacancies,70,80,75,60,25,31,0,0,0,0,0,0
+13732,Service 772: Civil Service Management,Effectiveness,92202,% of classification and compensation project requests completed within deadline,97,95,95,95,95,95,0,0,0,0,0,0
+13732,Service 772: Civil Service Management,Output,99307,# of civil service assessments,0,15,16,20,12,7,0,0,0,0,0,0
+13733,Service 773: Learning and Development,Effectiveness,99309,% of MAPS covered employees trained in the new MAPS performance manangement program,0,90,90,90,90,90,0,0,0,0,0,0
+13733,Service 773: Learning and Development,Efficiency,99310,Revenue realized as a % of service operating costs,0,0,0,0,0,0,110,100,100,100,100,100
+13733,Service 773: Learning and Development,Output,126116,# of training participants,7500,3500,4000,4000,6000,6000,0,0,0,0,0,0
+13733,Service 773: Learning and Development,Effectiveness,126117,"% of new employees attending New Employee Orientation training ""satisfied"" or ""highly satisfied"" with experience",90,80,90,90,90,90,0,0,0,0,0,0
+14919,Service 899: Fair Conduct of Elections,Effectiveness,92883,# of complaints lodged by the public,40,30,30,30,20,20,0,0,0,0,0,0
+14919,Service 899: Fair Conduct of Elections,Efficiency,92884,% of voters utilizing early voting,0,16,25,35,37,37,0,0,0,0,0,0
+14919,Service 899: Fair Conduct of Elections,Effectiveness,92885,"# of election judges per 1,000 registered voters",0,1.14,1.15,1.15,1.15,1.15,0,0,0,0,0,0
+14919,Service 899: Fair Conduct of Elections,Output,92886,% of polling places that open on-time,100,100,100,100,100,100,0,0,0,0,0,0
+14919,Service 899: Fair Conduct of Elections,Outcome,92887,% Voter turnout,50,52,65,45,55,60,0,0,0,0,0,0
+14923,Service 152: ERS Administration,Output,97971,# of days to process service retirement ,0,30,30,30,30,30,0,0,0,0,0,0
+14923,Service 152: ERS Administration,Efficiency,97972,Average wait time  to respond to retirement inquiries ,0,30,30,30,30,30,0,0,0,0,0,0
+14923,Service 152: ERS Administration,Effectiveness,97973,% of members who received benefit on their retirement date,85,85,100,100,100,100,0,0,0,0,0,0
+14923,Service 152: ERS Administration,Effectiveness,97975,% of members using the Self service portal ,70,70,70,80,90,90,0,0,0,0,0,0
+14923,Service 152: ERS Administration,Outcome,97976,% of members rating customer service excellent or good,0,75,90,90,90,90,0,0,0,0,0,0
+14923,Service 152: ERS Administration,Outcome,409673,% Return on System's Assets,7.5,7.25,7.25,7.25,7,7,0,0,0,0,0,0
+14924,Service 154: F&P Retirement System,Outcome,97928,% of return on System's assets,0,7.75,7.5,7.25,7.25,7.25,0,0,0,0,0,0
+14924,Service 154: F&P Retirement System,Output,97929,# of days to provide written estimates of benefits to members upon request ,0,40,30,30,30,30,0,0,0,0,0,0
+14924,Service 154: F&P Retirement System,Efficiency,97932,% of accurate and timely payments to retired members and beneficiaries,0,98,100,100,100,100,0,0,0,0,0,0
+14925,Service 788: Information Services,Outcome,92878,% of Customers Rating Library Service Good to Excellent,80,80,70,70,0,0,0,0,0,0,0,0
+14925,Service 788: Information Services,Effectiveness,92879,# of Visits to the Library (in millions),1750000,1700000,1700000,1734000,1846000,2000000,0,0,0,0,0,0
+14925,Service 788: Information Services,Output,92881,# of Summer Learning participants,50000,50000,36600,36600,36600,37000,0,0,0,0,0,0
+14925,Service 788: Information Services,Output,92882,# of School Readiness program participants,54000,47000,46600,49000,55900,50000,0,0,0,0,0,0
+14925,Service 788: Information Services,Output,126581,# of Attendees of Computer Training Classes at Branch Technology Lab Centers,0,6220,6400,6500,6500,6500,0,0,0,0,0,0
+14925,Service 788: Information Services,Effectiveness,336392,% of Summer Challenge Reading Program Individual Registrants Who Complete the Program,0,0,0,42,44,45,0,0,0,0,0,0
+14926,Service 148: Revenue Collections,Effectiveness,92771,% of Service Requests Closed on Time,95,95,95,95,98,98,0,0,0,0,0,0
+14926,Service 148: Revenue Collections,Effectiveness,92772,Call Center Average Wait Time,7,5,7,7,9,9,0,0,0,0,0,0
+14926,Service 148: Revenue Collections,Effectiveness,92773,Collection % of Real Property Tax,96,96,97,97,97,97,0,0,0,0,0,0
+14926,Service 148: Revenue Collections,Efficiency,92774,$ per Payment Transaction,0.86,1,0.9,0.9,0.9,0.9,0,0,0,0,0,0
+14926,Service 148: Revenue Collections,Output,92775,# of Calls Requiring Assistance,300000,260000,270000,270000,300000,300000,0,0,0,0,0,0
+14927,Service 150: Treasury and Debt Management,Effectiveness,92768,Interest % on GO Bonds Issued,4,4,4.25,4.25,5.5,4.25,0,0,0,0,0,0
+14927,Service 150: Treasury and Debt Management,Output,92769,% Rate of Return on Short-Term (6-month) investments,0.2,0.25,0.3,0.65,1,2.1,0,0,0,0,0,0
+14927,Service 150: Treasury and Debt Management,Effectiveness,92770,% of Bond Payments Made on Time,100,100,100,100,100,100,0,0,0,0,0,0
+14929,Service 699: Procurement,Outcome,92763,# of Bids per Formal Solicitation,4,4,4,4,5,5,0,0,0,0,0,0
+14929,Service 699: Procurement,Effectiveness,92765,% of Purchase Orders Issued Meeting Benchmark Timeframes,93,90,90,90,90,90,0,0,0,0,0,0
+14929,Service 699: Procurement,Effectiveness,92766,# of Vendors Registered in CitiBuy,16000,17000,18000,18000,21000,22000,0,0,0,0,0,0
+14929,Service 699: Procurement,Output,92767,# of Purchase Orders Issued,21000,22000,23000,23000,24000,25000,0,0,0,0,0,0
+14929,Service 699: Procurement,Output,196467,# of Employees and City Vendors Trained,0,0,25,200,225,250,0,0,0,0,0,0
+14930,Service 700: Surplus Property Disposal,Outcome,196535,$ Generated Annually,350000,400000,450000,450000,550000,700000,0,0,0,0,0,0
+14930,Service 700: Surplus Property Disposal,Output,196988,# of Auctions Hosted,35,35,35,35,35,0,0,0,0,0,0,0
+14931,Service 701: Printing Services,Output,196475,# of Billable Jobs,0,0,0,0,0,0,15000,10000,10000,10000,10000,10000
+14931,Service 701: Printing Services,Efficiency,196476,% Cost Recovery,110,110,100,100,100,100,0,0,0,0,0,0
+14931,Service 701: Printing Services,Efficiency,196528,Average # of days for print job turnaround,10,10,10,10,10,10,0,0,0,0,0,0
+14932,Service 703: Payroll,Output,92756,# of Off-Cycle Checks,2400,2200,1400,1400,1400,1900,0,0,0,0,0,0
+14932,Service 703: Payroll,Efficiency,92757,$ per Check,2.35,2.35,2.4,2.5,2.5,2.6,0,0,0,0,0,0
+14932,Service 703: Payroll,Output,92758,# of Payroll Checks/Advices Issued,565000,560000,350000,350000,390000,390000,0,0,0,0,0,0
+14934,Service 708: Operating Budget Management,Outcome,92746,Annual $ saved from BBMR recommendations (in millions),3000000,3000000,2000000,2000000,2000000,2000000,0,0,0,0,0,0
+14934,Service 708: Operating Budget Management,Effectiveness,92747,Average # of days to approve requisition,2,2,2,2,2,2,0,0,0,0,0,0
+14934,Service 708: Operating Budget Management,Effectiveness,92748,Revenue Forecast Accuracy (% variance from budget),2,2,2,2,2,2,0,0,0,0,0,0
+14934,Service 708: Operating Budget Management,Effectiveness,97362,# of Residents engaged in annual budget planning process,0,0,0,2835,3000,3000,0,0,0,0,0,0
+14934,Service 708: Operating Budget Management,Effectiveness,201746,% of Results Team recommendations adopted in the Budget,0,0,0,80,80,100,0,0,0,0,0,0
+14935,Service 710: Fiscal Integrity and Recovery,Outcome,196416,$ Estimated Increase in Property Tax Revenue Attributable to Successful Appeals,0,0,0,0,0,0,0,0,0,1800000,1800000,2180000
+14935,Service 710: Fiscal Integrity and Recovery,Output,196530,# of Appraisals Completed,0,0,0,0,0,0,0,0,650,700,700,470
+14935,Service 710: Fiscal Integrity and Recovery,Efficiency,196531,# of Days from Request to Services Rendered for CHAP Tax Credit Valuations,0,0,0,0,0,0,0,0,7,7,5,5
+14935,Service 710: Fiscal Integrity and Recovery,Output,196532,# of Tax Credits Granted in the Tax Credit System,0,0,3692,3950,4539,4050,0,0,0,0,0,0
+14935,Service 710: Fiscal Integrity and Recovery,Effectiveness,196533,# of Tax Credit Applications Rejected or Revoked,0,0,0,0,0,0,0,0,30,35,40,45
+14936,Service 711: Finance Project Management,Output,97590,# of Functional Design Documents completed   ,8,2,2,2,4,3,0,0,0,0,0,0
+14936,Service 711: Finance Project Management,Output,97591,# of Systems transferred off mainframe,1,3,2,2,2,3,0,0,0,0,0,0
+14936,Service 711: Finance Project Management,Effectiveness,97592,# of software packages identified that meet 80 percent of the user requirements ,2,2,2,2,2,3,0,0,0,0,0,0
+14936,Service 711: Finance Project Management,Outcome,97593,% of Billing Systems removed from the mainframe or new systems       ,10,10,10,10,5,10,0,0,0,0,0,0
+14938,Service 602: Fire Suppression and Emergency Rescue,Outcome,92788,# of fatal fires per 100k residents,0,0,2,2,2,2,0,0,0,0,0,0
+14938,Service 602: Fire Suppression and Emergency Rescue,Efficiency,92789,% of responses with first engine on the scene within 5 minutes 20 seconds,92,90,90,90,90,90,0,0,0,0,0,0
+14938,Service 602: Fire Suppression and Emergency Rescue,Effectiveness,132057,% of fires that progress to a multiple alarm fire,0,2,2,2,2,2,0,0,0,0,0,0
+14938,Service 602: Fire Suppression and Emergency Rescue,Output,398330,# home safety inspections,0,0,0,0,10800,10800,0,0,0,0,0,0
+14939,Service 610: Community Education and Special Events,Output,92832,# of city and BOPA-sponsored events accomodated,0,0,0,0,8,8,0,0,0,0,0,0
+14939,Service 610: Community Education and Special Events,Output,92833,# of youth served through target life safety activities,0,0,0,0,32160,32160,0,0,0,0,0,0
+14939,Service 610: Community Education and Special Events,Output,389300,# of requests received for Fire and Life Safety Educational Programs,0,0,0,0,576,576,0,0,0,0,0,0
+14939,Service 610: Community Education and Special Events,Output,389302,# of non-city-sponsored events accommodated.,0,0,0,0,452,850,0,0,0,0,0,0
+14939,Service 610: Community Education and Special Events,Outcome,398331,# of instances when citizen CPR is attempted,0,0,0,0,,0,0,0,0,0,0,0
+14940,Service 611: Fire Code Enforcement,Output,398381, # of initial use and occupancy inspections,0,0,0,0,2736,2736,0,0,0,0,0,0
+14940,Service 611: Fire Code Enforcement,Efficiency,398382,% of special events permits approved within 5 business days of completed application being received in the OFM,0,0,0,0,95,95,0,0,0,0,0,0
+14940,Service 611: Fire Code Enforcement,Efficiency,398383,% of complaints (fire code violations) investigated within 5 business days,0,0,0,0,80,80,0,0,0,0,0,0
+14940,Service 611: Fire Code Enforcement,Efficiency,398384,% of Fire inspections completed within 10 business days received through CSR,0,0,0,0,75,75,0,0,0,0,0,0
+14940,Service 611: Fire Code Enforcement,Output,398385,% of plans received through electronic plans review system where initial review is completed within 30 business days,0,0,0,0,80,80,0,0,0,0,0,0
+14941,Service 612: Fire Investigation,Output,92825,# of fires investigated,480,480,480,460,460,460,0,0,0,0,0,0
+14941,Service 612: Fire Investigation,Effectiveness,398344,% of fires investigated in which fire cause was identified by fire investigation,0,0,0,0,50,50,0,0,0,0,0,0
+14941,Service 612: Fire Investigation,Outcome,398345,% of fires that are determined to be preventable,0,0,0,0,50,50,0,0,0,0,0,0
+14942,Service 613: Fire Facilities Maintenance and Replacement,Efficiency,92821,% of first line EMS transport units available (daily avg.),80,80,80,80,80,80,0,0,0,0,0,0
+14942,Service 613: Fire Facilities Maintenance and Replacement,Output,398339,% of ground ladders tested each year in compliance with NFPA 1932,0,0,0,100,100,100,0,0,0,0,0,0
+14942,Service 613: Fire Facilities Maintenance and Replacement,Output,398340,% of all issued turnout gear inspected and cleaned in compliance with NFPA 1851,0,0,0,0,90,90,0,0,0,0,0,0
+14942,Service 613: Fire Facilities Maintenance and Replacement,Output,398341,% of vehicle and apparatus that receive preventative maintenance as scheduled by Fleet Management,0,0,0,0,90,90,0,0,0,0,0,0
+14943,Service 614: Fire Communications and Dispatch,Effectiveness,92818,% of calls for service processed & dispatched within one minute,90,90,90,90,90,90,0,0,0,0,0,0
+14943,Service 614: Fire Communications and Dispatch,Outcome,92963,% of 911 calls compliant with customer service QA scores,100,100,100,100,100,100,0,0,0,0,0,0
+14943,Service 614: Fire Communications and Dispatch,Effectiveness,92965,% of emergency calls answered in 10 seconds or less,90,99,99,99,99,99,0,0,0,0,0,0
+14943,Service 614: Fire Communications and Dispatch,Outcome,398337,Average QA score for all calls dispatched and monitored.,0,0,0,0,90,90,0,0,0,0,0,0
+14943,Service 614: Fire Communications and Dispatch,Output,400743,# of Fire and EMS units response dispatched and monitored annually,0,0,0,0,348000,348000,0,0,0,0,0,0
+14944,Service 615: Fire Training and Education,Effectiveness,92813,# of vehicle collisions,208,210,210,210,260,260,0,0,0,0,0,0
+14944,Service 615: Fire Training and Education,Efficiency,92814,Training cost per EMT recruit graduate,9800,9800,9800,9800,9800,9800,0,0,0,0,0,0
+14944,Service 615: Fire Training and Education,Output,92816,# of line of duty injuries per 100 uniformed personnel,19,19,19,19,19,19,0,0,0,0,0,0
+14944,Service 615: Fire Training and Education,Output,92817,# of Insurance Service Office-eligible training hours per suppression officer per year (annual measure),0,10,10,10,10,20,0,0,0,0,0,0
+14944,Service 615: Fire Training and Education,Outcome,388316,% of high school program graduates employed with BCFD one year later,0,0,0,0,75,75,0,0,0,0,0,0
+14944,Service 615: Fire Training and Education,Output,400676,% of firefighters completing annual safety recertifications,0,0,0,0,80,80,0,0,0,0,0,0
+14945,Service 189: Fleet Management,Efficiency,398674,% of preventative maintenance work orders completed on time,0,0,0,0,0,82.16,0,0,0,0,0,0
+14945,Service 189: Fleet Management,Output,398751,total gallons of fuel purchased or consumed (in millions),0,0,0,0,0,3217709,0,0,0,0,0,0
+14945,Service 189: Fleet Management,Efficiency,398753,% of total costs spent on maintenance & repair outside of regular wear and tear,0,0,0,0,0,8.92,0,0,0,0,0,0
+14945,Service 189: Fleet Management,Effectiveness,398754,% of essential vehicles that met their availability requirements,0,0,0,0,0,100,0,0,0,0,0,0
+14945,Service 189: Fleet Management,Effectiveness,400722,% of maintenance repairs outside of scheduled preventative maintenance,0,0,0,0,0,14,0,0,0,0,0,0
+14948,Service 730: Public and Private Energy Performance,Outcome,93004,$ Saved and Revenue Generated from energy efficiency projects,21600000,22000000,19100000,20000000,19000000,21400000,0,0,0,0,0,0
+14948,Service 730: Public and Private Energy Performance,Efficiency,93005,$ Saved + Revenue / $ Invested (Return on Investment),2,1.8,1.83,1.85,1.9,1.81,0,0,0,0,0,0
+14948,Service 730: Public and Private Energy Performance,Effectiveness,93006,Community Energy Needs Supplied by Savings (# of homes),6856,7111,9074,10000,7500,8854,0,0,0,0,0,0
+14948,Service 730: Public and Private Energy Performance,Output,93007,Annual Energy Savings from Energy Office Initiatives (million kWh),66,68,87,90,71,85,0,0,0,0,0,0
+14948,Service 730: Public and Private Energy Performance,Efficiency,126896,% of City government usage from renewable sources,0,13.22,13.22,6.25,6,6,0,0,0,0,0,0
+14949,Service 731: Facilities Management,Outcome,92999,% of customers satisfied or very satisfied with service responsiveness,0,0,83,80,80,78,0,0,0,0,0,0
+14949,Service 731: Facilities Management,Effectiveness,93001,% of work orders closed on time,76.2,79,81,80,80,69,0,0,0,0,0,0
+14949,Service 731: Facilities Management,Efficiency,93002,Total Cost of Ownership (TCO) per square feet,8,8,9,8,7.56,7.71,0,0,0,0,0,0
+14949,Service 731: Facilities Management,Effectiveness,126800,% of preventative maintenance out of total work orders,0,20,37,48.2,59,75,0,0,0,0,0,0
+14949,Service 731: Facilities Management,Efficiency,398755,% of preventative maintenance work orders completed on time,0,0,0,0,0,67,0,0,0,0,0,0
+14950,Service 305: Healthy Homes,Outcome,92437,% of children with reduced asthma-related ER visits following home visit,95,95,95,95,95,95,0,0,0,0,0,0
+14950,Service 305: Healthy Homes,Effectiveness,92438,% of unwell children in asthma program whose symptoms improved,85,80,80,80,80,80,0,0,0,0,0,0
+14950,Service 305: Healthy Homes,Effectiveness,92439,% of children with elevated blood lead levels receiving environmental home visits per protocol,80,80,80,80,80,80,0,0,0,0,0,0
+14950,Service 305: Healthy Homes,Output,92440,# of homes inspected for health and safety risks,700,500,500,500,500,500,0,0,0,0,0,0
+14950,Service 305: Healthy Homes,Effectiveness,99139,% of children with elevated blood lead levels receiving medical home visits per protocol,80,80,80,80,80,80,0,0,0,0,0,0
+14951,Service 307: Substance Abuse and Mental Health,Outcome,92432,"Rate of alcohol and drug related Emergency Room visits in Baltimore City (per 100,000 people)",2026,1985,2000,2000,2000,2000,0,0,0,0,0,0
+14951,Service 307: Substance Abuse and Mental Health,Effectiveness,92433,% of clients retained in outpatient substance use disorder treatment for at least 90 days,60,55,55,55,55,55,0,0,0,0,0,0
+14951,Service 307: Substance Abuse and Mental Health,Output,341456,# of clients receiving mental health services through the public behavioral health system (PBHS),0,0,58000,60000,60000,60000,0,0,0,0,0,0
+14951,Service 307: Substance Abuse and Mental Health,Output,341457,# of clients receiving substance use disorder services,0,0,24000,26000,40000,40000,0,0,0,0,0,0
+14951,Service 307: Substance Abuse and Mental Health,Output,341458,"# of calls to the Crisis, Information, and Referral Line",0,0,49000,52000,52000,52000,0,0,0,0,0,0
+14952,Service 308: Maternal and Child Health,Output,97611,# of unduplicated families that receive case management services by professional home visitors,150,250,250,100,150,138,0,0,0,0,0,0
+14952,Service 308: Maternal and Child Health,Effectiveness,97612,% of children receiving home visiting services that have a completed social/emotional development screening at recommended intervals,55,55,60,60,60,60,0,0,0,0,0,0
+14952,Service 308: Maternal and Child Health,Outcome,97614,% of women who report smoking in pregnancy citywide,11,10.9,10.8,10.7,10.5,10.4,0,0,0,0,0,0
+14952,Service 308: Maternal and Child Health,Outcome,97615,% of babies with low birth weight citywide,11.7,11.5,11.4,11.3,11.2,11.1,0,0,0,0,0,0
+14952,Service 308: Maternal and Child Health,Output,134259,# of reproductive health service clients served by City clinics,0,0,0,0,0,0,7580,7580,8000,7800,7500,7500
+14953,Service 310: School Health Services,Effectiveness,92424,% of asthmatic schoolchildren who have rescue medications available at school,70,80,70,65,60,60,0,0,0,0,0,0
+14953,Service 310: School Health Services,Effectiveness,92425,% students returned to class after health suite visit,85,85,82,83,83,83,0,0,0,0,0,0
+14953,Service 310: School Health Services,Output,92427,# of visits to school health suites (includes hearing and vision screens),410000,350000,350000,362000,362000,362000,0,0,0,0,0,0
+14953,Service 310: School Health Services,Outcome,126566,% of unduplicated overweight/obese students seen at school-based health centers who have received individual nutrition education,0,0,0,0,0,0,80,80,80,80,82,82
+14953,Service 310: School Health Services,Effectiveness,126567,% of students with active asthma who have an asthma action plan on file in the health suite,0,0,0,0,0,0,80,80,70,65,60,60
+14954,Service 311: Health Services for Seniors,Effectiveness,92421,% of individuals receiving comprehensive evaluation services  within 15 days of request/referral,85,85,90,95,95,95,0,0,0,0,0,0
+14954,Service 311: Health Services for Seniors,Output,92422,# of individuals requesting comprehensive evaluation services,2500,3000,3700,3700,3700,3700,0,0,0,0,0,0
+14954,Service 311: Health Services for Seniors,Output,97057,# of senior companion hours provided annually,78300,78300,78300,60000,60000,60000,0,0,0,0,0,0
+14954,Service 311: Health Services for Seniors,Output,98388,# of senior companion clients receiving in-home and respite services,108,108,115,115,115,115,0,0,0,0,0,0
+14954,Service 311: Health Services for Seniors,Output,98389,# of senior companion clients receiving assistance in a community or adult day care setting,12,12,12,12,12,12,0,0,0,0,0,0
+14955,Service 315: Emergency Services-Health,Outcome,92416,% of outbreaks with a confirmed etiology,85,90,90,90,75,75,0,0,0,0,0,0
+14955,Service 315: Emergency Services-Health,Effectiveness,92417,% of animal bite reports for which rabies investigation is started within 24 hours of report,100,100,100,100,100,100,0,0,0,0,0,0
+14955,Service 315: Emergency Services-Health,Effectiveness,92418,% of transports completed on time,96,96,96,96,85,85,0,0,0,0,0,0
+14955,Service 315: Emergency Services-Health,Output,92419,# of investigated outbreaks,25,30,30,30,30,30,0,0,0,0,0,0
+14955,Service 315: Emergency Services-Health,Output,98356,# of medical transports facilitated,252425,129958,130337,70498,55000,55000,0,0,0,0,0,0
+14956,Service 316: Youth and Trauma Services,Outcome,92412,# of victims served,0,0,0,0,70,70,0,0,0,0,0,0
+14956,Service 316: Youth and Trauma Services,Output,92415,# of participants in Trauma-Informed Care trainings  ,0,0,0,0,815,815,0,0,0,0,0,0
+14960,Service 720: HIV Treatment Services for the Uninsured,Outcome,92393,% of clients achieving undetectable viral load,85,85,85,85,90,90,0,0,0,0,0,0
+14960,Service 720: HIV Treatment Services for the Uninsured,Outcome,92394,% of community outreach identified HIV positive clients enrolled in care,85,85,85,85,85,85,0,0,0,0,0,0
+14960,Service 720: HIV Treatment Services for the Uninsured,Effectiveness,92395,% of newly diagnosed HIV positive clients who were interviewed for partner services,0,0,0,0,0,0,90,90,90,90,90,90
+14960,Service 720: HIV Treatment Services for the Uninsured,Output,92396,# of needles exchanged,500000,750000,1300000,1600000,1900000,1900000,0,0,0,0,0,0
+14960,Service 720: HIV Treatment Services for the Uninsured,Output,92397,# of HIV tests performed through Community Outreach,18000,18000,18000,18000,15000,15000,0,0,0,0,0,0
+14961,Service 721: Senior Centers,Output,92442,# of participants receiving education and training opportunities ,32000,32000,32000,32000,32000,32000,0,0,0,0,0,0
+14961,Service 721: Senior Centers,Output,92443,# of unduplicated seniors accessing services through senior centers,50000,50000,50000,60000,60000,61000,0,0,0,0,0,0
+14961,Service 721: Senior Centers,Output,98400,# of unduplicated individuals served through the legal assistance program,1100,1100,1100,1500,1500,1500,0,0,0,0,0,0
+14961,Service 721: Senior Centers,Output,126575,# of participants enrolled in senior center fitness programs,3100,3100,3200,5500,5500,5800,0,0,0,0,0,0
+14961,Service 721: Senior Centers,Output,126576,# of seniors accessing healthcare and social benefits through senior centers,14000,14000,14000,14000,14000,14000,0,0,0,0,0,0
+14964,Service 605: Head Start,Outcome,92859,"% of 3 year olds ""ready"" in each school readiness domain",90,90,90,90,90,90,0,0,0,0,0,0
+14964,Service 605: Head Start,Effectiveness,92860,% of enrollment during contract period,100,100,100,100,100,100,0,0,0,0,0,0
+14964,Service 605: Head Start,Efficiency,92861,Cost per child,9559,9559,9559,9559,9559,9559,0,0,0,0,0,0
+14964,Service 605: Head Start,Output,92862,# of children receiving Head Start Services,759,759,759,759,759,759,0,0,0,0,0,0
+14966,Service 742: Promote Homeownership,Output,92481,# of incentives provided,824,850,775,775,800,657,0,0,0,0,0,0
+14966,Service 742: Promote Homeownership,Outcome,92483,% of incentive recipients who are new city residents,0,21,23,24,27,25,0,0,0,0,0,0
+14966,Service 742: Promote Homeownership,Efficiency,398284,# of days on average from complete application date to decision date,0,0,0,0,15,15,0,0,0,0,0,0
+14966,Service 742: Promote Homeownership,Effectiveness,398285,% of incentives provided to Low & Moderate Income homebuyers,0,0,0,0,51,51,0,0,0,0,0,0
+14966,Service 742: Promote Homeownership,Outcome,398286,# of affordable homeownership sales facilitated,0,0,0,0,200,200,0,0,0,0,0,0
+14967,Service 745: Housing Code Enforcement,Output,92477,# of property maintenance code enforcement inspections,275000,280000,240000,240000,220000,240000,0,0,0,0,0,0
+14967,Service 745: Housing Code Enforcement,Effectiveness,92480,% of service requests closed on time (15 days),96,99,90,90,90,90,0,0,0,0,0,0
+14967,Service 745: Housing Code Enforcement,Efficiency,398287,% of interior notice reinspections completed on time,0,0,0,0,70,70,0,0,0,0,0,0
+14967,Service 745: Housing Code Enforcement,Outcome,398288,# of interior notices abated,0,0,0,0,3000,3000,0,0,0,0,0,0
+14967,Service 745: Housing Code Enforcement,Outcome,398289,# of structures released for demolition or stabilization,0,0,0,0,500,500,0,0,0,0,0,0
+14968,Service 748: Affordable Housing,Efficiency,398294,Ratio of total development cost to city dollars contributed,0,0,0,0,6,6,0,0,0,0,0,0
+14968,Service 748: Affordable Housing,Effectiveness,398295,City dollars contributed per affordable housing unit created,0,0,0,0,0,30000,0,0,0,0,0,0
+14968,Service 748: Affordable Housing,Output,398296,City contribution to affordable housing creation,0,0,0,0,0,3000000,0,0,0,0,0,0
+14968,Service 748: Affordable Housing,Outcome,398297,Total affordable housing units created,0,0,0,0,0,315,0,0,0,0,0,0
+14969,Service 750: Housing Rehabilitation Services,Outcome,92463,% of homeowners still occupying unit after 5 years,95,95,85,85,85,90,0,0,0,0,0,0
+14969,Service 750: Housing Rehabilitation Services,Output,97585,# of houses remediated for lead,80,80,85,62,50,80,0,0,0,0,0,0
+14969,Service 750: Housing Rehabilitation Services,Efficiency,398301,Average value of rehab loans and grants closed,0,0,0,0,13000,13000,0,0,0,0,0,0
+14969,Service 750: Housing Rehabilitation Services,Effectiveness,398302,% of lead clearance tests passed on first attempt,0,0,0,0,96,96,0,0,0,0,0,0
+14969,Service 750: Housing Rehabilitation Services,Effectiveness,398303,% of total rehab quality control inspections passed on first attempt,0,0,0,0,0,85,0,0,0,0,0,0
+14969,Service 750: Housing Rehabilitation Services,Output,398304,# of rehab loans and grants closed,0,0,0,0,212,212,0,0,0,0,0,0
+14970,Service 754: Summer Food Service Program,Efficiency,92449,Cost per meal,3,4,5,5,5,5,0,0,0,0,0,0
+14970,Service 754: Summer Food Service Program,Output,92450,# of Meals Served,1500000,800075,1000000,1000000,750000,700000,0,0,0,0,0,0
+14970,Service 754: Summer Food Service Program,Output,92451,# of Sites,500,400,400,400,400,350,0,0,0,0,0,0
+14970,Service 754: Summer Food Service Program,Effectiveness,92452,% of unused meals,0,0,2,2,3.5,3.5,0,0,0,0,0,0
+14971,"Service 809: Retention, Expansion, and Attraction of Businesses",Outcome,92113,# of jobs created or retained in Baltimore City,1785,4527,4790,8616,8788,3869,0,0,0,0,0,0
+14971,"Service 809: Retention, Expansion, and Attraction of Businesses",Output,92114,Companies BDC assisted in staying in Baltimore City,142,93,149,153,158,248,0,0,0,0,0,0
+14971,"Service 809: Retention, Expansion, and Attraction of Businesses",Efficiency,92115,Jobs retained in or added to City per FTE,223,178,292,768,784,326,0,0,0,0,0,0
+14971,"Service 809: Retention, Expansion, and Attraction of Businesses",Effectiveness,92116,Loan dollars per job retained or attracted in Baltimore City,428,525,472,482,473,482,0,0,0,0,0,0
+14971,"Service 809: Retention, Expansion, and Attraction of Businesses",Outcome,92117,Private investment leveraged through BDC programs (in millions),116000000,500000000,565000000,584000000,601945155,318359285,0,0,0,0,0,0
+14971,"Service 809: Retention, Expansion, and Attraction of Businesses",Effectiveness,92795,Net # of new and expanding businesses in commercial corridors,50,85,94,110,102,139,0,0,0,0,0,0
+14971,"Service 809: Retention, Expansion, and Attraction of Businesses",Efficiency,92796,$ of private investment for every dollar of public investment ,3,3,3,4,4,3.5,0,0,0,0,0,0
+14973,Service 811: Inner Harbor Coordination,Effectiveness,92810,% of mystery shoppers reporting Area Clean/Free of Trash,0.92,0.93,0.94,0.93,0.94,0.95,0,0,0,0,0,0
+14973,Service 811: Inner Harbor Coordination,Output,92811,Staff hours for clean/safety teams,39000,39000,39000,41080,41440,41440,0,0,0,0,0,0
+14974,Service 812: Small Business Resource Center,Output,92802,# of Seminars and training sessions,100,100,110,120,0,0,0,0,0,0,0,0
+14974,Service 812: Small Business Resource Center,Output,92803,# of microloan applications reviewed,28,30,33,35,0,0,0,0,0,0,0,0
+14974,Service 812: Small Business Resource Center,Effectiveness,92804,SBRC program cost per business started,496,420,399,578,0,0,0,0,0,0,0,0
+14974,Service 812: Small Business Resource Center,Outcome,92805,# of assisted new businesses still in operation after one year,300,545,572,800,0,0,0,0,0,0,0,0
+14974,Service 812: Small Business Resource Center,Efficiency,92806,# of Business Counseling & Seminar attendees per FTE,1480,1500,1650,1700,0,0,0,0,0,0,0,0
+14975,Service 813: Emerging Technology Center,Efficiency,92797,ETC program cost per job created,1435,1435,1515,1576,2890,1419,0,0,0,0,0,0
+14975,Service 813: Emerging Technology Center,Output,92798,# of jobs created by all current companies,450,450,450,450,300,480,0,0,0,0,0,0
+14975,Service 813: Emerging Technology Center,Output,92799,# of new ETC companies,33,33,35,35,25,35,0,0,0,0,0,0
+14975,Service 813: Emerging Technology Center,Outcome,92800,% of companies leaving ETC in the FY and basing business in City,75,75,70,70,65,57,0,0,0,0,0,0
+14975,Service 813: Emerging Technology Center,Effectiveness,92801,% of total graduates still in business,82,82,80,80,80,80,0,0,0,0,0,0
+14977,Service 815: Live Baltimore,Output,97616,# of attendees at Live Baltimore events,1103,1500,1550,1550,1550,1600,0,0,0,0,0,0
+14977,Service 815: Live Baltimore,Outcome,97617,% of available Resident Retention Tax Credits utilized by City homebuyers,0,15,1,1,0.5,0,0,0,0,0,0,0
+14977,Service 815: Live Baltimore,Effectiveness,97618,# of Live Baltimore customers who purchased a home in the City,0,450,1190,1230,1250,1275,0,0,0,0,0,0
+14977,Service 815: Live Baltimore,Effectiveness,97619,% of neighborhoods in which Live Baltimore clients purchased homes,54,55,77,78,76,76,0,0,0,0,0,0
+14977,Service 815: Live Baltimore,Effectiveness,97620,# of Live Baltimore Customers who used a City or State incentive,200,200,375,375,375,350,0,0,0,0,0,0
+14982,Service 861: Controversies,Effectiveness,92324,% of repayment versus amount negotiated for collection cases,80,78,93,73,67,76,0,0,0,0,0,0
+14982,Service 861: Controversies,Effectiveness,92326,% payout of damages claimed,1,1,1,1,2.5,2.5,0,0,0,0,0,0
+14982,Service 861: Controversies,Output,92327,# of lawsuits handled,420,500,400,430,460,460,0,0,0,0,0,0
+14982,Service 861: Controversies,Effectiveness,97974,% of clients rating services good or excellent,92,89,88,90,90,90,0,0,0,0,0,0
+14983,Service 862: Transaction,Effectiveness,92321,% of bill reports submitted on time,90,90,90,90,90,90,0,0,0,0,0,0
+14983,Service 862: Transaction,Effectiveness,92322,% of PIA requests answered on time,100,85,90,90,90,90,0,0,0,0,0,0
+14983,Service 862: Transaction,Output,92323,# of PIA requests handled,450,300,350,350,350,350,0,0,0,0,0,0
+14983,Service 862: Transaction,Effectiveness,97974,% of clients rating services good or excellent,92,89,88,90,90,90,0,0,0,0,0,0
+14984,Service 869: Minority and Women's Business Opportunity Office,Effectiveness,92315,Application review/process turnaround time (days),35,35,30,30,39,35,0,0,0,0,0,0
+14984,Service 869: Minority and Women's Business Opportunity Office,Effectiveness,92316,Application initial review turnaround time (days),7,7,15,15,30,30,0,0,0,0,0,0
+14984,Service 869: Minority and Women's Business Opportunity Office,Output,92317,# of MBE/WBE certifed businesses,1350,1350,1200,1250,1550,1550,0,0,0,0,0,0
+14984,Service 869: Minority and Women's Business Opportunity Office,Output,92318,# of trainings/outreach sessions provided,2,8,12,12,16,16,0,0,0,0,0,0
+14984,Service 869: Minority and Women's Business Opportunity Office,Output,92319,# of applications approved,280,300,125,200,150,150,0,0,0,0,0,0
+14985,Service 871: Representation and Advice for Law Enforcement,Outcome,92328,% clients rating services good or excellent,92,89,88,90,90,90,0,0,0,0,0,0
+14985,Service 871: Representation and Advice for Law Enforcement,Output,92436,# of misconduct cases resolved,0,164,100,103,180,180,0,0,0,0,0,0
+14985,Service 871: Representation and Advice for Law Enforcement,Effectiveness,97601,% of cases resolved prior to hearing,70,70,80,80,90,90,0,0,0,0,0,0
+14986,Service 106: Legislative Reference Services,Effectiveness,92192,% of online code updates completed within two days of notification,100,100,100,100,100,100,0,0,0,0,0,0
+14986,Service 106: Legislative Reference Services,Effectiveness,92195,% of legislative drafting completed on time,100,100,100,100,100,100,0,0,0,0,0,0
+14987,Service 107: Archives and Records Management,Outcome,92193,# of patrons using archives,100000,118000,146114,710416,112152,115516,0,0,0,0,0,0
+14987,Service 107: Archives and Records Management,Outcome,92194,# of records accessible online,413879,441879,429472,473633,444814,457000,0,0,0,0,0,0
+14988,Service 850: Liquor Licensing,Output,92311,Annual licenses renewed (liquor and adult entertainment),1245,1230,1230,1245,1100,1100,0,0,0,0,0,0
+14988,Service 850: Liquor Licensing,Efficiency,92312,% of violation fines collected within time allotted by Board order,0,80,85,85,85,85,0,0,0,0,0,0
+14988,Service 850: Liquor Licensing,Output,92313,"Public hearings concerning new licenses, transfers & expansions",150,150,150,150,170,140,0,0,0,0,0,0
+14988,Service 850: Liquor Licensing,Output,97963,"# of new ""B"" licenses issued",0,20,20,25,25,25,0,0,0,0,0,0
+14989,Service 851: Liquor License Compliance,Output,97958,# of violation/compliance hearings,65,120,120,120,130,130,0,0,0,0,0,0
+14989,Service 851: Liquor License Compliance,Outcome,97959,% of licensees that are violation free,0,85,85,85,90,90,0,0,0,0,0,0
+14989,Service 851: Liquor License Compliance,Effectiveness,97960,% of 311 calls abated or closed within 72 hours,85,85,85,85,90,90,0,0,0,0,0,0
+14989,Service 851: Liquor License Compliance,Effectiveness,97961,% of charged violations sustained at Board hearings,0,85,85,85,90,90,0,0,0,0,0,0
+14989,Service 851: Liquor License Compliance,Output,97962,# of inspections per FTE,0,625,625,625,625,625,0,0,0,0,0,0
+14990,Service 493a: Baltimore Museum of Art,Outcome,94795,Visibility value (number of impressions is a proxy measure for awareness of BMA as a cultural destination),250,250,400,400,1200,750,0,0,0,0,0,0
+14990,Service 493a: Baltimore Museum of Art,Efficiency,94796,# of tour guide hours donated ,14000,12000,11500,11500,9500,10000,0,0,0,0,0,0
+14990,Service 493a: Baltimore Museum of Art,Output,94797,Annual Attendance,200000,205000,225000,205000,241000,265100,0,0,0,0,0,0
+14990,Service 493a: Baltimore Museum of Art,Output,94798,# of schoolchildren participating in free school tour program ,15000,15000,15500,15500,14500,16000,0,0,0,0,0,0
+14990,Service 493a: Baltimore Museum of Art,Efficiency,155200,# of volunteer and intern hours (other than tour guide),4000,4500,5500,6000,6000,6200,0,0,0,0,0,0
+14991,Service 493b: Walters Art Gallery,Output,94782,Annual Attendance,175000,152565,152565,152565,150000,150000,0,0,0,0,0,0
+14991,Service 493b: Walters Art Gallery,Output,94783,# of Baltimore City students participating in free school programs,10000,8875,8875,8000,8000,8300,0,0,0,0,0,0
+14991,Service 493b: Walters Art Gallery,Effectiveness,94784,Total number of individuals participating in education programs,105000,73000,73000,73000,73000,73000,0,0,0,0,0,0
+14991,Service 493b: Walters Art Gallery,Efficiency,97685,# of total volunteer hours donated annually,30000,30000,30000,40000,25000,28000,0,0,0,0,0,0
+14991,Service 493b: Walters Art Gallery,Outcome,97686,# of schoolchildren served through the free bus subsidy program ,7500,7500,7500,7500,5200,5200,0,0,0,0,0,0
+14992,Service 493c: Baltimore Symphony,Output,94785,# of youth participating in education programs,15000,20000,20000,20000,50000,55000,0,0,0,0,0,0
+14992,Service 493c: Baltimore Symphony,Efficiency,94786,% capacity of attendance for Meyerhoff core programming,75,78,76,76,76,76,0,0,0,0,0,0
+14992,Service 493c: Baltimore Symphony,Output,94787,# of visitors among City residents,78000,80000,80000,90000,90000,90000,0,0,0,0,0,0
+14992,Service 493c: Baltimore Symphony,Output,94788,# of non-city/regional visitor attendance,230000,235000,235000,235000,235000,235000,0,0,0,0,0,0
+14992,Service 493c: Baltimore Symphony,Effectiveness,94789,Visibility value via media coverage,25,30,30,50,85,85,0,0,0,0,0,0
+14993,Service 493d: MD Zoo in Baltimore,Effectiveness,94790,% of rental customers rating facilities as good or excellent,100,100,100,100,100,100,0,0,0,0,0,0
+14993,Service 493d: MD Zoo in Baltimore,Output,94791,# of City residents attending ZOOmobile educational outreach program,11500,10100,10100,10100,10100,10100,0,0,0,0,0,0
+14993,Service 493d: MD Zoo in Baltimore,Output,94792,# of total attendance at the Zoo (annually),460000,460000,475000,475000,475000,475000,0,0,0,0,0,0
+14993,Service 493d: MD Zoo in Baltimore,Efficiency,94793,# of volunteer hours donated,32500,32500,32500,32500,32500,32500,0,0,0,0,0,0
+14993,Service 493d: MD Zoo in Baltimore,Output,94794,# of website page views,2150000,2500000,2500000,2500000,2500000,2500000,0,0,0,0,0,0
+14994,"Service 824: Events, Art, Culture, and Film",Output,92873,Annual attendance (all events),2000000,1100000,1500000,1500000,1650000,1700000,0,0,0,0,0,0
+14994,"Service 824: Events, Art, Culture, and Film",Outcome,92874,Economic impact to the City (in millions),111000000,112000000,132000000,150000000,288500000,300000000,0,0,0,0,0,0
+14994,"Service 824: Events, Art, Culture, and Film",Effectiveness,92875,Return on investment for City dollars,100,75,80,80,125,135,0,0,0,0,0,0
+14994,"Service 824: Events, Art, Culture, and Film",Effectiveness,398761,# of print and digital media followers/subscribers and impressions (in millions),0,0,0,0,6500000000,6500000000,0,0,0,0,0,0
+14994,"Service 824: Events, Art, Culture, and Film",Output,398762,Total amount in grants/commissions/fees to artists/arts organizations awarded (in dollars),0,0,0,0,2300000,2300000,0,0,0,0,0,0
+14995,Service 828: Bromo Seltzer Arts Tower,Efficiency,92871,% of space rented,75,75,70,70,75,80,0,0,0,0,0,0
+14995,Service 828: Bromo Seltzer Arts Tower,Output,92872,Annual event attendance,7400,7400,6000,8000,11000,12000,0,0,0,0,0,0
+14996,Service 876: Media Production,Output,92900,# of primetime programming hours ,158,1700,1700,1900,1900,1900,0,0,0,0,0,0
+14996,Service 876: Media Production,Output,98171,# of programming hours dedicated to government transparency,5000,5000,5000,6500,6500,6500,0,0,0,0,0,0
+14996,Service 876: Media Production,Output,98240,# of Charmtv.tv sessions,10000,10000,12000,30000,35000,37500,0,0,0,0,0,0
+14996,Service 876: Media Production,Efficiency,134047,Earned revenue in $s,0,0,0,0,0,0,100000,100000,60000,60000,60000,60000
+14996,Service 876: Media Production,Output,134048,% of scheduled government meetings covered,0,0,0,0,0,0,0,0,95,90,90,90
+14997,Service 590a: Baltimore Public Markets,Output,93031,Marketing expense,50000,48000,60000,60000,7500,10000,0,0,0,0,0,0
+14997,Service 590a: Baltimore Public Markets,Efficiency,93032,Percentage of year that rent is current,93,100,93,93,93,93,0,0,0,0,0,0
+14997,Service 590a: Baltimore Public Markets,Effectiveness,93033,Number of outlets,17,18,16,13,13,13,0,0,0,0,0,0
+14997,Service 590a: Baltimore Public Markets,Outcome,93034,Increase staple food supply,100,100,100,85,85,85,0,0,0,0,0,0
+14997,Service 590a: Baltimore Public Markets,Output,97291,"New tenant expense for furnishings, fit-out, and equipment",70000,50000,30000,30000,100000,100000,0,0,0,0,0,0
+14998,Service 590b: Lexington Market,Outcome,93035,# of new businesses,6,10,4,5,6,8,0,0,0,0,0,0
+14998,Service 590b: Lexington Market,Effectiveness,93036,Customer parking revenue (in millions),1680000,1810000,1357000,1357000,1300000,1300000,0,0,0,0,0,0
+14998,Service 590b: Lexington Market,Outcome,93037,Merchant occupancy rate,89,90,90,85,50,50,0,0,0,0,0,0
+14998,Service 590b: Lexington Market,Output,93038,Marketing expense,50000,56000,65000,85000,85000,85000,0,0,0,0,0,0
+14998,Service 590b: Lexington Market,Output,93039,"New tenant expense for furnishings, fit-out, and equipment",70000,50000,40000,30000,40000,100000,0,0,0,0,0,0
+14999,Service 590c: Baltimore Heritage Area,Outcome,93026,Amount of non-city dollars ($) leveraged for the Heritage Area and its partners,450000,450000,600000,600000,800000,1000000,0,0,0,0,0,0
+14999,Service 590c: Baltimore Heritage Area,Outcome,93027,# of visitors taking advantage of a guided walk or interpretive experience,5000,5000,5000,5000,5000,5000,0,0,0,0,0,0
+14999,Service 590c: Baltimore Heritage Area,Output,93028,amount of grant funding awarded to partners,200000,200000,200000,200000,200000,200000,0,0,0,0,0,0
+14999,Service 590c: Baltimore Heritage Area,Output,93029,# of new heritage tourism products completed,2,2,2,2,2,2,0,0,0,0,0,0
+14999,Service 590c: Baltimore Heritage Area,Output,93030,"# of walking trail miles completed (includes completion of map & guide, interpretive storyboard signs in the sidewalk, and site markers)",0,3,0,3,0,3,0,0,0,0,0,0
+15000,Service 820: Convention Sales and Tourism Marketing,Efficiency,92977,Cost per future hotel room booked,32,29,34,32,35,40,0,0,0,0,0,0
+15000,Service 820: Convention Sales and Tourism Marketing,Effectiveness,92979,"Equivalent advertising value of free, positive editorial coverage secured for Baltimore",38500000,16000000,10000000,11000000,12000000,15000000,0,0,0,0,0,0
+15000,Service 820: Convention Sales and Tourism Marketing,Outcome,97949,Total # of Visitors to Baltimore (Calendar year consumed),24200000,25900000,26400000,26700000,26500000,26700000,0,0,0,0,0,0
+15000,Service 820: Convention Sales and Tourism Marketing,Output,97950,# of hotel room nights consumed from Visit Baltimore's bookings (including Baltimore Convention Center events) per fiscal year,386021,370697,335415,350135,387252,309591,0,0,0,0,0,0
+15000,Service 820: Convention Sales and Tourism Marketing,Output,97951,# of groups with hotel rooms booked through Visit Baltimore that also plan to use the Convention Center,60,60,56,56,55,56,0,0,0,0,0,0
+15000,Service 820: Convention Sales and Tourism Marketing,Outcome,336385,Total hotel taxes collected in the City (Fiscal Year realized),0,0,0,33000000,33729123,34000000,0,0,0,0,0,0
+15001,Service 855: Convention Center,Outcome,97709,Revenue generated by events,9600000,9200000,9617260,9982010,10138563,10776191,0,0,0,0,0,0
+15001,Service 855: Convention Center,Output,97710,# of events,135,103,108,110,115,120,0,0,0,0,0,0
+15001,Service 855: Convention Center,Outcome,97711,Total tax revenue generated from BCC operations,0,16817000,16000000,16000000,16000000,16000000,0,0,0,0,0,0
+15001,Service 855: Convention Center,Effectiveness,97977,% of BCC costs recovered through user charges or other revenue sources,78,80,80,80,82,84,0,0,0,0,0,0
+15001,Service 855: Convention Center,Output,97978,# of Attendees ,619992,619208,620000,496410,511300,526639,0,0,0,0,0,0
+15003,Service 117: Adjudication of Environmental Citations,Output,126895,% of time a quorum is present for Board meetings,90,90,100,100,100,100,0,0,0,0,0,0
+15003,Service 117: Adjudication of Environmental Citations,Efficiency,126930,Average # of days between request for appeal and appeal heard by the Board,60,60,60,60,50,50,0,0,0,0,0,0
+15003,Service 117: Adjudication of Environmental Citations,Outcome,126933,% of violators who reoffend after completing the diversion program ,0,0,0,0,0,0,0,0,0,0,0,0
+15003,Service 117: Adjudication of Environmental Citations,Efficiency,127390,Percentage of first hearings scheduled within 60 days,0,0,0,0,0,0,100,100,100,100,100,100
+15004,Service 757: CitiWatch,Effectiveness,92867,# of arrests assisted and/or initiated by CitiWatch monitors,1500,1500,500,1000,350,350,0,0,0,0,0,0
+15004,Service 757: CitiWatch,Output,394265,# of ShotSpotter alerts responded to,0,0,0,0,1450,1525,0,0,0,0,0,0
+15004,Service 757: CitiWatch,Efficiency,394348,Average response time to ShotSpotter alert coverage area,0,0,0,0,205,205,0,0,0,0,0,0
+15004,Service 757: CitiWatch,Outcome,394352,% of year-to-year Part 1 crime reduction in camera coverage area vs. buffer,0,0,0,-1,-2,-2,0,0,0,0,0,0
+15004,Service 757: CitiWatch,Output,394353,# of maintenance orders completed,0,0,0,0,350,350,0,0,0,0,0,0
+15008,Service 791: BCPS Alternative Options Academy for Youth,Outcome,97602,% of enrolled students who have an individual transition plan,80,80,85,85,87,85,0,0,0,0,0,0
+15008,Service 791: BCPS Alternative Options Academy for Youth,Effectiveness,97603,"% of participants who are placed in an unsubsidized job, participate in work study, job shadow, or internship, including a summer subsidized job",97,75,80,80,80,80,0,0,0,0,0,0
+15008,Service 791: BCPS Alternative Options Academy for Youth,Efficiency,97604,Average $ cost per student to participate in work-readiness and academic activities,1577,1577,1577,1690,1709,1709,0,0,0,0,0,0
+15008,Service 791: BCPS Alternative Options Academy for Youth,Output,97605,# of students attending non-traditional high school accessing workforce development services through YO Academy,120,150,150,120,125,120,0,0,0,0,0,0
+15009,Service 792: Workforce Services for TANF Recipients,Effectiveness,92288,# of Baltimore City TANF participants receiving services,150,2000,2000,2000,1500,1500,0,0,0,0,0,0
+15009,Service 792: Workforce Services for TANF Recipients,Outcome,92289,"% of Baltimore City TANF participants who enroll in Employment Continuum, obtain employment, and remain on the job for eight consecutive weeks",60,60,50,50,50,75,0,0,0,0,0,0
+15009,Service 792: Workforce Services for TANF Recipients,Output,92332,% of enrolled TANF participants who are placed in a full time unsubsidized job,0,0,50,50,50,50,0,0,0,0,0,0
+15009,Service 792: Workforce Services for TANF Recipients,Efficiency,99083,Average $ cost per jobseeker for the Employment Continuum,1732,1500,1500,1469,1000,1885,0,0,0,0,0,0
+15010,Service 793: Employment Enhancement Services for Baltimore City Residents,Outcome,92283,# of certifications aquired through digital learning lab,750,825,300,300,250,300,0,0,0,0,0,0
+15010,Service 793: Employment Enhancement Services for Baltimore City Residents,Effectiveness,92285,# of Baltimore City registrants that obtain job placements through the career center network,1400,1600,1700,1785,2250,2250,0,0,0,0,0,0
+15010,Service 793: Employment Enhancement Services for Baltimore City Residents,Output,92286,# of Baltimore City residents who acquired 21st century job skills,5800,6040,7250,7613,8500,9000,0,0,0,0,0,0
+15010,Service 793: Employment Enhancement Services for Baltimore City Residents,Effectiveness,92287,# of Baltimore City residents who upgrade their computer skills,1000,1600,1600,1650,1250,1250,0,0,0,0,0,0
+15010,Service 793: Employment Enhancement Services for Baltimore City Residents,Efficiency,99082,Cost per participant ($) to obtain an occupational certification in a high growth industry,3000,3000,3000,3000,3000,3000,0,0,0,0,0,0
+15012,Service 795: Workforce Services for Baltimore Residents,Output,92279,# City residents who received employment assistance services through the career center network,24000,24000,24000,24000,30000,30000,0,0,0,0,0,0
+15012,Service 795: Workforce Services for Baltimore Residents,Effectiveness,92280,% of customers who receive at least one service and rate the services good or excellent,85,85,85,90,90,90,0,0,0,0,0,0
+15012,Service 795: Workforce Services for Baltimore Residents,Outcome,92281,% of jobseekers who commence service delivery from the one-stop centers and are also employed one year later,64,64,55,55,55,57,0,0,0,0,0,0
+15012,Service 795: Workforce Services for Baltimore Residents,Outcome,92330,% of jobseekers who commence service delivery from the one-stop centers and obtain employment and remain employed for at least 120 days,42,44,55,55,55,58,0,0,0,0,0,0
+15012,Service 795: Workforce Services for Baltimore Residents,Efficiency,99081,Average $ cost per participant to provide employment assistance services to Baltimore City jobseekers ,185,185,185,185,185,185,0,0,0,0,0,0
+15013,Service 796: Workforce Services for Ex-Offenders,Output,92275,# of Baltimore City ex-offenders who receive employment assistance services through the Re-Entry Center,1800,1800,1800,2000,2000,2000,0,0,0,0,0,0
+15013,Service 796: Workforce Services for Ex-Offenders,Outcome,92276,# of ex-offenders who received at least one service and obtained employment,400,400,480,500,450,450,0,0,0,0,0,0
+15013,Service 796: Workforce Services for Ex-Offenders,Effectiveness,92277,% of customers who receive at least one service and rate the services good or excellent,85,85,95,95,97,95,0,0,0,0,0,0
+15013,Service 796: Workforce Services for Ex-Offenders,Efficiency,92278,Average $ cost per participant to provide employment assistance services to Baltimore City ex-offender job seekers,250,250,250,250,250,250,0,0,0,0,0,0
+15014,Service 797: Workforce Services for Out of School Youth-Youth Opportunity,Output,92271,% of vulnerable youth connected to community-based educational services,60,60,50,50,50,50,0,0,0,0,0,0
+15014,Service 797: Workforce Services for Out of School Youth-Youth Opportunity,Outcome,92272,% of Youth Opportunity participants who avoid becoming involved in the juvenile or adult criminal justice system while enrolled,95,95,95,95,96,96,0,0,0,0,0,0
+15014,Service 797: Workforce Services for Out of School Youth-Youth Opportunity,Effectiveness,92274,Average monthly participation rate (%),80,80,80,80,82,82,0,0,0,0,0,0
+15014,Service 797: Workforce Services for Out of School Youth-Youth Opportunity,Outcome,97607,% of vulnerable youth who acquire 21st Century Job Readiness Skills as measured by a formal assessment tool,85,85,85,85,85,85,0,0,0,0,0,0
+15014,Service 797: Workforce Services for Out of School Youth-Youth Opportunity,Output,97608,# of Youth Opportunity participants ,700,850,850,850,850,850,0,0,0,0,0,0
+15015,Service 798: YouthWorks Summer Job Program,Outcome,92267,"# Baltimore City youth ages 14-21 offered paid, summer work experiences",5300,5000,6500,8000,8000,9000,0,0,0,0,0,0
+15015,Service 798: YouthWorks Summer Job Program,Effectiveness,92268,% of employers that said they would recommend YouthWorks to other organizations seeking entry-level employees,85,90,90,90,92,92,0,0,0,0,0,0
+15015,Service 798: YouthWorks Summer Job Program,Outcome,92269,% of YouthWorks participants who increase their work readiness skills as measured by pre- and post assessment tool,80,90,90,90,90,75,0,0,0,0,0,0
+15015,Service 798: YouthWorks Summer Job Program,Efficiency,92270,Average $ cost of per participant,1300,1500,1500,1500,1600,1600,0,0,0,0,0,0
+15016,Service 800: Workforce Services for WIOA Funded Youth,Efficiency,92263,Average $ cost per participant,4500,4800,5000,5000,5600,5500,0,0,0,0,0,0
+15016,Service 800: Workforce Services for WIOA Funded Youth,Effectiveness,92264,% of enrolled youth who earn an occupational or educational credential by the end of the program,66,66,67,60,60,65,0,0,0,0,0,0
+15016,Service 800: Workforce Services for WIOA Funded Youth,Output,92265,# of participants served,150,150,153,153,153,198,0,0,0,0,0,0
+15016,Service 800: Workforce Services for WIOA Funded Youth,Outcome,92266,"% of youth enrolled in an educational or occupational training program who receive an academic gain, training milestone, or skills progression by the end of the year",65,65,50,60,60,60,0,0,0,0,0,0
+15016,Service 800: Workforce Services for WIOA Funded Youth,Effectiveness,99080,"% of satisfactory or above vendor performance ratings, based on youth council quarterly reviews",85,85,85,85,85,85,0,0,0,0,0,0
+15018,Service 741: Community Action Partnership,Effectiveness,92856,$ amount of Earned Income Tax Credits received ,1000000,750000,750000,800000,1100000,1100000,0,0,0,0,0,0
+15018,Service 741: Community Action Partnership,Output,92857,# of energy applications processed ,30000,30000,30000,30000,30000,30000,0,0,0,0,0,0
+15018,Service 741: Community Action Partnership,Output,92858,# of units of service provided to Heads of Households to remove barriers to self sufficiency,45000,45000,45000,45400,45400,50000,0,0,0,0,0,0
+15018,Service 741: Community Action Partnership,Output,97851,# of participants enrolled in Case Management ,500,500,500,600,600,600,0,0,0,0,0,0
+15019,Service 893: Homelessness Prevention ,Output,92852,# of clients enrolled in Homeless Prevention and Services,1000,1000,1000,2300,2300,2700,0,0,0,0,0,0
+15019,Service 893: Homelessness Prevention ,Effectiveness,404412,% of households receiving eviction prevention services that participated in financial literacy and legal counseling services,0,0,0,0,0,25,0,0,0,0,0,0
+15019,Service 893: Homelessness Prevention ,Effectiveness,404413,% of homeless households who are first-time homeless ,0,0,0,0,0,63,0,0,0,0,0,0
+15020,Service 894: Outreach to the Homeless,Effectiveness,92847,% of persons engaged through street outreach of all contacted,50,50,75,75,60,75,0,0,0,0,0,0
+15020,Service 894: Outreach to the Homeless,Output,92850,Number of street outreach contacts,900,900,900,1500,1500,2800,0,0,0,0,0,0
+15020,Service 894: Outreach to the Homeless,Outcome,133499,"% of persons who exit from a street outreach project to shelter, transitional, or permanent housing",0,0,0,0,0,0,50,50,50,50,50,50
+15021,Service 895: Temporary Housing for the Homeless,Efficiency,92843,"Average length of time that persons are homeless in emergency shelter, housing, and transitional housing projects",100,100,100,90,90,90,0,0,0,0,0,0
+15021,Service 895: Temporary Housing for the Homeless,Output,92844,Point-in-time count of sheltered and unsheltered homeless persons,0,0,2700,2700,2600,2380,0,0,0,0,0,0
+15021,Service 895: Temporary Housing for the Homeless,Output,92845,Point-in-time count of sheltered homeless persons,2500,2500,2500,2534,2500,2000,0,0,0,0,0,0
+15021,Service 895: Temporary Housing for the Homeless,Outcome,133507,% of persons exiting to permanent housing destinations,0,0,0,0,0,0,60,60,60,60,30,30
+15022,Service 896: Permanent Housing for the Homeless,Outcome,92840,% of homeless households who return to a homeless services project within 2 years of an exit to permanent housing,0,0,0,10,15,15,0,0,0,0,0,0
+15022,Service 896: Permanent Housing for the Homeless,Outcome,92841,% of homeless households retaining permanent housing,0,0,93,95,85,85,0,0,0,0,0,0
+15022,Service 896: Permanent Housing for the Homeless,Output,92842,# of permanent housing beds,0,0,3871,4000,4800,5300,0,0,0,0,0,0
+15024,Service 803: IT Application Support Services,Effectiveness,92972,% City systems data available in the City Data Warehouse ,10,30,40,40,45,45,0,0,0,0,0,0
+15024,Service 803: IT Application Support Services,Output,98068,# of Mainframe applications modernized,35,50,19,19,19,19,0,0,0,0,0,0
+15024,Service 803: IT Application Support Services,Outcome,203188,# of datasets made to public on Open Baltimore,10,36,40,778,785,204,0,0,0,0,0,0
+15024,Service 803: IT Application Support Services,Efficiency,203189,% of Mainframe Reports provided on self serve dashboards,10,30,40,40,40,40,0,0,0,0,0,0
+15025,Service 804: Call Center Services,Output,92966,# of calls received in 311,900000,860000,890000,890000,890000,890000,0,0,0,0,0,0
+15025,Service 804: Call Center Services,Effectiveness,92967,% of calls answered within 60 seconds in 311,90,90,90,90,90,90,0,0,0,0,0,0
+15025,Service 804: Call Center Services,Effectiveness,196802,Average time to answer a call in 311 (in seconds ),30,30,30,30,30,30,0,0,0,0,0,0
+15026,Service 805: Enterprise IT Delivery Services ,Outcome,92958,% of users who are able to complete a BaltimoreCity.gov transaction ,70,99,99,99,99,99,0,0,0,0,0,0
+15026,Service 805: Enterprise IT Delivery Services ,Output,92962,% of Help Desk mean acknowledgement response times for critical priority tickets within 15 minutes ,85,100,99,99,99,99,0,0,0,0,0,0
+15026,Service 805: Enterprise IT Delivery Services ,Effectiveness,98065,% Availability of critical systems ,98,99,99,99,99,99,0,0,0,0,0,0
+15026,Service 805: Enterprise IT Delivery Services ,Effectiveness,98072,% of Helpdesk resolution times for critical priority tickets within 4 hours ,75,99,95,95,99,99,0,0,0,0,0,0
+15027,Service 836: Inspector General,Outcome,92893,$ Amount of annual waste identified and reported ,1500000,1500000,1500000,750000,1000000,1000000,0,0,0,0,0,0
+15027,Service 836: Inspector General,Outcome,92895,$ Amount saved and recovered due to investigations,250000,750000,1000000,1000000,500000,500000,0,0,0,0,0,0
+15027,Service 836: Inspector General,Effectiveness,404375,% of investigations with impact,0,0,0,0,17,20,0,0,0,0,0,0
+15027,Service 836: Inspector General,Output,404376,"# of OIG outreach activities conducted to educate and inform city employees, contractors, fund recipients, and citizens on fraud",0,0,0,0,20,25,0,0,0,0,0,0
+15027,Service 836: Inspector General,Output,404377,# of hotline complaints,0,0,0,0,300,350,0,0,0,0,0,0
+15028,Service 128: Labor Contract Negotiations and Administration,Output,92908,# of training sessions provided to agencies,30,5,2,2,2,2,0,0,0,0,0,0
+15028,Service 128: Labor Contract Negotiations and Administration,Efficiency,404386,# of 3rd and 4th step decisions written within 10 days,0,0,0,0,0,62,0,0,0,0,0,0
+15028,Service 128: Labor Contract Negotiations and Administration,Effectiveness,404387,# of 3rd and 4th step grievance hearings held,0,0,0,0,0,65,0,0,0,0,0,0
+15028,Service 128: Labor Contract Negotiations and Administration,Effectiveness,409818,The total cost of contract negotiations,0,0,0,0,0,50000,0,0,0,0,0,0
+15029,Service 185: Board of Municipal and Zoning Appeals,Effectiveness,92891,Hearings per FTE,35,35,35,50,150,150,0,0,0,0,0,0
+15029,Service 185: Board of Municipal and Zoning Appeals,Efficiency,200328,% of Appeals Upheld by Judicial Review,0,0,80,80,80,80,0,0,0,0,0,0
+15029,Service 185: Board of Municipal and Zoning Appeals,Output,200333,Average # of Days from Public Hearing to Written Resolution,0,0,0,0,0,0,0,0,0,30,30,30
+15029,Service 185: Board of Municipal and Zoning Appeals,Effectiveness,200334,Average # of days from filing a zoning appeal to a public hearing,0,0,0,0,0,0,0,0,0,60,60,60
+15029,Service 185: Board of Municipal and Zoning Appeals,Output,205951,Total # of Municipal and Zoning Appeals Heard,0,0,0,300,1000,1000,0,0,0,0,0,0
+15031,"Service 846: Discrimination Investigations, Resolutions and Concilations",Output,92985,# of complaints authorized for investigation annually,100,100,100,100,75,100,0,0,0,0,0,0
+15031,"Service 846: Discrimination Investigations, Resolutions and Concilations",Efficiency,92986,# of complaints closed per investigator annually,32,32,32,32,35,25,0,0,0,0,0,0
+15031,"Service 846: Discrimination Investigations, Resolutions and Concilations",Outcome,92988,% of complaints closed through negotiated resolution,35,35,35,35,35,75,0,0,0,0,0,0
+15031,"Service 846: Discrimination Investigations, Resolutions and Concilations",Efficiency,92989,% of complaints closed within 250 days after authorization,50,50,50,50,50,75,0,0,0,0,0,0
+15031,"Service 846: Discrimination Investigations, Resolutions and Concilations",Output,206778,"Number of events, presentations & trainings to city government agencies and private employers",0,0,0,12,14,30,0,0,0,0,0,0
+15032,Service 848: Police Community Relations,Output,92980,"# of collaborative meetings, forums & presentations convened between community & Civilian Review Board",15,15,15,18,20,12,0,0,0,0,0,0
+15032,Service 848: Police Community Relations,Efficiency,92981,Average # of investigations completed annually per Civilian Review Board Investigator,40,40,40,40,40,24,0,0,0,0,0,0
+15032,Service 848: Police Community Relations,Outcome,92984,% of CRB recommendations that changed Law Enforcement Unit's initial decision,1,2,2,2,2,2,0,0,0,0,0,0
+15032,Service 848: Police Community Relations,Effectiveness,206861,# of CRB decisions that include recommendations that are punitive & non-punitive,0,0,0,20,20,20,0,0,0,0,0,0
+15032,Service 848: Police Community Relations,Efficiency,206891,% of complaints the Board assigns to investigator within 1 week,0,0,0,75,75,75,0,0,0,0,0,0
+15033,Service 878: Disabilities Commission,Output,97925,# of legislative bills reviewed and responded to per year,15,15,15,15,15,15,0,0,0,0,0,0
+15033,Service 878: Disabilities Commission,Efficiency,97927,% of citizen ADA and disability complaints-issues successfully resolved per year ,80,85,90,91,91,90,0,0,0,0,0,0
+15033,Service 878: Disabilities Commission,Effectiveness,197611,"% of Agencies, with over 50 employees, that have ADA Employment Coordinators",24,28,36,40,30,100,0,0,0,0,0,0
+15033,Service 878: Disabilities Commission,Effectiveness,197612,% of Agencies that have ADA Compliant webpages,1,8,45,72,50,25,0,0,0,0,0,0
+15033,Service 878: Disabilities Commission,Outcome,197613,# of Department of Justice ADA non-compliant issues per year,24,21,18,15,10,10,0,0,0,0,0,0
+15034,Service 762: Historic Preservation,Outcome,92301,% of eligible properties in Baltimore with local or national designation,37,42,42,39,39,40,0,0,0,0,0,0
+15034,Service 762: Historic Preservation,Effectiveness,92302,% of completed authorization-to-proceed permit applications processed within two business days,65,85,85,85,88,88,0,0,0,0,0,0
+15034,Service 762: Historic Preservation,Output,92303,# of preliminary reviews completed for tax credit applications within 30 days,450,490,450,300,400,307,0,0,0,0,0,0
+15034,Service 762: Historic Preservation,Output,92304,# of authorization-to-proceed permits issued for Historic Districts and Landmark Properties,600,775,800,887,1000,865,0,0,0,0,0,0
+15034,Service 762: Historic Preservation,Output,97838,# of structures recommended to MCC for local designation ,6,400,400,1610,750,120,0,0,0,0,0,0
+15035,Service 765: Planning for a Sustainable Baltimore,Outcome,92296,The City's current Community Rating System (CRS) rating,0,0,0,2500,3000,3000,0,0,0,0,0,0
+15035,Service 765: Planning for a Sustainable Baltimore,Effectiveness,92297,% of Baltimore Sustainability Plan strategies initiated,80,84,88,95,15,20,0,0,0,0,0,0
+15035,Service 765: Planning for a Sustainable Baltimore,Outcome,92298,# of customers engaged and/or equipped by the Office of Sustainability to promote and/or implement sustainable practices,0,0,0,13000,18000,29000,0,0,0,0,0,0
+15035,Service 765: Planning for a Sustainable Baltimore,Effectiveness,92299,% of Climate Action Plan (CAP) recommendations completed,10,10,11,19,21,24,0,0,0,0,0,0
+15035,Service 765: Planning for a Sustainable Baltimore,Output,92300,Total area (sq. ft.) of vacant lots greened using Green Pattern Book patterns,600000,600000,700000,1000000,350000,500000,0,0,0,0,0,0
+15038,Service 622: Police Patrol,Outcome,92390,Total # of crimes reported,46100,46100,47707,47533,45000,37500,0,0,0,0,0,0
+15038,Service 622: Police Patrol,Effectiveness,99720,% of citizens satisfied or very satisfied with police responsiveness,75,75,75,75,75,75,0,0,0,0,0,0
+15038,Service 622: Police Patrol,Effectiveness,126462,% of time patrol officers spend on proactive policing ,40,40,20,20,30,30,0,0,0,0,0,0
+15039,Service 623: Crime Investigation,Effectiveness,92384,% of homicide cases cleared,60,55,55,60,60,59,0,0,0,0,0,0
+15039,Service 623: Crime Investigation,Effectiveness,126461,% of violent crime cases cleared,50,50,40,40,40,40,0,0,0,0,0,0
+15040,Service 624: Target Violent Criminals,Effectiveness,92381,% of arrests that include a felony charge,45,15,45,45,45,45,0,0,0,0,0,0
+15040,Service 624: Target Violent Criminals,Output,92382,# of gun arrests,210,215,400,350,1300,325,0,0,0,0,0,0
+15040,Service 624: Target Violent Criminals,Output,99713,# of guns seized,360,1800,600,425,2000,400,0,0,0,0,0,0
+15040,Service 624: Target Violent Criminals,Output,99714,# of search warrants obtained,800,800,400,350,600,300,0,0,0,0,0,0
+15041,Service 625: SWAT/ESU,Outcome,92374,"% of incidents resolved without injury to officers, victims, or suspects",100,100,100,100,100,100,0,0,0,0,0,0
+15041,Service 625: SWAT/ESU,Outcome,92375,# of felony arrests assisted by SWAT (calendar year),115,120,150,150,150,125,0,0,0,0,0,0
+15041,Service 625: SWAT/ESU,Output,92378,# of SWAT deployments for high risk warrant service,260,250,175,175,175,175,0,0,0,0,0,0
+15041,Service 625: SWAT/ESU,Output,99749,# of readiness training sessions,75,75,75,75,100,75,0,0,0,0,0,0
+15041,Service 625: SWAT/ESU,Output,99758,# of SWAT deployments for barricades and hostage situations,18,13,15,15,20,20,0,0,0,0,0,0
+15042,Service 626: Operational and Analytical Intelligence,Effectiveness,92372,# of arrests attributable to CCTV intelligence,1500,1500,633,700,700,320,0,0,0,0,0,0
+15042,Service 626: Operational and Analytical Intelligence,Output,92373,# of Computer & Electronic Crimes Unit investigations,1600,1500,1600,1500,1000,1500,0,0,0,0,0,0
+15042,Service 626: Operational and Analytical Intelligence,Outcome,203867,% of critical infrastructure in camera footprint,0,0,0,20,40,20,0,0,0,0,0,0
+15043,Service 628: Police Internal Affairs,Outcome,92367,# of discourteous complaints (per 100 officers),2.6,4,4,3.1,3,3.1,0,0,0,0,0,0
+15043,Service 628: Police Internal Affairs,Effectiveness,92369,% of investigations completed within six months,80,80,60,60,60,60,0,0,0,0,0,0
+15043,Service 628: Police Internal Affairs,Outcome,99716,# of misconduct complaints (per 100 officers),3,3.2,12,12,10,58,0,0,0,0,0,0
+15043,Service 628: Police Internal Affairs,Effectiveness,99723,% of citizens satisfied or very satisfied with police approachability,70,70,80,80,80,80,0,0,0,0,0,0
+15044,Service 632: Records Management,Effectiveness,92364,Average # of minutes to enter Part 1 report into Records Management System,20,20,20,20,20,15,0,0,0,0,0,0
+15045,"Service 634: Crowd, Traffic, and Special Events Management",Efficiency,92361,% of cost reimbursed by event organizers for which BPD bills,100,75,75,100,100,100,0,0,0,0,0,0
+15045,"Service 634: Crowd, Traffic, and Special Events Management",Output,92362,# of accidents investigated (includes all BPD accidents and fatal or serious civilian vehicle accidents),684,655,805,800,750,800,0,0,0,0,0,0
+15045,"Service 634: Crowd, Traffic, and Special Events Management",Output,92363,# of special events staffed (incl. sporting events),250,250,260,260,260,270,0,0,0,0,0,0
+15046,Service 635: Recruitment and Training,Outcome,92356,% of hires remaining in Police Department for five years,65,65,60,55,60,55,0,0,0,0,0,0
+15046,Service 635: Recruitment and Training,Effectiveness,92357,% of recruits who successfully completed training with grade of 85 or higher,85,85,75,75,80,75,0,0,0,0,0,0
+15046,Service 635: Recruitment and Training,Output,92358,# of completed applications received,3500,2300,2500,2750,3000,2750,0,0,0,0,0,0
+15046,Service 635: Recruitment and Training,Output,92359,# of recruits hired,240,200,200,200,300,250,0,0,0,0,0,0
+15046,Service 635: Recruitment and Training,Efficiency,99717,% of recruits that graduated,0,0,0,0,0,0,90,90,90,80,80,80
+15047,Service 637: Special Operations-K9 & Mounted Unit,Outcome,92351,# of arrests assisted by K-9/Mounted,700,700,600,250,150,150,0,0,0,0,0,0
+15047,Service 637: Special Operations-K9 & Mounted Unit,Effectiveness,92352,"# of K-9 calls for service (total reactive deployments, e.g. calls or special events)",1150,1150,2100,1150,3000,1300,0,0,0,0,0,0
+15047,Service 637: Special Operations-K9 & Mounted Unit,Output,92353,# of events staffed by the Mounted Unit,154,150,180,180,180,180,0,0,0,0,0,0
+15047,Service 637: Special Operations-K9 & Mounted Unit,Effectiveness,126127,% of K-9 deployments resulting in drug seizure,30,30,30,30,30,40,0,0,0,0,0,0
+15048,Service 638: Marine Unit,Output,92350,# of homeland security checks by marine unit,3000,3000,4000,4500,4700,5000,0,0,0,0,0,0
+15048,Service 638: Marine Unit,Output,92354,# of marine unit calls for service,250,250,450,450,500,650,0,0,0,0,0,0
+15049,Service 640: Special Operations-Aviation,Outcome,92346,# of helicopter arrest assists,200,200,250,250,300,450,0,0,0,0,0,0
+15049,Service 640: Special Operations-Aviation,Output,99765,# of designated hotspot checks,22000,12000,14400,14400,9000,10800,0,0,0,0,0,0
+15049,Service 640: Special Operations-Aviation,Outcome,99773,% of citizens feeling safe or very safe in their neighborhood at night,0,0,0,0,0,0,80,80,75,75,75,75
+15049,Service 640: Special Operations-Aviation,Output,126128,# of aviation support internal requests for service,33000,40000,41000,41000,8000,30000,0,0,0,0,0,0
+15049,Service 640: Special Operations-Aviation,Efficiency,126129,Helicopter availability rate (%),90,90,90,95,96,80,0,0,0,0,0,0
+15050,Service 642: Crime Laboratory and Evidence Control,Output,99718,Total # developed suitable prints from crime scenes processed,0,0,0,0,0,0,1209,2000,4000,4500,5000,4500
+15050,Service 642: Crime Laboratory and Evidence Control,Effectiveness,99782,% of requests completed yearly,0,0,0,0,0,0,89,70,85,70,75,75
+15050,Service 642: Crime Laboratory and Evidence Control,Outcome,99785,# of days to eradicate existing backlog in all units combined,0,0,0,0,0,0,690,640,1000,800,700,800
+15050,Service 642: Crime Laboratory and Evidence Control,Output,126149,# of new requests received in all units combined,0,31000,37000,38000,38500,38500,0,0,0,0,0,0
+15050,Service 642: Crime Laboratory and Evidence Control,Efficiency,127391,"Database hits as a % of total entries (IBIS, AFIS, CODIS)",0,17,20,22,25,35,0,0,0,0,0,0
+15052,Service 661: Public Right of Way Cleaning,Effectiveness,92545,% of alley cleaning service requests closed on time,90,65,70,80,85,80,0,0,0,0,0,0
+15052,Service 661: Public Right of Way Cleaning,Outcome,92546,% of citizens rating the city's cleanliness excellent or good,30,23,25,30,35,25,0,0,0,0,0,0
+15052,Service 661: Public Right of Way Cleaning,Output,92547,# of miles swept,150000,105000,120000,130000,130000,120000,0,0,0,0,0,0
+15052,Service 661: Public Right of Way Cleaning,Output,92548,"# of service requests completed (alleys, streets, lots, graffiti)",75000,80000,70000,71000,85000,80000,0,0,0,0,0,0
+15052,Service 661: Public Right of Way Cleaning,Effectiveness,92549,% of service requests escalated,2,0.6,0.5,0.4,0.4,0.32,0,0,0,0,0,0
+15053,Service 662: Vacant & Abandon Property Cleaning & Boarding,Outcome,92540,# of citizen complaints related to rats,7500,7000,7000,7200,5500,5200,0,0,0,0,0,0
+15053,Service 662: Vacant & Abandon Property Cleaning & Boarding,Efficiency,92542,% of cleaning and boarding requests completed on time,80,90,90,90,90,90,0,0,0,0,0,0
+15053,Service 662: Vacant & Abandon Property Cleaning & Boarding,Effectiveness,92543,# of burrows baited ,50000,50000,50000,25000,50000,25000,0,0,0,0,0,0
+15053,Service 662: Vacant & Abandon Property Cleaning & Boarding,Efficiency,92544,$ Value of liens billed (in millions),4000000,3500000,3500000,2100000,3000000,3000000,0,0,0,0,0,0
+15054,Service 663: Waste Removal and Recycling,Efficiency,92535,% of missed pick-ups,0.04,0.05,0.05,0.05,0.1,0.07,0,0,0,0,0,0
+15054,Service 663: Waste Removal and Recycling,Effectiveness,92536,% of service requests completed on time,93,95,95,95,95,90,0,0,0,0,0,0
+15054,Service 663: Waste Removal and Recycling,Output,92537,Tonnage collected - mixed refuse,150000,145970,143051,150000,145000,150000,0,0,0,0,0,0
+15054,Service 663: Waste Removal and Recycling,Output,92538,Tonnage collected - recycling,34000,34000,34000,30000,35000,30000,0,0,0,0,0,0
+15055,Service 664: Waste Re-Use & Disposal,Effectiveness,92530,Cubic yards of methane gas reused,8500000,8500000,8500000,8500000,7000000,7000000,0,0,0,0,0,0
+15055,Service 664: Waste Re-Use & Disposal,Efficiency,92531,$ Landfill operating cost per ton of waste disposed,17,21,22,22,22,26,0,0,0,0,0,0
+15055,Service 664: Waste Re-Use & Disposal,Output,92534,Tonnage disposed,280000,280000,270000,270000,270000,260000,0,0,0,0,0,0
+15055,Service 664: Waste Re-Use & Disposal,Effectiveness,126947,% of non-compliant MDE inspection reports,0,50,25,25,25,25,0,0,0,0,0,0
+15055,Service 664: Waste Re-Use & Disposal,Effectiveness,335803,% of waste in tonnage collected by DPW that goes to recycling,0,0,0,0,22,22,0,0,0,0,0,0
+15057,Service 671: Water Management,Efficiency,92528,Cost of treatment per million gallons (mg),305,305,305,305,333,333,0,0,0,0,0,0
+15057,Service 671: Water Management,Output,92529,Million gallons of water treated per day (MGD),220,220,220,220,220,220,0,0,0,0,0,0
+15057,Service 671: Water Management,Outcome,126898,# of Safe Drinking Water Act Violations,0,0,0,0,0,0,0,0,0,0,0,0
+15057,Service 671: Water Management,Outcome,335792,# of confirmed distribution system samples outside EPA/MDE compliance,0,0,0,0,0,0,0,0,0,0,0,0
+15058,Service 672: Water and Wastewater Consumer Services,Output,243994,% of customers on financial hardship programs,0,0,0,7,8,8,0,0,0,0,0,0
+15058,Service 672: Water and Wastewater Consumer Services,Output,243995,# of active City customer accounts,0,0,0,216813,216813,215220,0,0,0,0,0,0
+15058,Service 672: Water and Wastewater Consumer Services,Efficiency,243996,# of bills produced during calendar month showing billing timeliness,0,0,0,205972,205972,205972,0,0,0,0,0,0
+15058,Service 672: Water and Wastewater Consumer Services,Effectiveness,243997,# of customer service requests submitted for water accounts,0,0,0,14293,13578,13578,0,0,0,0,0,0
+15058,Service 672: Water and Wastewater Consumer Services,Effectiveness,335794,% of accounts billed,0,0,96,98,95.9,98,0,0,0,0,0,0
+15059,Service 673: Wastewater Management,Effectiveness,92516,% of Significant Industrial Users inspected and sampled,100,100,100,100,100,100,0,0,0,0,0,0
+15059,Service 673: Wastewater Management,Outcome,92517,% of time in National Pollutant Discharge Elimination System (NPDES) Permit compliance,100,100,100,100,100,100,0,0,0,0,0,0
+15059,Service 673: Wastewater Management,Efficiency,92518,$ Cost of treatment per million gallons,1352,1390,1470,1470,1490,1475,0,0,0,0,0,0
+15059,Service 673: Wastewater Management,Output,92519,Million gallons of wastewater treated per day (MGD),199,203,210,210,204,209,0,0,0,0,0,0
+15059,Service 673: Wastewater Management,Effectiveness,126943,# of dry-weather overflows,0,354,300,240,150,150,0,0,0,0,0,0
+15060,Service 674: Surface Water Management,Outcome,92511,% SWM/ESC Plans Review responses within 14 days,70,80,40,45,45,60,0,0,0,0,0,0
+15060,Service 674: Surface Water Management,Effectiveness,92513,# of inlets routinely cleaned on quarterly basis,500,800,1000,1100,1200,1400,0,0,0,0,0,0
+15060,Service 674: Surface Water Management,Output,92514,% Construction sites inspected every 2 weeks,95,95,95,95,85,85,0,0,0,0,0,0
+15060,Service 674: Surface Water Management,Output,92515,Impervious area (acres) treated/year (construction initiated by City),200,250,200,500,10,350,0,0,0,0,0,0
+15061,Service 675: Engineering and Construction Management - Water and Wastewater,Effectiveness,92506,% of projects completed on time and within budget,70,70,70,70,50,50,0,0,0,0,0,0
+15061,Service 675: Engineering and Construction Management - Water and Wastewater,Efficiency,92507,Cost/linear foot to rehabilitate water distribution system (Capital Improvement Program),475,505,460,500,450,350,0,0,0,0,0,0
+15061,Service 675: Engineering and Construction Management - Water and Wastewater,Output,92509,Linear Feet of wastewater collection system rehabilitated/replaced,596025,293685,298608,298608,205000,180000,0,0,0,0,0,0
+15061,Service 675: Engineering and Construction Management - Water and Wastewater,Effectiveness,335795,Total # of water quality complaints during the reporting period per 1000 water accounts,0,0,0,1.06,1.06,1.06,0,0,0,0,0,0
+15061,Service 675: Engineering and Construction Management - Water and Wastewater,Effectiveness,335796,Total # of WICs (Water in Cellar) during reporting period per 100 customer accounts,0,0,0,0.16,0.16,0.16,0,0,0,0,0,0
+15064,Service 645: Aquatics,Output,154159,Total # of visitors to outdoor pools,0,250000,250000,250000,100000,100000,0,0,0,0,0,0
+15064,Service 645: Aquatics,Efficiency,154160,% of operating costs recouped through earned revenue,5,5,5,5,5,5,0,0,0,0,0,0
+15064,Service 645: Aquatics,Effectiveness,154161,% of pools meeting maintenance standards,100,100,100,100,100,100,0,0,0,0,0,0
+15064,Service 645: Aquatics,Outcome,154162,% of citizens who are satisfied or very satisfied with City-run swimming pools,60,60,60,0,0,0,0,0,0,0,0,0
+15064,Service 645: Aquatics,Rec & Parks,408677,Attendance at regional outdoor pools,0,0,0,0,,0,0,0,0,0,0,0
+15064,Service 645: Aquatics,Rec & Parks,408678,Attendance at neighborhood pools,0,0,0,0,,0,0,0,0,0,0,0
+15065,Service 646: Park Maintenance,Outcome,92185,% of citizens satisfied or very satisfied with City park maintenance,75,60,60,0,0,0,0,0,0,0,0,0
+15065,Service 646: Park Maintenance,Effectiveness,92186,# of playgrounds with 100% functional components,100,100,100,82,92,85,0,0,0,0,0,0
+15065,Service 646: Park Maintenance,Output,92188,# of City-maintained park playgrounds,118,118,119,120,120,120,0,0,0,0,0,0
+15066,Service 647: Youth and Adult Sports,Efficiency,92183,% of operating costs recovered from sports programs,0,30,30,20,20,20,0,0,0,0,0,0
+15066,Service 647: Youth and Adult Sports,Output,92184,# of participants enrolled in a Youth & Adult sports program,0,20000,20000,11600,12760,13000,0,0,0,0,0,0
+15066,Service 647: Youth and Adult Sports,Effectiveness,154166,% of total program enrollees who have participated in at least one Youth & Adult sports program in the past,0,80,80,40,40,50,0,0,0,0,0,0
+15066,Service 647: Youth and Adult Sports,Outcome,154167,% of participants who are satisfied or very satisfied with organized sports programming,0,75,75,75,80,80,0,0,0,0,0,0
+15067,Service 648: Community Recreation Centers,Outcome,92177,% of residents who are satisfied or very satisfied with quality of City operated Recreation Centers,50,50,60,0,0,0,0,0,0,0,0,0
+15067,Service 648: Community Recreation Centers,Output,154168,Total # of youth aged 5-13 enrolled in summer recreation camps,0,3000,3200,3200,3500,4000,0,0,0,0,0,0
+15067,Service 648: Community Recreation Centers,Output,154169,Total # of youth aged 5-13 enrolled in after school recreation programs during the school year,0,2000,2100,2100,2300,2500,0,0,0,0,0,0
+15067,Service 648: Community Recreation Centers,Output,154170,Total # of individuals aged 18 and above enrolled in at least one activity at the Recreation Centers,0,72000,75000,0,10000,12000,0,0,0,0,0,0
+15067,Service 648: Community Recreation Centers,Effectiveness,154171,% of recreational programming at capacity,0,80,90,90,95,95,0,0,0,0,0,0
+15068,Service 649: Special Facilities Management,Efficiency,98101,% of operating costs recovered with earned revenue,0,0,0,0,0,0,0,100,100,100,100,100
+15068,Service 649: Special Facilities Management,Output,154172,Total # of visitors to special facilities (annual),0,75000,90000,130000,150000,165000,0,0,0,0,0,0
+15069,Service 650: Horticulture,Output,92173,# of City farm plots rented and in active use,0,761,766,715,715,675,0,0,0,0,0,0
+15069,Service 650: Horticulture,Output,92174,Total # of users of Cylburn Arboretum,0,37000,38500,40000,40000,38000,0,0,0,0,0,0
+15069,Service 650: Horticulture,Efficiency,97964,% Operating cost of public gardens recovered from earned revenue,0,0,0,0,0,0,0,35,32,25,25,25
+15069,Service 650: Horticulture,Outcome,154173,% of attendees who rated their visit to the Conservatory as good or excellent,0,75,80,80,80,85,0,0,0,0,0,0
+15069,Service 650: Horticulture,Output,196474,Total # of users at Rawlings Conservatory,0,32000,29500,28000,29500,32000,0,0,0,0,0,0
+15070,Service 651: Recreation for Seniors,Output,154176,Total attendance at seniors recreation programming events,0,6000,6500,6800,6800,6800,0,0,0,0,0,0
+15070,Service 651: Recreation for Seniors,Efficiency,154194,% of senior recreation events at capacity,0,80,80,80,80,80,0,0,0,0,0,0
+15070,Service 651: Recreation for Seniors,Effectiveness,154195,% of senior participants who said they were satisfied or very satisfied with recreational programming,0,80,80,80,80,80,0,0,0,0,0,0
+15070,Service 651: Recreation for Seniors,Outcome,154196,% of senior participants who reported that participation in recreational programming improved their overall health and well-being,0,80,80,80,80,80,0,0,0,0,0,0
+15071,Service 652: Therapeutic Recreation,Outcome,92164,% of Participants and caregivers who reported that participation in therapeutic programming improved their overall health and well-being,0,80,80,80,80,80,0,0,0,0,0,0
+15071,Service 652: Therapeutic Recreation,Output,154263,Total attendance at therapeutic programming events,16000,17000,18000,18500,20000,23000,0,0,0,0,0,0
+15071,Service 652: Therapeutic Recreation,Efficiency,154264,% of therapeutic events at capacity,0,75,90,90,90,90,0,0,0,0,0,0
+15071,Service 652: Therapeutic Recreation,Outcome,154265,% of participants and caregivers who said they were satisfied or very satisfied with therapeutic programming,0,80,80,90,95,95,0,0,0,0,0,0
+15072,Service 653: Park Programs & Events,Output,92160,Total attendance at park programs and events (annual),30000,33000,39000,55000,150000,170000,0,0,0,0,0,0
+15072,Service 653: Park Programs & Events,Output,92161,# of park permits issued.,1700,1700,2000,2000,2000,2000,0,0,0,0,0,0
+15072,Service 653: Park Programs & Events,Efficiency,154266,% of operating costs recovered from earned revenue,100,100,100,100,100,100,0,0,0,0,0,0
+15072,Service 653: Park Programs & Events,Outcome,154267,$ value of volunteer hours worked across all programming,4840000,4960000,5650000,5178000,5350000,5350000,0,0,0,0,0,0
+15072,Service 653: Park Programs & Events,Outcome,154285,% of citizens reporting they feel safe or very safe in parks during the day,78,78,78,0,0,0,0,0,0,0,0,0
+15073,Service 654: Urban Forestry,Outcome,92155,% Baltimore's urban tree canopy,0,28,28,28,28,28,0,0,0,0,0,0
+15073,Service 654: Urban Forestry,Effectiveness,154158,# of tree maintenance SRs received,0,10500,10500,10500,10300,10300,0,0,0,0,0,0
+15073,Service 654: Urban Forestry,Output,154549,Total # of trees planted by City crews,0,750,750,1650,2000,2000,0,0,0,0,0,0
+15073,Service 654: Urban Forestry,Efficiency,154550,% of tree maintenance work that is proactive,0,22,33,33,38,38,0,0,0,0,0,0
+15073,Service 654: Urban Forestry,Effectiveness,154551,% of trees remaining healthy two years after planting,0,85,85,94,95,95,0,0,0,0,0,0
+15074,Service 500: Street Lighting,Outcome,92258,% of citizens rating street lighting services 'good' or 'excellent',75,75,75,75,75,75,0,0,0,0,0,0
+15074,Service 500: Street Lighting,Effectiveness,92259,% of inspected streets meeting City roadway lighting standards,90,90,60,60,60,60,0,0,0,0,0,0
+15074,Service 500: Street Lighting,Effectiveness,92260,% of street light outages repaired within 4 days,95,95,89,90,95,90,0,0,0,0,0,0
+15074,Service 500: Street Lighting,Efficiency,92261,Average annual electricity cost ($) per street light,97.67,93.15,84.34,91.45,91.45,83.47,0,0,0,0,0,0
+15074,Service 500: Street Lighting,Output,92262,# of street light outage service requests completed,800,800,810,803,803,803,0,0,0,0,0,0
+15075,Service 548: Conduits,Output,336473,# of inspections for cable removal and installation,0,0,0,630,693,762,0,0,0,0,0,0
+15075,Service 548: Conduits,Output,336474,# of manhole inspections,0,0,0,600,660,250,0,0,0,0,0,0
+15075,Service 548: Conduits,Output,336475,# of linear feet of conduit rehabilitated,0,0,0,50000,55000,60500,0,0,0,0,0,0
+15075,Service 548: Conduits,Efficiency,336476,% of ROW permit applications reviewed within 15 days,0,0,0,95,97,98,0,0,0,0,0,0
+15077,Service 682: Parking Management,Outcome,92249,% of City residents who say finding parking in their neighborhood is a serious or very serious problem,19,19,19,19,19,19,0,0,0,0,0,0
+15077,Service 682: Parking Management,Effectiveness,92250,Revenue collected annually per space at City-owned off-street parking facilities,2636,2715,2875,2692,3179,2763,0,0,0,0,0,0
+15077,Service 682: Parking Management,Effectiveness,92251,Total parking meter revenue collected,13500000,15006559,16607889,18268677,17000000,13762911,0,0,0,0,0,0
+15077,Service 682: Parking Management,Effectiveness,92252,# of disability placards reported stolen in Baltimore City,32,13,33,30,35,37,0,0,0,0,0,0
+15077,Service 682: Parking Management,Output,92253,"Total # of on-street parking permits distributed, including: residential, visitor, Official, and church permits",32325,32675,33000,34250,28639,34329,0,0,0,0,0,0
+15078,Service 683: Street Management,Outcome,92244,% of citizens rating street and sidewalk maintenance as good or excellent,29,32,30,30,30,30,0,0,0,0,0,0
+15078,Service 683: Street Management,Effectiveness,92245,% of streets meeting acceptable pavement condition standard,62,62,64,65,65,65,0,0,0,0,0,0
+15078,Service 683: Street Management,Efficiency,92246,% of potholes repaired within 48 hours of reporting,100,100,95,100,100,100,0,0,0,0,0,0
+15078,Service 683: Street Management,Efficiency,92247,Cost per lane mile ($) resurfaced by internal crews,131371,131371,121642,127614,127614,127614,0,0,0,0,0,0
+15078,Service 683: Street Management,Output,92248,Total # of lane miles resurfaced by internal crews,60,60,60,60,50,40,0,0,0,0,0,0
+15079,Service 684: Traffic Management,Effectiveness,126871,Average % of traffic signals communicating with Traffic Management Center 90% or more of the time,0,0,43,43,43,43,0,0,0,0,0,0
+15079,Service 684: Traffic Management,Outcome,336499,# of serious injury/fatal crashes,0,0,0,375,350,350,0,0,0,0,0,0
+15079,Service 684: Traffic Management,Efficiency,336500,% of lane closure/road closure permits processed within 15 days,0,0,0,80,90,90,0,0,0,0,0,0
+15079,Service 684: Traffic Management,Efficiency,336501,% of Traffic Signals repaired within 12 hours of reporting,0,0,0,70,75,75,0,0,0,0,0,0
+15080,Service 685: Special Events,Output,92239,"# of events served with set-up and breakdown of booths, etc.",250,250,296,328,328,328,0,0,0,0,0,0
+15080,Service 685: Special Events,Output,96682,# of street vendor licenses issued (including food trucks),0,0,225,225,225,180,0,0,0,0,0,0
+15080,Service 685: Special Events,Efficiency,96683,"% of large special events (community block party, Artscape, etc.) applications that met the estimated delivery date (45 days)",0,60,95,95,85,85,0,0,0,0,0,0
+15080,Service 685: Special Events,Efficiency,96710,% of large special event applications entered into the system within 7 days,90,90,90,100,85,90,0,0,0,0,0,0
+15081,Service 687: Inner Harbor Services-DOT,Outcome,92235,% of citizens rating the Inner Harbor appearance as good or excellent,0,60,67,67,60,60,0,0,0,0,0,0
+15081,Service 687: Inner Harbor Services-DOT,Effectiveness,92236,% of light repairs completed on time,75,100,100,100,97,90,0,0,0,0,0,0
+15081,Service 687: Inner Harbor Services-DOT,Effectiveness,92237,% of watering points accessible to docking boats operating every week,100,100,100,100,100,100,0,0,0,0,0,0
+15082,Service 688: Snow and Ice Control,Outcome,92231,% of citizens rating snow removal services as good or excellent,60,85,62,62,62,62,0,0,0,0,0,0
+15082,Service 688: Snow and Ice Control,Effectiveness,92232,% of primary roadways at wet pavement within 8 hours of end of weather event,100,100,100,100,100,100,0,0,0,0,0,0
+15082,Service 688: Snow and Ice Control,Efficiency,92233,% of snow equipment out of service during snow event,0,10,12,13,11,9,0,0,0,0,0,0
+15082,Service 688: Snow and Ice Control,Output,92234,"# of lane miles plowed, salted, or sanded annually",22000,22000,22000,22000,22000,22000,0,0,0,0,0,0
+15082,Service 688: Snow and Ice Control,Efficiency,336503,% of Service Requests closed within 12 hours of the end of a weather event,0,0,0,90,90,90,0,0,0,0,0,0
+15083,Service 689: Vehicle Impounding and Disposal,Effectiveness,92227,# of property damage claims filed,20,30,22,25,30,30,0,0,0,0,0,0
+15083,Service 689: Vehicle Impounding and Disposal,Effectiveness,92228,Average # of minutes wait time for customer vehicle retrieval,15,20,20,20,20,20,0,0,0,0,0,0
+15083,Service 689: Vehicle Impounding and Disposal,Efficiency,92229,$ revenue generated per $ spent annually from vehicle auctions,12.5,13,13,13,13,13,0,0,0,0,0,0
+15083,Service 689: Vehicle Impounding and Disposal,Output,92230,# of vehicles impounded and towed,32150,33000,31775,30926,30926,30926,0,0,0,0,0,0
+15083,Service 689: Vehicle Impounding and Disposal,Effectiveness,126429,$ revenue generated per vehicle auctioned,0,600,500,500,500,500,0,0,0,0,0,0
+15083,Service 689: Vehicle Impounding and Disposal,Effectiveness,336504,Total $ paid in damage claims ,0,0,0,31000,33000,45000,0,0,0,0,0,0
+15084,Service 690: Sustainable Transportation,Outcome,92223,% of bikeshare rides replacing car trips,0,10,10,10,0,0,0,0,0,0,0,0
+15084,Service 690: Sustainable Transportation,Effectiveness,92224,# of Circulator riders annually,4600000,4200000,3842000,3857000,3857000,3000000,0,0,0,0,0,0
+15084,Service 690: Sustainable Transportation,Efficiency,92225,Average # of minutes headway for Circulator during rush hour,14.4,14.4,16.4,13.4,15,15,0,0,0,0,0,0
+15084,Service 690: Sustainable Transportation,Output,92226,# of miles of new bike infrastructure constructed,0,16,8,8.3,10,10,0,0,0,0,0,0
+15084,Service 690: Sustainable Transportation,Outcome,336505,# of miles ridden through bikeshare (monthly average),0,0,0,5000,3500,5000,0,0,0,0,0,0
+15084,Service 690: Sustainable Transportation,Effectiveness,336506,# of bikeshare members/accounts (monthly average),0,0,0,1580,1738,0,0,0,0,0,0,0
+15085,Service 691: Public Right of Way Landscape Management,Effectiveness,92219,Median mowing cycle (# of days),14,14,14,14,14,14,0,0,0,0,0,0
+15085,Service 691: Public Right of Way Landscape Management,Effectiveness,92220,% of median strips mowed on schedule per cycle,100,100,100,100,100,100,0,0,0,0,0,0
+15085,Service 691: Public Right of Way Landscape Management,Efficiency,92221,Average $ cost per maintained segment of right-of-way,0,0,211,202,202,202,0,0,0,0,0,0
+15085,Service 691: Public Right of Way Landscape Management,Output,92222,# of segments of right-of-way maintained annually,0,0,3150,3960,3960,3960,0,0,0,0,0,0
+15086,Service 692: Bridge and Culvert Management,Outcome,92213,Average Bridge Sufficiency Rating,79,80,77,78.5,78,78,0,0,0,0,0,0
+15086,Service 692: Bridge and Culvert Management,Effectiveness,92214,% of bridges with a Bridge Sufficiency Rating below 50,8,7,10,11,9,10,0,0,0,0,0,0
+15086,Service 692: Bridge and Culvert Management,Effectiveness,92215,% of City bridges under preventative maintenance per year,7,7,6,6,5,5,0,0,0,0,0,0
+15086,Service 692: Bridge and Culvert Management,Output,126430,# of major bridge repairs performed,0,10,15,25,10,10,0,0,0,0,0,0
+15087,Service 693: Parking Enforcement,Effectiveness,92211,% of parking complaint service requests closed on time,98,100,100,100,100,100,0,0,0,0,0,0
+15087,Service 693: Parking Enforcement,Output,92212,# of vehicles booted,7000,7260,8191,8506,8506,6700,0,0,0,0,0,0
+15087,Service 693: Parking Enforcement,Output,92217,# of citations Issued,360000,365000,388737,365058,365000,326600,0,0,0,0,0,0
+15088,Service 694: Survey Control,Effectiveness,92208,% of survey control stations reset,100,100,100,100,100,100,0,0,0,0,0,0
+15088,Service 694: Survey Control,Efficiency,92209,# of field crew days needed to reset 20 traverse stations,4,4,3,2,2,3,0,0,0,0,0,0
+15088,Service 694: Survey Control,Output,92210,# of control stations replaced,225,225,500,500,500,300,0,0,0,0,0,0
+15089,Service 695: Dock Master,Output,92207,# of marina dockings,2750,2000,1517,1517,750,575,0,0,0,0,0,0
+15089,Service 695: Dock Master,Efficiency,92295,# of “rascal” dockings per year,0,0,0,0,54,3,0,0,0,0,0,0
+15089,Service 695: Dock Master,Outcome,92776,% of Dockmaster operations supported with docking fee revenue,55,60,43,43,50,40,0,0,0,0,0,0
+15089,Service 695: Dock Master,Effectiveness,92777,% of marina customers who said they were satisfied or very satisfied with service received,100,90,100,100,100,0,0,0,0,0,0,0
+15089,Service 695: Dock Master,Efficiency,126431,% of docking capacity booked during peak season,0,45,37,37,37,15,0,0,0,0,0,0
+15090,Service 696: Street Cuts Management,Effectiveness,92781,# of street cuts,5500,5500,8236,24423,24423,24423,0,0,0,0,0,0
+15090,Service 696: Street Cuts Management,Outcome,94775,Citywide Pavement Condition index,62,62,64,64,65,65,0,0,0,0,0,0
+15090,Service 696: Street Cuts Management,Effectiveness,94776,% of street cuts determined to be improper during inspection,6,2,6,5,5,5,0,0,0,0,0,0
+15090,Service 696: Street Cuts Management,Efficiency,126432,Average # of hours between street cut SR received and inspection completed,0,24,24,24,24,24,0,0,0,0,0,0
+15091,Service 697: Traffic Safety,Output,97089,# of students annually visiting Safety City,34000,34000,31657,31657,31657,2100,0,0,0,0,0,0
+15091,Service 697: Traffic Safety,Efficiency,97090,Average $ cost per sign fabricated and installed,60,55,261,223,223,245,0,0,0,0,0,0
+15091,Service 697: Traffic Safety,Effectiveness,97091,# of crosswalks striped annually,650,250,200,192,188,180,0,0,0,0,0,0
+15091,Service 697: Traffic Safety,Outcome,126433,% of personal injury accidents involving pedestrians,0,19,19,14,14,14,0,0,0,0,0,0
+15091,Service 697: Traffic Safety,Output,336508,# of school presentations on traffic safety,0,0,0,330,350,180,0,0,0,0,0,0
+15092,Service 747: Register and License Properties and Contractors,Output,97588,# number of burglar alarm accounts created,40000,40000,10000,10000,10000,11000,0,0,0,0,0,0
+15092,Service 747: Register and License Properties and Contractors,Efficiency,398290,% of property registrations issued on time,0,0,0,0,70,70,0,0,0,0,0,0
+15092,Service 747: Register and License Properties and Contractors,Effectiveness,398291,% of all rental properties licensed (FY),0,0,0,0,0,70,0,0,0,0,0,0
+15092,Service 747: Register and License Properties and Contractors,Output,398292,# of rental properties licensed (FY),0,0,0,0,45000,45000,0,0,0,0,0,0
+15092,Service 747: Register and License Properties and Contractors,Outcome,398293,% of properties receiving a license for 2 or more years  ,0,0,0,0,0,100,0,0,0,0,0,0
+15093,Service 656: Wage Investigation and Enforcement,Outcome,97769,% of restitution and penalty collected,75,50,50,60,70,60,0,0,0,0,0,0
+15093,Service 656: Wage Investigation and Enforcement,Effectiveness,97770,% of wage cases closed in under 6 months,60,75,75,80,80,83,0,0,0,0,0,0
+15093,Service 656: Wage Investigation and Enforcement,Efficiency,97771,# of months to complete a case (average),6,6,6,5,6,5,0,0,0,0,0,0
+15093,Service 656: Wage Investigation and Enforcement,Output,97772,# of complaints and violations,375,375,375,375,300,375,0,0,0,0,0,0
+15093,Service 656: Wage Investigation and Enforcement,Outcome,98392,$ value of restitution and penalties assessed,140000,140000,90000,120000,131000,150000,0,0,0,0,0,0
+15095,Service 734: Design and Construction/Capital Projects Division,Efficiency,92994,% of projects with change orders that exceed construction contingency,10,10,10,10,10,10,0,0,0,0,0,0
+15095,Service 734: Design and Construction/Capital Projects Division,Effectiveness,92995,% of design completed on time,85,85,87,87,87,87,0,0,0,0,0,0
+15095,Service 734: Design and Construction/Capital Projects Division,Effectiveness,92996,% of design completed within budget,90,90,92,92,92,92,0,0,0,0,0,0
+15095,Service 734: Design and Construction/Capital Projects Division,Effectiveness,92997,% of construction completed on time,75,77,80,80,80,80,0,0,0,0,0,0
+15095,Service 734: Design and Construction/Capital Projects Division,Effectiveness,92998,% of construction completed within budget,82,85,87,87,87,87,0,0,0,0,0,0
+15100,Service 717: Environmental Inspection Services,Effectiveness,93086,% of mandated food service facility inspections completed,100,65,65,80,65,65,0,0,0,0,0,0
+15100,Service 717: Environmental Inspection Services,Effectiveness,93087,%  of complaints closed on time,100,100,100,100,100,100,0,0,0,0,0,0
+15100,Service 717: Environmental Inspection Services,Effectiveness,93088,Average # of days to receive a final plan review inspection after request,30,30,10,8,8,8,0,0,0,0,0,0
+15100,Service 717: Environmental Inspection Services,Effectiveness,93089,# of second/repeat violations issued,4720,500,300,300,300,800,0,0,0,0,0,0
+15100,Service 717: Environmental Inspection Services,Efficiency,93090,% of mandated swimming pool and spa inspections completed,100,100,100,100,100,100,0,0,0,0,0,0
+15104,Service 771: Benefits Administration,Effectiveness,92557,% of employees engaging in Wellness programs,1,2,10,15,20,35,0,0,0,0,0,0
+15104,Service 771: Benefits Administration,Outcome,92559,% of EAP cases successfully resolved (based on returns for the same reason),98,98,98,97,97,96,0,0,0,0,0,0
+15104,Service 771: Benefits Administration,Effectiveness,99304,% of benefit eligible employees who believe that the benefits comparison tool is helpful,0,70,70,75,85,85,0,0,0,0,0,0
+15104,Service 771: Benefits Administration,Output,126115,# of employees & retirees successfuly contacted through Open Enrollment outreach efforts,35000,35000,35500,36000,37000,37000,0,0,0,0,0,0
+15127,Service 707: Risk Management for Employee Injuries,Output,93023,# of Random Drug/Alcohol Tests Completed,3100,3500,3500,3500,3500,3500,0,0,0,0,0,0
+15127,Service 707: Risk Management for Employee Injuries,Output,196482,$ (in millions) associated with motor vehicle accident injuries (excluding Police and Fire),0,0,3000000,3000000,3000000,3000000,0,0,0,0,0,0
+15127,Service 707: Risk Management for Employee Injuries,Outcome,197476,# of Claims received annually (per 100 employees),0,0,15,15,15,15,0,0,0,0,0,0
+15127,Service 707: Risk Management for Employee Injuries,Effectiveness,197478,Claim $ per employee,0,0,2711,2715,2715,2715,0,0,0,0,0,0
+15513,Service 446: Family League: Community School Programs and Out of School Time,Outcome,94328,% Out of School Time participants who are not chronically absent from school (miss 20 days or fewer of school),0,0,0,0,0,0,90,90,90,90,90,90
+15513,Service 446: Family League: Community School Programs and Out of School Time,Effectiveness,94330,% average daily attendance in Out of School Time programs,0,0,0,0,0,0,90,90,90,90,93,75
+15513,Service 446: Family League: Community School Programs and Out of School Time,Efficiency,94331,"$ Grant dollars, services, and resources leveraged",0,0,0,0,0,0,13500000,21000000,23630000,24000000,24500000,31000000
+15513,Service 446: Family League: Community School Programs and Out of School Time,Effectiveness,97691,"% of Community School parents that rate parent-family involvement at their school as favorable, as measured by annual School Climate Survey",0,0,0,0,0,0,0,86,89,90,90,90
+15513,Service 446: Family League: Community School Programs and Out of School Time,Output,97692,# of youth served in Community Schools and community-based Out of School Time programs,0,0,0,0,0,0,0,25000,29000,29800,25000,25500
+15515,Service 385a: Family League: Pre and Post Natal Services,Output,94323,# of unduplicated families that receive Family League funded home visiting services,0,0,0,0,0,0,520,520,550,550,550,440
+15515,Service 385a: Family League: Pre and Post Natal Services,Effectiveness,97687,% of children receiving home visiting services that have a completed social/emotional development screening at recommended intervals,0,0,0,0,0,0,0,50,55,55,55,55
+15515,Service 385a: Family League: Pre and Post Natal Services,Outcome,97688,% of women who report smoking in pregnancy citywide,11,10.9,10.8,10.7,10.5,10.4,0,0,0,0,0,0
+15515,Service 385a: Family League: Pre and Post Natal Services,Outcome,97689,% of babies with low birth weight citywide,11.7,11.5,11.4,11.3,11.2,11.1,0,0,0,0,0,0
+15515,Service 385a: Family League: Pre and Post Natal Services,Outcome,97690,"% of children in home visiting programs who exhibit developmentally on-track social behavior, emotion regulation, and emotional well-being",0,0,0,0,0,0,0,40,80,80,80,80
+15516,Service 385b: Legal Aid,Output,94318,# of clients receiving brief advice or legal representation in a housing-related matter involving landlord/tenant cases,2150,2200,1125,1200,1200,1100,0,0,0,0,0,0
+15516,Service 385b: Legal Aid,Outcome,94321,# of evictions prevented,0,0,0,0,0,0,80,80,140,80,70,75
+15516,Service 385b: Legal Aid,Effectiveness,94322,# of new partnerships established with government and community-based agencies,0,0,0,0,0,0,10,10,60,25,15,20
+15516,Service 385b: Legal Aid,Output,94779,# of outreach sessions conducted with tenant groups,90,90,120,90,90,90,0,0,0,0,0,0
+15516,Service 385b: Legal Aid,Output,94780,# of clients receiving information and/or referrals for a housing related matter,1350,1350,1600,1600,1600,1100,0,0,0,0,0,0
+16218,Service 810: Real Estate Development,Output,92122,Total value of all projects in BDC real estate development pipeline expected to close,393500000,750000000,750000000,127000000,400000000,210000000,0,0,0,0,0,0
+16218,Service 810: Real Estate Development,Output,92793,# of commercial corridor facades completed,25,30,33,33,33,33,0,0,0,0,0,0
+16218,Service 810: Real Estate Development,Outcome,97548,$ value of private investment per dollar of public investment,10,10,10,10,25,25,0,0,0,0,0,0
+16218,Service 810: Real Estate Development,Effectiveness,97549,# of new permanent jobs per $1 million of public investment,31,8,8,230,2,19.9,0,0,0,0,0,0
+16218,Service 810: Real Estate Development,Efficiency,97550,$ ratio of private investment per FTE (in millions),1600000,1600000,1750000,6900000,25000000,15500000,0,0,0,0,0,0
+16218,Service 810: Real Estate Development,Outcome,97551,Total of all taxes at phase-in generated by BDC-controlled development projects,4500000,5000000,5000000,970000,4000000,2940000,0,0,0,0,0,0
+23817,Service 617: Criminal Justice Coordination,Output,394371,# of collaborative working groups,0,0,0,0,28,30,0,0,0,0,0,0
+23817,Service 617: Criminal Justice Coordination,Outcome,394373,# of juvenile shooting and homicide victims in Baltimore City,0,0,0,0,40,40,0,0,0,0,0,0
+23817,Service 617: Criminal Justice Coordination,Output,394381,# of individuals who received human trafficking prevention and enforcement training,0,0,0,0,1700,1700,0,0,0,0,0,0
+23817,Service 617: Criminal Justice Coordination,Outcome,394383,# of (adult) homicide and shooting victims who were under state parole and probation supervision,0,0,0,0,181,181,0,0,0,0,0,0
+23818,Service 618: Neighborhood Safety & Engagement,Outcome,92412,# of victims served,0,0,0,0,70,70,0,0,0,0,0,0
+23818,Service 618: Neighborhood Safety & Engagement,Output,126556,# of non-custodial parent and child interactions supervised at the visitation center,150,175,375,400,400,390,0,0,0,0,0,0
+23818,Service 618: Neighborhood Safety & Engagement,Output,394431,# of conflict mediations conducted through Safe Streets,0,0,840,840,840,1500,0,0,0,0,0,0
+23818,Service 618: Neighborhood Safety & Engagement,Effectiveness,394432,# of Roca participants re-arrested,0,0,0,0,35,35,0,0,0,0,0,0
+23818,Service 618: Neighborhood Safety & Engagement,Output,394433,# of young male Roca participants,0,0,0,0,100,175,0,0,0,0,0,0
+23822,Service 725: Community Services for Seniors,Output,126577,# of seniors receiving home-delivered meals,550,550,550,550,550,550,0,0,0,0,0,0
+23822,Service 725: Community Services for Seniors,Output,126578,# of seniors receiving community-served meals,4000,4000,5000,5000,5000,5000,0,0,0,0,0,0
+23822,Service 725: Community Services for Seniors,Output,126579,# of seniors receiving transportation subsidies through the Taxi Card program,4664,4664,4664,4664,4664,4664,0,0,0,0,0,0
+23822,Service 725: Community Services for Seniors,Effectiveness,126580,% of congregate meal participants reporting satisfaction with community-based meal quality,80,80,90,90,90,90,0,0,0,0,0,0
+24352,Service 155: Retirement Savings Plan,Efficiency,129848,% of participants with managed plans who have personalized their accounts,0,90,90,90,90,90,0,0,0,0,0,0
+24352,Service 155: Retirement Savings Plan,Outcome,129849,% of City employees saving at least 10% of salary towards retirement,0,90,25,25,25,50,0,0,0,0,0,0
+24352,Service 155: Retirement Savings Plan,Effectiveness,336464,#of new participant enrollments in the DCP,0,0,0,180,205,205,0,0,0,0,0,0
+24352,Service 155: Retirement Savings Plan,Effectiveness,336465,% of plan members with allocations to three or more asset classes,0,0,0,82,85,85,0,0,0,0,0,0
+24352,Service 155: Retirement Savings Plan,Output,336466,# of City employees attending an educational seminar or presentation,0,0,0,710,785,785,0,0,0,0,0,0
+24380,Service 627: Emergency Communications,Output,99719,# of 911 calls for service,800000,720000,816872,845500,850500,700000,0,0,0,0,0,0
+24380,Service 627: Emergency Communications,Efficiency,99764,% of calls for service diverted from Patrol to Telephone Reporting Unit ,13.89,13.89,3.67,3.55,5,15,0,0,0,0,0,0
+24380,Service 627: Emergency Communications,Efficiency,133891,% of priority 1 calls for service dispatched to officers in less than 60 seconds,0,90,90,15,10,75,0,0,0,0,0,0
+42976,Service 817: Orphans' Court,Output,209085,# of hearings,0,0,0,0,0,0,1500,1570,2000,2000,2300,2600
+42976,Service 817: Orphans' Court,Output,209090,# of pleadings,0,0,0,0,0,0,9000,8900,8900,8500,9000,9500
+42976,Service 817: Orphans' Court,Efficiency,209171,# of hearings per judge,0,0,0,0,0,0,500,500,600,666,680,720
+42976,Service 817: Orphans' Court,Effectiveness,209172,# of pleadings reviewed within 3 days,0,0,0,0,0,0,8100,6968,7800,7800,7850,7900
+42976,Service 817: Orphans' Court,Output,209173,# of guardians appointed,0,0,0,0,0,0,10,10,15,25,25,25
+70123,Performance Measures,Output,92217,# of citations Issued,360000,365000,388737,365058,365000,326600,0,0,0,0,0,0
+70123,Performance Measures,Efficiency,92225,Average # of minutes headway for Circulator during rush hour,14.4,14.4,16.4,13.4,15,15,0,0,0,0,0,0
+70123,Performance Measures,Output,92230,# of vehicles impounded and towed,32150,33000,31775,30926,30926,30926,0,0,0,0,0,0
+70123,Performance Measures,Effectiveness,92232,% of primary roadways at wet pavement within 8 hours of end of weather event,100,100,100,100,100,100,0,0,0,0,0,0
+70123,Performance Measures,Effectiveness,92236,% of light repairs completed on time,75,100,100,100,97,90,0,0,0,0,0,0
+70123,Performance Measures,Output,92239,"# of events served with set-up and breakdown of booths, etc.",250,250,296,328,328,328,0,0,0,0,0,0
+70123,Performance Measures,Efficiency,92243,% of Traffic Signals repaired within 24 hours of reporting,95,100,100,100,100,0,0,0,0,0,0,0
+70123,Performance Measures,Efficiency,92246,% of potholes repaired within 48 hours of reporting,100,100,95,100,100,100,0,0,0,0,0,0
+70123,Performance Measures,Output,92248,Total # of lane miles resurfaced by internal crews,60,60,60,60,50,40,0,0,0,0,0,0
+70123,Performance Measures,Output,126434,"# of ""safe routes to school"" marked",0,14,22,22,15,0,0,0,0,0,0,0
+73536,Enhancement Request FY20 ,Efficiency,129848,% of participants with managed plans who have personalized their accounts,0,90,90,90,90,90,0,0,0,0,0,0
+73536,Enhancement Request FY20 ,Outcome,129849,% of City employees saving at least 10% of salary towards retirement,0,90,25,25,25,50,0,0,0,0,0,0
+73536,Enhancement Request FY20 ,Effectiveness,336464,#of new participant enrollments in the DCP,0,0,0,180,205,205,0,0,0,0,0,0
+73536,Enhancement Request FY20 ,Effectiveness,336465,% of plan members with allocations to three or more asset classes,0,0,0,82,85,85,0,0,0,0,0,0
+73536,Enhancement Request FY20 ,Output,336466,# of City employees attending an educational seminar or presentation,0,0,0,710,785,785,0,0,0,0,0,0
+77963,Service 806: Mobile Workforce Center,Output,323710,# of established Baltimore City Neighborhoods on the route,0,0,0,5,10,10,0,0,0,0,0,0
+77963,Service 806: Mobile Workforce Center,Output,323711,# of Baltimore City residents who receive assistance through the Mobile Workforce Center,0,0,0,400,2400,1200,0,0,0,0,0,0
+77963,Service 806: Mobile Workforce Center,Efficiency,323715,Average $ cost per person receiving assistance through the Mobile Workforce Center,0,0,0,750,210,452,0,0,0,0,0,0
+77963,Service 806: Mobile Workforce Center,Effectiveness,323716,# of Mobile Workforce Center customers who receive job readiness services,0,0,0,160,960,600,0,0,0,0,0,0
+77963,Service 806: Mobile Workforce Center,Outcome,323717,# of residents who obtain employment or gain job advancement after receiving Mobile Workforce Center services,0,0,0,70,450,300,0,0,0,0,0,0
+81595,Service 500: Street Lighting (MOSS),Transportation,339670,% of citizens rating street lighting services 'good' or 'excellent',75,75,75,75,75,0,0,0,0,0,0,0
+81600,Service 683: Street Management (MOSS),Transportation,339680,% of streets meeting acceptable pavement condition standard (MOSS),62,62,64,65,65,0,0,0,0,0,0,0
+81600,Service 683: Street Management (MOSS),Transportation,339684,% of citizens rating street and sidewalk maintenance as good or excellent (MOSS),29,32,30,30,30,0,0,0,0,0,0,0
+81603,Service 687: Inner Harbor Services-DOT (MOSS),Transportation,339695,% of citizens rating the Inner Harbor appearance as good or excellent (MOSS),0,60,67,67,60,0,0,0,0,0,0,0
+81604,Service 688: Snow and Ice Control (MOSS),Transportation,339701,% of citizens rating snow removal services as good or excellent,60,85,62,62,62,0,0,0,0,0,0,0
+81611,Service 695: Dock Master (MOSS),Transportation,339731,% of Marina customers who said they were satisfied or very satisfied with service received (MOSS),100,90,100,100,100,0,0,0,0,0,0,0
+82645,Sanitary System Preventative Maintenance,Output,92510,Linear Feet of water distribution system rehabilitated/replaced,78337,99588,79800,79800,0,0,0,0,0,0,0,0
+93210,Service 702: Accounts Payable (Copy),Effectiveness,379537,% of Invoices Paid in 30 days (Copy),100,100,100,100,100,0,0,0,0,0,0,0
+93210,Service 702: Accounts Payable (Copy),MOSS Only,379537,% of Invoices Paid in 30 days (Copy),100,100,100,100,100,0,0,0,0,0,0,0
+93210,Service 702: Accounts Payable (Copy),New MOSS 2018,379537,% of Invoices Paid in 30 days (Copy),100,100,100,100,100,0,0,0,0,0,0,0
+93210,Service 702: Accounts Payable (Copy),Efficiency,379538,Cycle Time to Pay Invoice (Copy),30,30,30,30,30,0,0,0,0,0,0,0
+93210,Service 702: Accounts Payable (Copy),MOSS Only,379538,Cycle Time to Pay Invoice (Copy),30,30,30,30,30,0,0,0,0,0,0,0
+93210,Service 702: Accounts Payable (Copy),New MOSS 2018,379538,Cycle Time to Pay Invoice (Copy),30,30,30,30,30,0,0,0,0,0,0,0
+93210,Service 702: Accounts Payable (Copy),MOSS Only,379539,# of Invoices Paid (Copy),135000,120000,120000,120000,120000,0,0,0,0,0,0,0
+93210,Service 702: Accounts Payable (Copy),New MOSS 2018,379539,# of Invoices Paid (Copy),135000,120000,120000,120000,120000,0,0,0,0,0,0,0
+93210,Service 702: Accounts Payable (Copy),Output,379539,# of Invoices Paid (Copy),135000,120000,120000,120000,120000,0,0,0,0,0,0,0
+93211,Service 704: Accounting (Copy),Effectiveness,379531,# of Refunds Processed (Copy),20000,20000,16000,16000,16000,0,0,0,0,0,0,0
+93211,Service 704: Accounting (Copy),MOSS Only,379531,# of Refunds Processed (Copy),20000,20000,16000,16000,16000,0,0,0,0,0,0,0
+93211,Service 704: Accounting (Copy),New MOSS 2018,379531,# of Refunds Processed (Copy),20000,20000,16000,16000,16000,0,0,0,0,0,0,0
+93211,Service 704: Accounting (Copy),Efficiency,379532,Average # of Days for Month-End Close (Copy),5,5,5,5,5,0,0,0,0,0,0,0
+93211,Service 704: Accounting (Copy),MOSS Only,379532,Average # of Days for Month-End Close (Copy),5,5,5,5,5,0,0,0,0,0,0,0
+93211,Service 704: Accounting (Copy),New MOSS 2018,379532,Average # of Days for Month-End Close (Copy),5,5,5,5,5,0,0,0,0,0,0,0
+93211,Service 704: Accounting (Copy),MOSS Only,379533,# of Transactions/Journal Entries (Copy),2700000,2700000,2600000,2600000,2600000,0,0,0,0,0,0,0
+93211,Service 704: Accounting (Copy),New MOSS 2018,379533,# of Transactions/Journal Entries (Copy),2700000,2700000,2600000,2600000,2600000,0,0,0,0,0,0,0
+93211,Service 704: Accounting (Copy),Output,379533,# of Transactions/Journal Entries (Copy),2700000,2700000,2600000,2600000,2600000,0,0,0,0,0,0,0
+93212,Service 148: Revenue Collections (Copy),Effectiveness,379547,% of Service Requests Closed on Time (Copy),95,95,95,95,98,0,0,0,0,0,0,0
+93212,Service 148: Revenue Collections (Copy),MOSS Only,379547,% of Service Requests Closed on Time (Copy),95,95,95,95,98,0,0,0,0,0,0,0
+93212,Service 148: Revenue Collections (Copy),New MOSS 2018,379547,% of Service Requests Closed on Time (Copy),95,95,95,95,98,0,0,0,0,0,0,0
+93212,Service 148: Revenue Collections (Copy),Effectiveness,379548,Call Center Average Wait Time (Copy),7,5,7,7,9,0,0,0,0,0,0,0
+93212,Service 148: Revenue Collections (Copy),MOSS Only,379548,Call Center Average Wait Time (Copy),7,5,7,7,9,0,0,0,0,0,0,0
+93212,Service 148: Revenue Collections (Copy),New MOSS 2018,379548,Call Center Average Wait Time (Copy),7,5,7,7,9,0,0,0,0,0,0,0
+93212,Service 148: Revenue Collections (Copy),Effectiveness,379549,Collection Rate on Real Property Tax (Copy),96,96,97,97,97,0,0,0,0,0,0,0
+93212,Service 148: Revenue Collections (Copy),MOSS Only,379549,Collection Rate on Real Property Tax (Copy),96,96,97,97,97,0,0,0,0,0,0,0
+93212,Service 148: Revenue Collections (Copy),New MOSS 2018,379549,Collection Rate on Real Property Tax (Copy),96,96,97,97,97,0,0,0,0,0,0,0
+93212,Service 148: Revenue Collections (Copy),Efficiency,379550,Cost per Payment Transaction (Copy),0.86,1,0.9,0.9,0.9,0,0,0,0,0,0,0
+93212,Service 148: Revenue Collections (Copy),MOSS Only,379550,Cost per Payment Transaction (Copy),0.86,1,0.9,0.9,0.9,0,0,0,0,0,0,0
+93212,Service 148: Revenue Collections (Copy),New MOSS 2018,379550,Cost per Payment Transaction (Copy),0.86,1,0.9,0.9,0.9,0,0,0,0,0,0,0
+93212,Service 148: Revenue Collections (Copy),Output,379551,# of Calls Requiring Assistance (Copy),300000,260000,270000,270000,300000,0,0,0,0,0,0,0
+93213,Service 150: Treasury and Debt Management (Copy),Effectiveness,379544,Interest Rate on GO Bonds Issued (Copy),4,4,4.25,4.25,5.5,0,0,0,0,0,0,0
+93213,Service 150: Treasury and Debt Management (Copy),MOSS Only,379544,Interest Rate on GO Bonds Issued (Copy),4,4,4.25,4.25,5.5,0,0,0,0,0,0,0
+93213,Service 150: Treasury and Debt Management (Copy),New MOSS 2018,379544,Interest Rate on GO Bonds Issued (Copy),4,4,4.25,4.25,5.5,0,0,0,0,0,0,0
+93213,Service 150: Treasury and Debt Management (Copy),MOSS Only,379545,Rate of Return on Short-Term (6-month) investments (Copy),0.2,0.25,0.3,0.65,1,0,0,0,0,0,0,0
+93213,Service 150: Treasury and Debt Management (Copy),New MOSS 2018,379545,Rate of Return on Short-Term (6-month) investments (Copy),0.2,0.25,0.3,0.65,1,0,0,0,0,0,0,0
+93213,Service 150: Treasury and Debt Management (Copy),Output,379545,Rate of Return on Short-Term (6-month) investments (Copy),0.2,0.25,0.3,0.65,1,0,0,0,0,0,0,0
+93213,Service 150: Treasury and Debt Management (Copy),Effectiveness,379546,% of Bond Payments Made on Time (Copy),100,100,100,100,100,0,0,0,0,0,0,0
+93213,Service 150: Treasury and Debt Management (Copy),MOSS Only,379546,% of Bond Payments Made on Time (Copy),100,100,100,100,100,0,0,0,0,0,0,0
+93213,Service 150: Treasury and Debt Management (Copy),New MOSS 2018,379546,% of Bond Payments Made on Time (Copy),100,100,100,100,100,0,0,0,0,0,0,0
+93215,Service 699: Procurement (Copy),MOSS Only,379540,# of Bids per Formal Solicitation (Copy),4,4,4,4,5,0,0,0,0,0,0,0
+93215,Service 699: Procurement (Copy),New MOSS 2018,379540,# of Bids per Formal Solicitation (Copy),4,4,4,4,5,0,0,0,0,0,0,0
+93215,Service 699: Procurement (Copy),Outcome,379540,# of Bids per Formal Solicitation (Copy),4,4,4,4,5,0,0,0,0,0,0,0
+93215,Service 699: Procurement (Copy),Effectiveness,379541,% of Purchase Orders Issued Meeting Benchmark Timeframes (Copy),93,90,90,90,90,0,0,0,0,0,0,0
+93215,Service 699: Procurement (Copy),MOSS Only,379541,% of Purchase Orders Issued Meeting Benchmark Timeframes (Copy),93,90,90,90,90,0,0,0,0,0,0,0
+93215,Service 699: Procurement (Copy),New MOSS 2018,379541,% of Purchase Orders Issued Meeting Benchmark Timeframes (Copy),93,90,90,90,90,0,0,0,0,0,0,0
+93215,Service 699: Procurement (Copy),Effectiveness,379542,# of Vendors Registered in CitiBuy (Copy),16000,17000,18000,18000,21000,0,0,0,0,0,0,0
+93215,Service 699: Procurement (Copy),MOSS Only,379542,# of Vendors Registered in CitiBuy (Copy),16000,17000,18000,18000,21000,0,0,0,0,0,0,0
+93215,Service 699: Procurement (Copy),New MOSS 2018,379542,# of Vendors Registered in CitiBuy (Copy),16000,17000,18000,18000,21000,0,0,0,0,0,0,0
+93215,Service 699: Procurement (Copy),MOSS Only,379543,# of Purchase Orders Issued (Copy),21000,22000,23000,23000,24000,0,0,0,0,0,0,0
+93215,Service 699: Procurement (Copy),New MOSS 2018,379543,# of Purchase Orders Issued (Copy),21000,22000,23000,23000,24000,0,0,0,0,0,0,0
+93215,Service 699: Procurement (Copy),Output,379543,# of Purchase Orders Issued (Copy),21000,22000,23000,23000,24000,0,0,0,0,0,0,0
+93215,Service 699: Procurement (Copy),MOSS Only,379559,# of Trainings Conducted (Copy),0,0,25,200,225,0,0,0,0,0,0,0
+93215,Service 699: Procurement (Copy),New MOSS 2018,379559,# of Trainings Conducted (Copy),0,0,25,200,225,0,0,0,0,0,0,0
+93215,Service 699: Procurement (Copy),Output,379559,# of Trainings Conducted (Copy),0,0,25,200,225,0,0,0,0,0,0,0
+93216,Service 700: Surplus Property Disposal (Copy),MOSS Only,379568,Revenue Generated Annually (Copy),350000,400000,450000,450000,550000,0,0,0,0,0,0,0
+93216,Service 700: Surplus Property Disposal (Copy),New MOSS 2018,379568,Revenue Generated Annually (Copy),350000,400000,450000,450000,550000,0,0,0,0,0,0,0
+93216,Service 700: Surplus Property Disposal (Copy),Outcome,379568,Revenue Generated Annually (Copy),350000,400000,450000,450000,550000,0,0,0,0,0,0,0
+93216,Service 700: Surplus Property Disposal (Copy),MOSS Only,379569,# of Auctions Hosted (Copy),35,35,35,35,35,0,0,0,0,0,0,0
+93216,Service 700: Surplus Property Disposal (Copy),New MOSS 2018,379569,# of Auctions Hosted (Copy),35,35,35,35,35,0,0,0,0,0,0,0
+93216,Service 700: Surplus Property Disposal (Copy),Output,379569,# of Auctions Hosted (Copy),35,35,35,35,35,0,0,0,0,0,0,0
+93217,Service 701: Printing Services (Copy),MOSS Only,379560,# of Billable Jobs (Copy),0,0,0,0,0,0,15000,10000,10000,10000,10000,0
+93217,Service 701: Printing Services (Copy),New MOSS 2018,379560,# of Billable Jobs (Copy),0,0,0,0,0,0,15000,10000,10000,10000,10000,0
+93217,Service 701: Printing Services (Copy),Output,379560,# of Billable Jobs (Copy),0,0,0,0,0,0,15000,10000,10000,10000,10000,0
+93217,Service 701: Printing Services (Copy),Efficiency,379561,% Cost Recovery (Copy),110,110,100,100,100,0,0,0,0,0,0,0
+93217,Service 701: Printing Services (Copy),MOSS Only,379561,% Cost Recovery (Copy),110,110,100,100,100,0,0,0,0,0,0,0
+93217,Service 701: Printing Services (Copy),New MOSS 2018,379561,% Cost Recovery (Copy),110,110,100,100,100,0,0,0,0,0,0,0
+93217,Service 701: Printing Services (Copy),Efficiency,379563,Average # of days for print job turnaround (Copy),10,10,10,10,10,0,0,0,0,0,0,0
+93217,Service 701: Printing Services (Copy),MOSS Only,379563,Average # of days for print job turnaround (Copy),10,10,10,10,10,0,0,0,0,0,0,0
+93217,Service 701: Printing Services (Copy),New MOSS 2018,379563,Average # of days for print job turnaround (Copy),10,10,10,10,10,0,0,0,0,0,0,0
+93218,Service 703: Payroll (Copy),MOSS Only,379534,# of Off-Cycle Checks (Copy),2400,2200,1400,1400,1400,0,0,0,0,0,0,0
+93218,Service 703: Payroll (Copy),New MOSS 2018,379534,# of Off-Cycle Checks (Copy),2400,2200,1400,1400,1400,0,0,0,0,0,0,0
+93218,Service 703: Payroll (Copy),Output,379534,# of Off-Cycle Checks (Copy),2400,2200,1400,1400,1400,0,0,0,0,0,0,0
+93218,Service 703: Payroll (Copy),Efficiency,379535,Cost per Check (Copy),2.35,2.35,2.4,2.5,0,0,0,0,0,0,0,0
+93218,Service 703: Payroll (Copy),MOSS Only,379535,Cost per Check (Copy),2.35,2.35,2.4,2.5,0,0,0,0,0,0,0,0
+93218,Service 703: Payroll (Copy),New MOSS 2018,379535,Cost per Check (Copy),2.35,2.35,2.4,2.5,0,0,0,0,0,0,0,0
+93218,Service 703: Payroll (Copy),MOSS Only,379536,# of Payroll Checks/Advices Issued (Copy),565000,560000,350000,350000,390000,0,0,0,0,0,0,0
+93218,Service 703: Payroll (Copy),New MOSS 2018,379536,# of Payroll Checks/Advices Issued (Copy),565000,560000,350000,350000,390000,0,0,0,0,0,0,0
+93218,Service 703: Payroll (Copy),Output,379536,# of Payroll Checks/Advices Issued (Copy),565000,560000,350000,350000,390000,0,0,0,0,0,0,0
+93220,Service 708: Operating Budget Management (Copy),MOSS Only,379528,Annual recommended $ saved from management research projects (Copy),3000000,3000000,2000000,2000000,2000000,0,0,0,0,0,0,0
+93220,Service 708: Operating Budget Management (Copy),New MOSS 2018,379528,Annual recommended $ saved from management research projects (Copy),3000000,3000000,2000000,2000000,2000000,0,0,0,0,0,0,0
+93220,Service 708: Operating Budget Management (Copy),Outcome,379528,Annual recommended $ saved from management research projects (Copy),3000000,3000000,2000000,2000000,2000000,0,0,0,0,0,0,0
+93220,Service 708: Operating Budget Management (Copy),Effectiveness,379529,Average # of days to approve requisition (Copy),2,2,2,2,0,0,0,0,0,0,0,0
+93220,Service 708: Operating Budget Management (Copy),MOSS Only,379529,Average # of days to approve requisition (Copy),2,2,2,2,0,0,0,0,0,0,0,0
+93220,Service 708: Operating Budget Management (Copy),New MOSS 2018,379529,Average # of days to approve requisition (Copy),2,2,2,2,0,0,0,0,0,0,0,0
+93220,Service 708: Operating Budget Management (Copy),Effectiveness,379530,Revenue Forecast Accuracy (variance from budget) (Copy),2,2,2,2,2,0,0,0,0,0,0,0
+93220,Service 708: Operating Budget Management (Copy),MOSS Only,379530,Revenue Forecast Accuracy (variance from budget) (Copy),2,2,2,2,2,0,0,0,0,0,0,0
+93220,Service 708: Operating Budget Management (Copy),New MOSS 2018,379530,Revenue Forecast Accuracy (variance from budget) (Copy),2,2,2,2,2,0,0,0,0,0,0,0
+93220,Service 708: Operating Budget Management (Copy),Effectiveness,379553,# of Residents engaged in annual budget planning process (Copy),0,0,0,2835,3000,0,0,0,0,0,0,0
+93220,Service 708: Operating Budget Management (Copy),MOSS Only,379553,# of Residents engaged in annual budget planning process (Copy),0,0,0,2835,3000,0,0,0,0,0,0,0
+93220,Service 708: Operating Budget Management (Copy),New MOSS 2018,379553,# of Residents engaged in annual budget planning process (Copy),0,0,0,2835,3000,0,0,0,0,0,0,0
+93220,Service 708: Operating Budget Management (Copy),Effectiveness,379572,% of Results Team recommendations adopted in the Budget (Copy),0,0,0,80,80,0,0,0,0,0,0,0
+93220,Service 708: Operating Budget Management (Copy),MOSS Only,379572,% of Results Team recommendations adopted in the Budget (Copy),0,0,0,80,80,0,0,0,0,0,0,0
+93220,Service 708: Operating Budget Management (Copy),New MOSS 2018,379572,% of Results Team recommendations adopted in the Budget (Copy),0,0,0,80,80,0,0,0,0,0,0,0
+93221,Service 710: Fiscal Integrity and Recovery (Copy),MOSS Only,379558,$ Estimated Increase in Property Tax Revenue Attributable to Successful Appeals (Copy),0,0,0,0,0,0,0,0,600000,1250000,1250000,0
+93221,Service 710: Fiscal Integrity and Recovery (Copy),New MOSS 2018,379558,$ Estimated Increase in Property Tax Revenue Attributable to Successful Appeals (Copy),0,0,0,0,0,0,0,0,600000,1250000,1250000,0
+93221,Service 710: Fiscal Integrity and Recovery (Copy),Outcome,379558,$ Estimated Increase in Property Tax Revenue Attributable to Successful Appeals (Copy),0,0,0,0,0,0,0,0,600000,1250000,1250000,0
+93221,Service 710: Fiscal Integrity and Recovery (Copy),MOSS Only,379564,# of Appraisals Completed (Copy),0,0,0,0,0,0,0,0,650,700,700,0
+93221,Service 710: Fiscal Integrity and Recovery (Copy),New MOSS 2018,379564,# of Appraisals Completed (Copy),0,0,0,0,0,0,0,0,650,700,700,0
+93221,Service 710: Fiscal Integrity and Recovery (Copy),Output,379564,# of Appraisals Completed (Copy),0,0,0,0,0,0,0,0,650,700,700,0
+93221,Service 710: Fiscal Integrity and Recovery (Copy),Efficiency,379565,# of Days from Request to Services Rendered for CHAP Tax Credit Valuations (Copy),0,0,0,0,0,0,0,0,7,7,5,0
+93221,Service 710: Fiscal Integrity and Recovery (Copy),MOSS Only,379565,# of Days from Request to Services Rendered for CHAP Tax Credit Valuations (Copy),0,0,0,0,0,0,0,0,7,7,5,0
+93221,Service 710: Fiscal Integrity and Recovery (Copy),New MOSS 2018,379565,# of Days from Request to Services Rendered for CHAP Tax Credit Valuations (Copy),0,0,0,0,0,0,0,0,7,7,5,0
+93221,Service 710: Fiscal Integrity and Recovery (Copy),MOSS Only,379566,# of Tax Credits Granted in the Tax Credit System (Copy),0,0,3692,3950,4539,0,0,0,0,0,0,0
+93221,Service 710: Fiscal Integrity and Recovery (Copy),New MOSS 2018,379566,# of Tax Credits Granted in the Tax Credit System (Copy),0,0,3692,3950,4539,0,0,0,0,0,0,0
+93221,Service 710: Fiscal Integrity and Recovery (Copy),Output,379566,# of Tax Credits Granted in the Tax Credit System (Copy),0,0,3692,3950,4539,0,0,0,0,0,0,0
+93221,Service 710: Fiscal Integrity and Recovery (Copy),Effectiveness,379567,# of Tax Credit Applications Rejected or Revoked (Copy),0,0,0,0,0,0,0,0,30,35,40,0
+93221,Service 710: Fiscal Integrity and Recovery (Copy),MOSS Only,379567,# of Tax Credit Applications Rejected or Revoked (Copy),0,0,0,0,0,0,0,0,30,35,40,0
+93221,Service 710: Fiscal Integrity and Recovery (Copy),New MOSS 2018,379567,# of Tax Credit Applications Rejected or Revoked (Copy),0,0,0,0,0,0,0,0,30,35,40,0
+93222,Service 711: Finance Project Management (Copy),MOSS Only,379554,# of Functional Design Documents completed    (Copy),8,2,2,2,4,0,0,0,0,0,0,0
+93222,Service 711: Finance Project Management (Copy),New MOSS 2018,379554,# of Functional Design Documents completed    (Copy),8,2,2,2,4,0,0,0,0,0,0,0
+93222,Service 711: Finance Project Management (Copy),Output,379554,# of Functional Design Documents completed    (Copy),8,2,2,2,4,0,0,0,0,0,0,0
+93222,Service 711: Finance Project Management (Copy),MOSS Only,379555,# of Systems transferred off mainframe (Copy),1,3,2,2,2,0,0,0,0,0,0,0
+93222,Service 711: Finance Project Management (Copy),New MOSS 2018,379555,# of Systems transferred off mainframe (Copy),1,3,2,2,2,0,0,0,0,0,0,0
+93222,Service 711: Finance Project Management (Copy),Output,379555,# of Systems transferred off mainframe (Copy),1,3,2,2,2,0,0,0,0,0,0,0
+93222,Service 711: Finance Project Management (Copy),Effectiveness,379556,# of software packages identified that meet 80% of the user requirements   (Copy),2,2,2,2,2,0,0,0,0,0,0,0
+93222,Service 711: Finance Project Management (Copy),MOSS Only,379556,# of software packages identified that meet 80% of the user requirements   (Copy),2,2,2,2,2,0,0,0,0,0,0,0
+93222,Service 711: Finance Project Management (Copy),New MOSS 2018,379556,# of software packages identified that meet 80% of the user requirements   (Copy),2,2,2,2,2,0,0,0,0,0,0,0
+93222,Service 711: Finance Project Management (Copy),MOSS Only,379557,% of Billing Systems removed from the mainframe or new systems        (Copy),10,10,10,10,5,0,0,0,0,0,0,0
+93222,Service 711: Finance Project Management (Copy),New MOSS 2018,379557,% of Billing Systems removed from the mainframe or new systems        (Copy),10,10,10,10,5,0,0,0,0,0,0,0
+93222,Service 711: Finance Project Management (Copy),Outcome,379557,% of Billing Systems removed from the mainframe or new systems        (Copy),10,10,10,10,5,0,0,0,0,0,0,0
+93223,Service 707: Risk Management for Employee Injuries (Copy),MOSS Only,379552,# of Random Drug/Alcohol Tests Completed (Copy),3100,3500,3500,3500,3500,0,0,0,0,0,0,0
+93223,Service 707: Risk Management for Employee Injuries (Copy),New MOSS 2018,379552,# of Random Drug/Alcohol Tests Completed (Copy),3100,3500,3500,3500,3500,0,0,0,0,0,0,0
+93223,Service 707: Risk Management for Employee Injuries (Copy),Output,379552,# of Random Drug/Alcohol Tests Completed (Copy),3100,3500,3500,3500,3500,0,0,0,0,0,0,0
+93223,Service 707: Risk Management for Employee Injuries (Copy),MOSS Only,379562,$ associated with motor vehicle accident injuries (excluding Police and Fire) (Copy),0,0,3000000,3000000,3000000,0,0,0,0,0,0,0
+93223,Service 707: Risk Management for Employee Injuries (Copy),New MOSS 2018,379562,$ associated with motor vehicle accident injuries (excluding Police and Fire) (Copy),0,0,3000000,3000000,3000000,0,0,0,0,0,0,0
+93223,Service 707: Risk Management for Employee Injuries (Copy),Output,379562,$ associated with motor vehicle accident injuries (excluding Police and Fire) (Copy),0,0,3000000,3000000,3000000,0,0,0,0,0,0,0
+93223,Service 707: Risk Management for Employee Injuries (Copy),MOSS Only,379570,Claims received annually (per 100 employees) (Copy),0,0,15,15,15,0,0,0,0,0,0,0
+93223,Service 707: Risk Management for Employee Injuries (Copy),New MOSS 2018,379570,Claims received annually (per 100 employees) (Copy),0,0,15,15,15,0,0,0,0,0,0,0
+93223,Service 707: Risk Management for Employee Injuries (Copy),Output,379570,Claims received annually (per 100 employees) (Copy),0,0,15,15,15,0,0,0,0,0,0,0
+93223,Service 707: Risk Management for Employee Injuries (Copy),Effectiveness,379571,Claim cost per employee (Copy),0,0,2711,2715,2715,0,0,0,0,0,0,0
+93223,Service 707: Risk Management for Employee Injuries (Copy),MOSS Only,379571,Claim cost per employee (Copy),0,0,2711,2715,2715,0,0,0,0,0,0,0
+93223,Service 707: Risk Management for Employee Injuries (Copy),New MOSS 2018,379571,Claim cost per employee (Copy),0,0,2711,2715,2715,0,0,0,0,0,0,0
+93223,Service 707: Risk Management for Employee Injuries (Copy),MOSS Only,379573,% of agency requested safety evaluations requiring corrective action (Copy),0,0,45,50,50,0,0,0,0,0,0,0
+93223,Service 707: Risk Management for Employee Injuries (Copy),New MOSS 2018,379573,% of agency requested safety evaluations requiring corrective action (Copy),0,0,45,50,50,0,0,0,0,0,0,0
+93223,Service 707: Risk Management for Employee Injuries (Copy),Outcome,379573,% of agency requested safety evaluations requiring corrective action (Copy),0,0,45,50,50,0,0,0,0,0,0,0
+93225,Service 608: Emergency Management (MOSS),Outcome,379606,% of City agencies with a complete Continuity of Operations Plan (COOP) (MOSS),80,85,85,85,0,0,0,0,0,0,0,0
+93225,Service 608: Emergency Management (MOSS),Outcome,379607,% of City residents with emergency preparedness kits (MOSS),77,79,79,75,0,0,0,0,0,0,0,0
+93225,Service 608: Emergency Management (MOSS),Effectiveness,379608,% of City Critical Infrastructure and Key Resources partners registered in the Baltimore Emergency Communications Network (BECON) (MOSS),95,100,100,0,0,0,0,0,0,0,0,0
+93225,Service 608: Emergency Management (MOSS),Efficiency,379609,% of City personnel trained for National Incident Management System level (MOSS),95,95,95,0,0,0,0,0,0,0,0,0
+93225,Service 608: Emergency Management (MOSS),Output,379610,# of new volunteers trained in the Community Emergency Response Team (CERT) program (MOSS),50,50,50,60,0,0,0,0,0,0,0,0
+93232,Service 613: Fire Facilities Maintenance and Replacement (MOSS),Effectiveness,379682,% of ground ladders tested each year in compliance with NFPA 1932,0,0,0,100,100,0,0,0,0,0,0,0
+96426,Service 872: Workers’ Compensation Practice,Output,403012,# of claims handled each year,0,0,0,0,0,4000,0,0,0,0,0,0
+96426,Service 872: Workers’ Compensation Practice,Output,403095,# of appeals handled,0,0,0,0,0,100,0,0,0,0,0,0
+96426,Service 872: Workers’ Compensation Practice,Effectiveness,403135,"% of ""Yes/No"" issues tried and won",0,0,0,0,0,5,0,0,0,0,0,0
+96426,Service 872: Workers’ Compensation Practice,Outcome,403139,% of savings below the mid-point rating,0,0,0,0,0,1,0,0,0,0,0,0
+97178,Service 593: Community Support Projects (Copy),Outcome,399001,"# of households that receive housing related services (housing/foreclosure prevention counseling, lead paint remediation, housing rehab, etc.) (Copy)",5500,5850,6900,6000,6200,5600,0,0,0,0,0,0
+97178,Service 593: Community Support Projects (Copy),Outcome,399002,"# of persons who receive socio-economic services (health, economic development, senior services, education, employment and job training, literacy etc.) (Copy)",20100,21500,23500,24500,26700,25500,0,0,0,0,0,0
+97178,Service 593: Community Support Projects (Copy),Effectiveness,399003,% of activities carried out by subrecipients and City agencies that met contractual goals. (Copy),96,97,97,97,97,97,0,0,0,0,0,0
+97178,Service 593: Community Support Projects (Copy),Output,399008,# of times subrecipients and City agencies are monitored against contractual goals (Copy),284,265,265,275,272,250,0,0,0,0,0,0
+97178,Service 593: Community Support Projects (Copy),Efficiency,399015,% of all monitoring review letters sent within 15 working days following an onsite programmatic or financial compliance review (Copy),0,0,0,0,0,80,0,0,0,0,0,0
+97179,Service 604-Before and After Care (Copy),Effectiveness,398999,% of children who begin the school ready to learn (Copy),60,100,90,90,0,90,0,0,0,0,0,0
+97179,Service 604-Before and After Care (Copy),Efficiency,399000,Average cost per child per year (Copy),4000,4000,4000,4000,4000,4000,0,0,0,0,0,0
+97179,Service 604-Before and After Care (Copy),Efficiency,399011,Participant school attendance rate (Copy),98,100,100,100,100,100,0,0,0,0,0,0
+97179,Service 604-Before and After Care (Copy),Output,399016,# of children served (Copy),0,0,0,0,0,71,0,0,0,0,0,0
+97179,Service 604-Before and After Care (Copy),Outcome,399017,% of capacity filled per year (Copy),0,0,0,0,0,90,0,0,0,0,0,0
+97180,Service 738: Weatherization (Copy),Output,398997,# of No Heat emergencies abated (Copy),250,250,100,50,50,13,0,0,0,0,0,0
+97180,Service 738: Weatherization (Copy),Output,398998,# of homes weatherized (Copy),1000,1000,600,300,300,350,0,0,0,0,0,0
+97180,Service 738: Weatherization (Copy),Efficiency,399041,Average cost per weatherization case (Copy),0,0,0,0,,0,0,0,0,0,0,0
+97181,Service 740: Dawson Center (Copy),Output,398996,# of children served (Copy),75,75,200,200,200,200,0,0,0,0,0,0
+97181,Service 740: Dawson Center (Copy),Efficiency,399012,"Average cost per year, per child (Copy)",0,3630,3000,3000,3000,3000,0,0,0,0,0,0
+97181,Service 740: Dawson Center (Copy),Effectiveness,399013,# of eligible children returning for service at start of school year (Copy),95,90,150,100,100,0,0,0,0,0,0,0
+97181,Service 740: Dawson Center (Copy),Effectiveness,399014,# of summer programs offered to reduce summer learning loss (Copy),0,5,6,6,6,7,0,0,0,0,0,0
+97182,"Service 749: Property Acquisition, Disposition, and Asset Management (Copy)",Outcome,398989,% of properties sold that are under construction or have a use and occupancy permit (Copy),80,80,80,80,80,0,0,0,0,0,0,0
+97182,"Service 749: Property Acquisition, Disposition, and Asset Management (Copy)",Effectiveness,398990,% of dispositions completed within 120 days (Copy),90,90,90,90,90,0,0,0,0,0,0,0
+97182,"Service 749: Property Acquisition, Disposition, and Asset Management (Copy)",Efficiency,398991,Average # of days to complete acquisition of properties in focused project areas (Copy),365,365,365,365,365,0,0,0,0,0,0,0
+97182,"Service 749: Property Acquisition, Disposition, and Asset Management (Copy)",Output,399032,# of property acquisitions completed in FY (Copy),0,0,0,0,0,400,0,0,0,0,0,0
+97182,"Service 749: Property Acquisition, Disposition, and Asset Management (Copy)",Output,399033,# of resident relocations completed in FY (Copy),0,0,0,0,0,52,0,0,0,0,0,0
+97182,"Service 749: Property Acquisition, Disposition, and Asset Management (Copy)",Output,399034,# of property dispositions completed in FY (Copy),0,0,0,0,0,180,0,0,0,0,0,0
+97183,Service 751: Building and Zoning Inspections and Permits (Copy),Effectiveness,398985,% of inspections scheduled for the next business day and completed that day (Copy),85,85,85,75,80,85,0,0,0,0,0,0
+97183,Service 751: Building and Zoning Inspections and Permits (Copy),Efficiency,398986,% of eligible permits processed and issued entirely online (Copy),100,25,25,75,90,90,0,0,0,0,0,0
+97183,Service 751: Building and Zoning Inspections and Permits (Copy),Output,398987,# of permits issued (Copy),32000,33000,33000,33000,33000,33000,0,0,0,0,0,0
+97183,Service 751: Building and Zoning Inspections and Permits (Copy),Output,399005,# of inspections (Copy),70000,70000,72000,72000,72000,75000,0,0,0,0,0,0
+97183,Service 751: Building and Zoning Inspections and Permits (Copy),Effectiveness,399006,# of trade inspections per inspector per day (Copy),15,15,16,15,15,15,0,0,0,0,0,0
+97184,Service 752: Community Outreach Services (Copy),Output,398984,# of clients receiving assistance with sheltering (Copy),240,300,400,550,400,210,0,0,0,0,0,0
+97184,Service 752: Community Outreach Services (Copy),Outcome,399009,# of families housed through emergency services (Copy),220,200,225,250,250,121,0,0,0,0,0,0
+97184,Service 752: Community Outreach Services (Copy),Effectiveness,399010,# of households at risk of homelessness served each year (Copy),278,200,200,200,0,0,0,0,0,0,0,0
+97184,Service 752: Community Outreach Services (Copy),Output,399040,# of emergency responses per year (Copy),0,0,0,0,0,400,0,0,0,0,0,0
+97186,Service 742: Promote Homeownership (Copy),Output,398994,# of incentives provided (Copy),824,850,775,775,800,657,0,0,0,0,0,0
+97186,Service 742: Promote Homeownership (Copy),Outcome,398995,% of incentive recipients who are new city residents (Copy),0,21,23,24,27,25,0,0,0,0,0,0
+97186,Service 742: Promote Homeownership (Copy),Efficiency,399018,# of days on average from complete application date to decision date (Copy),0,0,0,0,0,15,0,0,0,0,0,0
+97186,Service 742: Promote Homeownership (Copy),Effectiveness,399019,% of incentives provided to Low & Moderate Income homebuyers (Copy),0,0,0,0,0,51,0,0,0,0,0,0
+97187,Service 745: Housing Code Enforcement (Copy),Output,398992,# of property maintenance code enforcement inspections (Copy),275000,280000,240000,240000,220000,240000,0,0,0,0,0,0
+97187,Service 745: Housing Code Enforcement (Copy),Effectiveness,398993,% of service requests closed on time (15 days) (Copy),96,99,90,90,90,90,0,0,0,0,0,0
+97187,Service 745: Housing Code Enforcement (Copy),Efficiency,399021,% of interior notice reinspections completed on time (Copy),0,0,0,0,70,70,0,0,0,0,0,0
+97187,Service 745: Housing Code Enforcement (Copy),Outcome,399022,# of interior notices abated (Copy),0,0,0,0,3000,3000,0,0,0,0,0,0
+97187,Service 745: Housing Code Enforcement (Copy),Outcome,399023,# of structures released for demolition or stabilization (Copy),0,0,0,0,0,500,0,0,0,0,0,0
+97188,Service 748: Affordable Housing (Copy),Efficiency,399028,Ratio of total development cost to city dollars contributed (Copy),0,0,0,0,0,6,0,0,0,0,0,0
+97188,Service 748: Affordable Housing (Copy),Effectiveness,399029,City dollars contributed per affordable housing unit created (Copy),0,0,0,0,0,30000,0,0,0,0,0,0
+97188,Service 748: Affordable Housing (Copy),Output,399030,City contribution to affordable housing creation (Copy),0,0,0,0,0,3000000,0,0,0,0,0,0
+97188,Service 748: Affordable Housing (Copy),Outcome,399031,Total affordable housing units created (Copy),0,0,0,0,0,315,0,0,0,0,0,0
+97189,Service 750: Housing Rehabilitation Services (Copy),Outcome,398988,% of homeowners still occupying unit after 5 years (Copy),95,95,85,85,85,90,0,0,0,0,0,0
+97189,Service 750: Housing Rehabilitation Services (Copy),Output,399004,# of houses remediated for lead (Copy),80,80,85,62,50,80,0,0,0,0,0,0
+97189,Service 750: Housing Rehabilitation Services (Copy),Efficiency,399035,Average value of rehab loans and grants closed (Copy),0,0,0,0,0,13000,0,0,0,0,0,0
+97189,Service 750: Housing Rehabilitation Services (Copy),Effectiveness,399036,% of lead clearance tests passed on first attempt (Copy),0,0,0,0,0,96,0,0,0,0,0,0
+97189,Service 750: Housing Rehabilitation Services (Copy),Effectiveness,399037,% of total rehab quality control inspections passed on first attempt (Copy),0,0,0,0,0,85,0,0,0,0,0,0
+97189,Service 750: Housing Rehabilitation Services (Copy),Output,399038,# of rehab loans and grants closed (Copy),0,0,0,0,0,212,0,0,0,0,0,0
+97190,Service 754: Summer Food Service Program (Copy),Efficiency,398980,Cost per meal (Copy),3,4,5,5,5,5,0,0,0,0,0,0
+97190,Service 754: Summer Food Service Program (Copy),Output,398981,# of Meals Served (Copy),1500000,800075,1000000,1000000,750000,700000,0,0,0,0,0,0
+97190,Service 754: Summer Food Service Program (Copy),Output,398982,# of Sites (Copy),500,400,400,400,400,350,0,0,0,0,0,0
+97190,Service 754: Summer Food Service Program (Copy),Effectiveness,398983,% of unused meals (Copy),0,0,2,2,3.5,3.5,0,0,0,0,0,0
+97191,Service 747: Register and License Properties and Contractors (Copy),Output,399007,# number of burglar alarm accounts created (Copy),40000,40000,10000,10000,10000,11000,0,0,0,0,0,0
+97191,Service 747: Register and License Properties and Contractors (Copy),Efficiency,399024,% of property registrations issued on time (Copy),0,0,0,0,70,70,0,0,0,0,0,0
+97191,Service 747: Register and License Properties and Contractors (Copy),Effectiveness,399025,% of all rental properties licensed (FY) (Copy),0,0,0,0,0,70,0,0,0,0,0,0
+97191,Service 747: Register and License Properties and Contractors (Copy),Output,399026,# of rental properties licensed (FY) (Copy),0,0,0,0,0,45000,0,0,0,0,0,0
+97191,Service 747: Register and License Properties and Contractors (Copy),Outcome,399027,% of properties receiving a license for 2 or more years   (Copy),0,0,0,0,0,100,0,0,0,0,0,0
+99213,Service 649: Special Facilities Management (MOSS),Effectiveness,154163,% of City parkland actively maintained for public use [no longer used],0,85,90,90,90,90,0,0,0,0,0,0
+99224,Service 652: Therapeutic Recreation (MOSS),Efficiency,390749,Overall attendance/registration % for TR programs/events,0,0,0,0,0,95,0,0,0,0,0,0
+99809,Review and enhance the structural and organizational effectiveness of BPD,Output,408675,total # of officers budgeted for patrol,0,0,0,0,0,0,0,0,0,0,0,0
+99809,Review and enhance the structural and organizational effectiveness of BPD,Output,408676,overtime expenditure by fiscal year,0,0,0,0,0,0,0,0,0,0,0,0
+99809,Review and enhance the structural and organizational effectiveness of BPD,Output,408726,sworn strength,0,0,0,0,0,0,0,0,0,0,0,0
+33794946,1011,1011,198016394,1011,808923406.2,1546243072,1633050245,1084531511,8036909925,7550023608,13693452.2,21198313.2,25599573.2,29723873.2,30220149.2,33318616.2

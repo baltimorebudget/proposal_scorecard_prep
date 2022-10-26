@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1609426040516.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4030011983",
+    "id" : "6CC1C0D1",
+    "lastKnownWriteTime" : 1609426426,
+    "last_content_update" : 1609426426899,
+    "path" : "G:/Analyst Folders/Lillian/exp_planning_year/2_proposal_scorecard/1_target_comparison.R",
+    "project_path" : "1_target_comparison.R",
+    "properties" : {
+        "cursorPosition" : "10,34",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

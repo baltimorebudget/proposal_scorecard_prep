@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1644349041947.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AFDE0168",
+    "lastKnownWriteTime" : 7785080133906489714,
+    "last_content_update" : 1644349041947,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "acae35d69c6042b9924945957207e3ea",
+        "name" : "scorecard_pivot",
+        "title" : "scorecard_pivot"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

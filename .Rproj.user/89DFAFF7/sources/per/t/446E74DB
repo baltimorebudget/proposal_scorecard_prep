@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1644343680386.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "446E74DB",
+    "lastKnownWriteTime" : 8387235364731822124,
+    "last_content_update" : 1644343680386,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "5af777c3d1644363b072d4907eb72278",
+        "name" : "scorecard_df",
+        "title" : "scorecard_df"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

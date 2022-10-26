@@ -1,0 +1,90 @@
+#' Format number
+#'
+#' @param x Numeric vector. Number(s) to format.
+#' @param scale "auto", "k", "m", or "b" to specify if a scaling factor should
+#' be used on x. If "auto", automatically detect the scale. If NULL, leave
+#' numbers as-is.
+#' @param suffix "scale" (DEFAULT), "word", or "none" to specify if the scaled
+#'  number should be abbreviated ("scale"), spelled out like "million" ("word"),
+#'  or not shown at all ("none")
+#' @param dollar_sign Logical. If TRUE, use $ as prefix. If FALSE, no prefix.
+#' @param accuracy Numeric. A number to round to, like 0.01 to show 2 decimal
+#' places of precision.
+#' @param negative_parens Logical. If TRUE, use accounting format to show
+#' negative numbers with (). If FALSE, negative numbers formatted with -.
+#'
+#' @return A number as a formatted string
+#'
+#' @examples
+#' format_number(x = 123456789, dollar_sign = TRUE)
+#' format_number(x = 123456789, "m")
+#' format_number(x = 123456789, "m", accuracy = 0.01, word = TRUE)
+#'
+#' @importFrom scales dollar
+#' @importFrom dplyr case_when
+#' @export
+
+format_number <- function(
+  x, scale = NULL, suffix = "scale",
+  dollar_sign = FALSE, accuracy = 0.1, negative_parens = TRUE) {
+
+  stopifnot("x must be numeric" = is.numeric(x))
+
+  dollar_sign <- ifelse(dollar_sign, "$", "")
+
+  if (!is.null(scale)) {
+    stopifnot("If specified, scale must be 'auto', 'k', 'm', or 'b'" =
+                scale %in% c("auto", "k", "m", "b")
+    )
+
+    if (identical(scale, "auto")) {
+      scale <- case_when(x >= 1000000000 ~ "b",
+                         x >= 1000000 ~ "m",
+                         TRUE ~ "k")
+    }
+
+    if (identical(suffix, "word")) {
+      suffix <- switch(scale, m = " million", b = " billion", k = " thousand")
+    } else if (identical(suffix, "none")) {
+      suffix <- ""
+    } else {
+      suffix <- toupper(scale)
+    }
+
+    scale <- sapply(scale, switch, m = 1e-6, b = 1e-9, k = 1e-3)
+
+    dollar(
+      x, scale = scale, accuracy = accuracy, negative_parens = negative_parens,
+      prefix = dollar_sign, suffix = suffix, big.mark = ",", sep = "")
+
+  } else {
+
+    dollar(
+      x, accuracy = accuracy, negative_parens = negative_parens,
+      prefix = dollar_sign, big.mark = ",", sep = "")
+
+  }
+}
+
+#' Format table numbers
+#'
+#' Format any numeric columns in a data frame in a consistent way, by applying
+#' format_number()
+#'
+#' @inheritParams format_number
+#'
+#' @return A data frame.
+#'
+#' @importFrom dplyr mutate_if
+#' @export
+
+format_table_numbers <- function(
+  df, scale = NULL, suffix = "none",
+  dollar_sign = FALSE, accuracy = 1L, negative_parens = TRUE) {
+
+  df %>%
+    mutate_if(is.numeric,
+              format_number,
+              scale = scale, suffix = suffix, negative_parens = negative_parens,
+              dollar_sign = dollar_sign, accuracy = accuracy)
+}

@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1644348541039.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "738C9F83",
+    "lastKnownWriteTime" : 2015288569856,
+    "last_content_update" : 1644348541039,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "context" : "package:bookDataPrep:::get_sc_value"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_code_browser"
+}

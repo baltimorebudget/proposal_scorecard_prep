@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1607007807901.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "442F1701",
+    "lastKnownWriteTime" : 25896170310402169,
+    "last_content_update" : 1607007807901,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "58C907A4",
+        "caption" : "dollars",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dollars&cache_key=58C907A4",
+        "displayedObservations" : "313",
+        "environment" : "",
+        "object" : "dollars",
+        "preview" : "0",
+        "totalObservations" : "313",
+        "variables" : "7"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

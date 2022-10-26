@@ -1,0 +1,7 @@
+{
+    "installOptions" : {
+        "installDependencies" : true,
+        "installFromRepository" : true,
+        "libraryPath" : "C:/Users/lillian.nguyen/Documents/R-Portable/App/R-Portable/library"
+    }
+}

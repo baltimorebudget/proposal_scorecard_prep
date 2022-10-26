@@ -1,0 +1,9 @@
+# http://support.clearimpact.com/api
+# https://api.resultsscorecard.com/test
+
+test <- httr::POST("https://api.resultsscorecard.com/api/results/details", 
+             body = 
+               list(siteCode = "OutcomeStat",
+                    apiKey = "j0R8z03kqCTC2I1cSQLkwLJLjqtenbQUOgpHpGyCsbwtlLOANlndAMuJNgIHXAoVeIBRshROormCYo7hPSSg1Q==",
+                    id = "31009"),
+           encode = "json")
