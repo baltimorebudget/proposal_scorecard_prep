@@ -16,7 +16,7 @@ source("G:/Budget Publications/automation/0_data_prep/bookHelpers/R/formatting.R
 ##position data ===============
 
 positions_22 <- import("G:/Fiscal Years/Fiscal 2022/Projections Year/1. July 1 Prepwork/Positions/FY22 Position File Reset to DHR.xlsx", which = "FY22 All Positions") %>%
-  filter(Funding == "Funded" & !is.na(`Job  Number`)) %>%
+  filter(Funding == "Funded" & !is.na(`Job  Number`) & `SI ID Name` != "PPT (Perm PT)") %>%
   mutate(Fund = case_when(`Fund ID` == 1001 ~ "General Fund",
                           TRUE ~ "Other Funds"),
          FY = 2022) %>%
@@ -24,7 +24,7 @@ positions_22 <- import("G:/Fiscal Years/Fiscal 2022/Projections Year/1. July 1 P
   summarise(`FY22 Positions` = n())
 
 positions_23 <- import("G:/Fiscal Years/Fiscal 2023/Projections Year/1. July 1 Prepwork/Positions/Fiscal 2023 Appropriation File_Change_Tables.xlsx") %>%
-  filter(FUNDING == "Funded" & !is.na(`JOB NUMBER`)) %>%
+  filter(FUNDING == "Funded" & !is.na(`JOB NUMBER`) & `SI ID NAME` != "PPT (Perm PT)") %>%
   mutate(Fund = case_when(`FUND ID` == 1001 ~ "General Fund",
                           TRUE ~ "Other Funds"),
          FY = 2023) %>%
@@ -32,7 +32,7 @@ positions_23 <- import("G:/Fiscal Years/Fiscal 2023/Projections Year/1. July 1 P
   summarise(`FY23 Positions` = n())
 
 positions_24 <- import("G:/Fiscal Years/Fiscal 2024/Planning Year/1. CLS/2. Position Reports/PositionsSalariesOpcs_2022-10_14_CLS.xlsx", which = "FY24 CLS") %>%
-  filter(!is.na(`JOB NUMBER`)) %>%
+  filter(!is.na(`JOB NUMBER`) & `SI NAME` != "PPT (Perm PT)") %>%
   mutate(Fund = case_when(`FUND ID` == 1001 ~ "General Fund",
                           TRUE ~ "Other Funds"),
          FY = 2024) %>%
@@ -66,8 +66,9 @@ actuals <- import("G:/Fiscal Years/Fiscal 2022/Projections Year/2. Monthly Expen
 # rename(`FY22 Actual General Fund` = `General Fund`, `FY22 Actual Other Funds` = `Other Funds`)
 
 #current budget and prior adopted
-cls <- import("G:/Fiscal Years/Fiscal 2024/Planning Year/1. CLS/1. Line Item Reports/line_items_2022-10-26 - mmk in progress - do not touch.xlsx",
-              which = "Line Items") %>%
+cls <- import("G:/Fiscal Years/Fiscal 2024/Planning Year/1. CLS/1. Line Item Reports/line_items_2022-10-26 - 1035PM with BCIT and Fire.xlsx",
+              which = "FY24 Line Item") %>%
+  select(-`...23`, -`...24`, -`...25`, -`...26`, -`...27`) %>%
   mutate(Fund = case_when(`Fund ID` == 1001 ~ "General Fund",
                           TRUE ~ "Other Funds"),
          FY = 2024,
@@ -75,8 +76,9 @@ cls <- import("G:/Fiscal Years/Fiscal 2024/Planning Year/1. CLS/1. Line Item Rep
   group_by(Type, FY, `Agency ID`, `Agency Name`, `Program ID`, `Program Name`, `Fund`) %>%
   summarise(`FY24 CLS` = replace_na(sum(`FY24 CLS`, na.rm = TRUE), 0)) 
 
-budget_23 <- import("G:/Fiscal Years/Fiscal 2024/Planning Year/1. CLS/1. Line Item Reports/line_items_2022-10-26 - mmk in progress - do not touch.xlsx",
-              which = "Line Items") %>%
+budget_23 <- import("G:/Fiscal Years/Fiscal 2024/Planning Year/1. CLS/1. Line Item Reports/line_items_2022-10-26 - 1035PM with BCIT and Fire.xlsx",
+              which = "FY24 Line Item") %>%
+  select(-`...23`, -`...24`, -`...25`, -`...26`, -`...27`) %>%
   mutate(Fund = case_when(`Fund ID` == 1001 ~ "General Fund",
                           TRUE ~ "Other Funds"),
          FY = 2023,
@@ -100,4 +102,21 @@ df <- expend %>% rbind(positions) %>%
   mutate(`General Fund` = format_number(`General Fund`, accuracy = 1),
          `Other Funds` = format_number(`Other Funds`, accuracy = 1))
 
-export_excel(df, tab_name = "FY22-FY24", "outputs/FY24 Budget Data.xlsx")
+export_excel(df, tab_name = "FY22-FY24", "outputs/FY24 Budget Data for Scorecard.xlsx")
+
+##numbers check
+
+gf_22_pos <- positions %>% filter(Fund == "General Fund" & FY == 2022)
+sum(gf_22_pos$Total, na.rm = TRUE)
+
+gf_23 <- expend %>% filter(Fund == "General Fund" & FY == 2023)
+sum(gf_23$Total, na.rm = TRUE)
+
+gf_23_pos <- positions %>% filter(Fund == "General Fund" & FY == 2023)
+sum(gf_23_pos$Total, na.rm = TRUE)
+
+gf_23_pos <- positions %>% filter(FY == 2023)
+sum(gf_23_pos$Total, na.rm = TRUE)
+
+gf_24 <- expend %>% filter(Fund == "General Fund" & FY == 2024)
+sum(gf_24$Total, na.rm = TRUE)
