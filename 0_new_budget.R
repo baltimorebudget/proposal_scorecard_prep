@@ -13,6 +13,8 @@ devtools::load_all("G:/Analyst Folders/Sara Brumfield/bbmR")
 source("G:/Budget Publications/automation/0_data_prep/bookDataPrep/R/scorecard.R")
 source("G:/Budget Publications/automation/0_data_prep/bookHelpers/R/formatting.R")
 
+##this code is a hot mess!! use at your own peril!!
+
 ##position data ===============
 
 positions_22 <- import("G:/Fiscal Years/Fiscal 2022/Projections Year/1. July 1 Prepwork/Positions/FY22 Position File Reset to DHR.xlsx", which = "FY22 All Positions") %>%
@@ -52,18 +54,26 @@ positions <- positions_24 %>%
 
 colnames(positions)<- c("Type", "FY", "Agency ID", "Agency Name", "Program ID", "Program Name", "Fund", "Total")
 
+pivot <- positions %>%
+  pivot_wider(names_from = c(FY, Fund), values_from = Total, values_fn = sum) %>%
+  mutate_if(is.numeric, replace_na, 0)
+
+export_excel(pivot, tab_name = "FY22-FY24 Positions", "inputs/FY22-FY23-FY24.xlsx", type = "existing")
+
 ##expenditure data ========================
 ##two fiscal years ago
 actuals <- import("G:/Fiscal Years/Fiscal 2022/Projections Year/2. Monthly Expenditure Data/Month 12_June Projections/Expenditure 2022-06_Run7.xlsx",
                   which = "CurrentYearExpendituresActLevel") %>%
+  select(`Agency ID`:`Subobject Name`, `BAPS YTD EXP`) %>%
   mutate(Fund = case_when(`Fund ID` == 1001 ~ "General Fund",
                           TRUE ~ "Other Funds"),
-         FY = 2022,
          Type = "Expenditures") %>%
-  group_by(Type, FY, `Agency ID`, `Agency Name`, `Program ID`,  `Program Name`, `Fund`) %>%
-  summarise(`FY22 Actual` = replace_na(sum(`BAPS YTD EXP`, na.rm = TRUE), 0)) 
+  group_by(Type, `Agency ID`, `Agency Name`, `Program ID`,  `Program Name`, `Fund`) %>%
+  summarise(`FY22 Actual` = replace_na(sum(`BAPS YTD EXP`, na.rm = TRUE), 0)) %>%
+#   mutate(`Fund Name` = Fund) %>%
 # pivot_wider(names_from = Fund, values_from = `FY22 Actual`) %>%
-# rename(`FY22 Actual General Fund` = `General Fund`, `FY22 Actual Other Funds` = `Other Funds`)
+# rename(`FY22 Actual General Fund` = `General Fund`, `FY22 Actual Other Funds` = `Other Funds`) %>%
+  mutate_if(is.numeric, replace_na, 0)
 
 #current budget and prior adopted
 cls <- import("G:/Fiscal Years/Fiscal 2024/Planning Year/1. CLS/1. Line Item Reports/line_items_2022-10-26 - 1035PM with BCIT and Fire.xlsx",
@@ -71,38 +81,53 @@ cls <- import("G:/Fiscal Years/Fiscal 2024/Planning Year/1. CLS/1. Line Item Rep
   select(-`...23`, -`...24`, -`...25`, -`...26`, -`...27`) %>%
   mutate(Fund = case_when(`Fund ID` == 1001 ~ "General Fund",
                           TRUE ~ "Other Funds"),
-         FY = 2024,
          Type = "Expenditures") %>%
-  group_by(Type, FY, `Agency ID`, `Agency Name`, `Program ID`, `Program Name`, `Fund`) %>%
-  summarise(`FY24 CLS` = replace_na(sum(`FY24 CLS`, na.rm = TRUE), 0)) 
+  group_by(Type, `Agency ID`, `Agency Name`, `Program ID`, `Program Name`, `Fund`) %>%
+  summarise(`FY24 CLS` = replace_na(sum(`FY24 CLS`, na.rm = TRUE), 0),
+            `FY23 Budget` = replace_na(sum(`FY23 Adopted`, na.rm = TRUE), 0))
 
-budget_23 <- import("G:/Fiscal Years/Fiscal 2024/Planning Year/1. CLS/1. Line Item Reports/line_items_2022-10-26 - 1035PM with BCIT and Fire.xlsx",
-              which = "FY24 Line Item") %>%
-  select(-`...23`, -`...24`, -`...25`, -`...26`, -`...27`) %>%
-  mutate(Fund = case_when(`Fund ID` == 1001 ~ "General Fund",
-                          TRUE ~ "Other Funds"),
-         FY = 2023,
-         Type = "Expenditures") %>%
-  group_by(Type, FY, `Agency ID`, `Agency Name`, `Program ID`, `Program Name`, `Fund`) %>%
-  summarise(`FY23 Budget` = replace_na(sum(`FY23 Adopted`, na.rm = TRUE), 0)) 
+expend <- cls %>%
+  # mutate(`Fund Name` = Fund) %>%
+  group_by(Type, `Agency ID`, `Agency Name`, `Program ID`, `Program Name`, `Fund`) %>%
+  summarise(`FY23 Budget` = sum(`FY23 Budget`, na.rm = TRUE),
+            `FY24 CLS` = sum(`FY24 CLS`, na.rm = TRUE)) %>%
+  # pivot_wider(names_from = Fund, values_from = c(`FY24 CLS`, `FY23 Budget`), values_fn= sum) %>%
+  mutate_if(is.numeric, replace_na, 0)
+
+# budget_23 <- import("G:/Fiscal Years/Fiscal 2024/Planning Year/1. CLS/1. Line Item Reports/line_items_2022-10-26 - 1035PM with BCIT and Fire.xlsx",
+#               which = "FY24 Line Item") %>%
+#   select(-`...23`, -`...24`, -`...25`, -`...26`, -`...27`) %>%
+#   mutate(Fund = case_when(`Fund ID` == 1001 ~ "General Fund",
+#                           TRUE ~ "Other Funds"),
+#          FY = 2023,
+#          Type = "Expenditures") %>%
+#   group_by(Type, FY, `Agency ID`, `Agency Name`, `Program ID`, `Program Name`, `Fund`) %>%
+#   summarise(`FY23 Budget` = replace_na(sum(`FY23 Adopted`, na.rm = TRUE), 0)) 
 
 ##join datasets ====================
-expend <- cls %>% full_join(budget_23, by = c("Type", "FY", "Agency ID", "Agency Name", "Program ID", "Program Name", "Fund")) %>%
-  full_join(actuals, by = c("Type", "FY", "Agency ID", "Agency Name", "Program ID", "Program Name", "Fund")) %>%
+df <- expend %>% full_join(actuals, by = c("Type", "Agency ID", "Agency Name", "Program ID", "Program Name", "Fund")) %>%
+  pivot_wider(names_from = Fund, values_from = c("FY22 Actual", "FY23 Budget", "FY24 CLS")) %>%
+  arrange(`Agency ID`, `Program ID`, Type) %>%
   mutate_if(is.numeric, replace_na, 0) %>%
-  mutate(Total = `FY24 CLS` + `FY23 Budget` + `FY22 Actual`) %>%
-  relocate(`Type`, .before = `FY`) %>%
-  select(-`FY24 CLS`, -`FY23 Budget`, -`FY22 Actual`)
+  filter(!is.na(`Agency ID`)) 
+
+
+  # full_join(actuals, by = c("Type", "Agency ID", "Agency Name", "Program ID", "Program Name", "Fund")) %>%
+  # mutate_if(is.numeric, replace_na, 0) %>%
+  # mutate(Total = `FY24 CLS` + `FY23 Budget` + `FY22 Actual`) %>%
+  # pivot_wider(names_from = Fund, values_from = c(FY, Total))
+  # relocate(`Type`, .before = `FY`) %>%
+  # select(-`FY24 CLS`, -`FY23 Budget`, -`FY22 Actual`)
 
 df <- expend %>% rbind(positions) %>%
-    pivot_wider(names_from = Fund, values_from = c(Total)) %>%
+    pivot_wider(names_from = Fund, values_from = c(FY, Total)) %>%
   arrange(`Agency ID`, `Program ID`, Type, FY) %>%
   mutate_if(is.numeric, replace_na, 0) %>%
   filter(!is.na(`Agency ID`)) %>%
   mutate(`General Fund` = format_number(`General Fund`, accuracy = 1),
          `Other Funds` = format_number(`Other Funds`, accuracy = 1))
 
-export_excel(df, tab_name = "FY22-FY24", "outputs/FY24 Budget Data for Scorecard.xlsx")
+export_excel(df, tab_name = "FY22-FY24 Expenditures", "inputs/FY22-FY23-FY24.xlsx", type = "existing")
 
 ##numbers check
 
